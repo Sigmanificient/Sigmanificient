@@ -41,4 +41,4 @@
 
 <br>
 
-![Sigmanificient's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sigmanificient&hide=stars,prs,issues)
+![Sigmanificient's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sigmanificient&hide=stars,prs,issues&show_icons=true&theme=dark)
