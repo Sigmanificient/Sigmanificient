@@ -2,7 +2,7 @@
     <h1>Sigmanificient</h1>
 </div>
 
-#Languages
+# Languages
 
 <div id="languages">
     <img style="padding:8px;" src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/python.png" height="32px">
