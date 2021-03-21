@@ -41,7 +41,9 @@
 
 <br>
 <hr>
+
 ## Other infos
 
 ![Sigmanificient's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sigmanificient&hide=stars,prs,issues&show_icons=true&theme=dark)
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sigmanificient&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
