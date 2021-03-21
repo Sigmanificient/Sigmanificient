@@ -40,5 +40,8 @@
 </div>
 
 <br>
+<hr>
+## Other infos
 
 ![Sigmanificient's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sigmanificient&hide=stars,prs,issues&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?usernameSigmanificientlayout=compact)](https://github.com/Sigmanificient/github-readme-stats)
