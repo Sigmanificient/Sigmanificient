@@ -40,7 +40,6 @@
 </div>
 
 <br>
-<hr>
 
 ## Other infos
 
