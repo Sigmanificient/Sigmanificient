@@ -24,6 +24,9 @@
     <a href="https://www.jetbrains.com/rider/">
         <img style="padding:8px;" src="https://github.com/Sigmanificient/Sigmanificient/blob/master/tools/rider.png" height="32px">
     </a>
+    <a href="https://git-scm.com/">
+        <img style="padding:8px;" src="https://github.com/Sigmanificient/Sigmanificient/blob/master/tools/git.png" height="32px">
+    </a>
     <a href="https://github.com/">
         <img style="padding:8px;" src="https://github.com/Sigmanificient/Sigmanificient/blob/master/tools/github.png" height="32px">
     </a>
