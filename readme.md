@@ -39,5 +39,6 @@
     </a>
 </div>
 
-[![Sigmanificient's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sigmanificient)](https://github.com/Sigmanificient/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=commits,contribs)
+<br>
+
+![Sigmanificient's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sigmanificient&hide=commits,contribs)
