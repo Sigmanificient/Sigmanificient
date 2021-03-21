@@ -38,3 +38,5 @@
         <img style="padding:8px;" src="https://github.com/Sigmanificient/Sigmanificient/blob/master/tools/rider.png" height="32px">
     </a>
 </div>
+
+[![Sigmanificient's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sigmanificient)](https://github.com/Sigmanificient/github-readme-stats)
