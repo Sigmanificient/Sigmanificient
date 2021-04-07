@@ -4,6 +4,7 @@
     <img style="padding:8px;" src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/python.png" height="24px">
     <img style="padding:8px;" src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/html.png" height="24px">
     <img style="padding:8px;" src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/css.png" height="24px">
+    <img style="padding:8px;" src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/sass.png" height="24px">
     <img style="padding:8px;" src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/js.png" height="24px">
     <img style="padding:8px;" src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/php.png" height="24px">
     <img style="padding:8px;" src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/sql.png" height="24px">
