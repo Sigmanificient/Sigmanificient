@@ -27,9 +27,6 @@
 
 # Softwares
 <div id="softwares">
-    <a href="https://www.sublimetext.com/3">
-        <img style="padding:8px;" src="https://github.com/Sigmanificient/Sigmanificient/blob/master/tools/sublime.png" height="24px">
-    </a>
     <a href="https://www.jetbrains.com/pycharm/">
         <img style="padding:8px;" src="https://github.com/Sigmanificient/Sigmanificient/blob/master/tools/pycharm.png" height="24px">
     </a>
@@ -41,6 +38,9 @@
     </a>
     <a href="https://www.jetbrains.com/rider/">
         <img style="padding:8px;" src="https://github.com/Sigmanificient/Sigmanificient/blob/master/tools/rider.png" height="24px">
+    </a>
+    <a href="https://www.sublimetext.com/3">
+        <img style="padding:8px;" src="https://github.com/Sigmanificient/Sigmanificient/blob/master/tools/sublime.png" height="24px">
     </a>
 </div>
 <br>
