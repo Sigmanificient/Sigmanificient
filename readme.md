@@ -49,6 +49,8 @@
 <br>
 
 ## Other infos
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sigmanificient)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 
 ![Sigmanificient's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sigmanificient&hide=prs,issues&show_icons=true&theme=react)
 <br>
