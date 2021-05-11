@@ -46,6 +46,9 @@
     <a href="https://www.sublimetext.com/3">
         <img style="padding:8px;" src="https://github.com/Sigmanificient/Sigmanificient/blob/master/tools/sublime.png" height="24px">
     </a>
+    <a href="https://laragon.org/">
+        <img style="padding:8px;" src="https://github.com/Sigmanificient/Sigmanificient/blob/master/tools/laragon.png" height="24px">
+    </a>
 </div>
 <br>
 
