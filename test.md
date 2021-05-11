@@ -1,1 +1,1 @@
-<img src="readme.svg" width="800" height="400" alt="Sigmanificient's readme">
+<img src="readme.svg" width="800" height="800" alt="Sigmanificient's readme">
