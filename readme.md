@@ -2,7 +2,7 @@
 # Languages
 
 <div id="languages">
-    <img style="padding:8px;" src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/python.png" height="24px">
+    <img style="padding:8px;" src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/py.png" height="24px">
     <img style="padding:8px;" src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/html.png" height="24px">
     <img style="padding:8px;" src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/css.png" height="24px">
     <img style="padding:8px;" src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/sass.png" height="24px">
