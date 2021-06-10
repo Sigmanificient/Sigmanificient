@@ -1,5 +1,5 @@
 > ![](https://komarev.com/ghpvc/?username=Sigmanificient)
-# Languages
+## Languages
 
 <div id="languages">
     <img style="padding:8px;" src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/python.png" height="24px">
@@ -12,7 +12,7 @@
     <img style="padding:8px;" src="https://github.com/Sigmanificient/Sigmanificient/blob/master/languages_icons/cs.png" height="24px">
 </div>
 
-# Tools
+## Tools
 
 <div id="tools">
     <a href="https://git-scm.com/">
@@ -29,7 +29,7 @@
     </a>
 </div>
 
-# Softwares
+## Softwares
 <div id="softwares">
     <a href="https://www.jetbrains.com/pycharm/">
         <img style="padding:8px;" src="https://github.com/Sigmanificient/Sigmanificient/blob/master/tools/pycharm.png" height="24px">
