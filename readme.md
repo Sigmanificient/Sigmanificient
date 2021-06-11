@@ -1,4 +1,5 @@
 > ![](https://komarev.com/ghpvc/?username=Sigmanificient)
+
 ## Languages
 
 <div id="languages">
@@ -30,6 +31,7 @@
 </div>
 
 ## Softwares
+
 <div id="softwares">
     <a href="https://www.jetbrains.com/pycharm/">
         <img style="padding:8px;" src="https://github.com/Sigmanificient/Sigmanificient/blob/master/tools/pycharm.png" height="24px">
@@ -53,5 +55,10 @@
 <br>
 
 ## Other infos
+
 ![Sigmanificient's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sigmanificient&show_icons=true&theme=react)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sigmanificient&layout=compact&theme=react&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
+# Metrics
+
+![Metrics](https://metrics.lecoq.io/Sigmanificient?template=classic&isocalendar=1&languages=1&isocalendar.duration=full-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&config.timezone=Europe%2FParis)
