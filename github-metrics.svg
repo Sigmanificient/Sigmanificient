@@ -1169,13 +1169,13 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="169.31584321734348" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="169.31584321734348" y="0" width="105.45720794012367" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="274.7730511574672" y="0" width="95.57244970095492" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="370.3455008584221" y="0" width="35.22122602870384" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="405.5667268871259" y="0" width="25.630687747567805" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="431.19741463469376" y="0" width="22.608480985670525" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="453.8058956203643" y="0" width="6.1941043796357595" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="173.07954721662273" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="173.07954721662273" y="0" width="104.0917750260284" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="277.1713222426511" y="0" width="94.33500210442372" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="371.5063243470748" y="0" width="34.76519061648539" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="406.2715149635602" y="0" width="25.298828168265292" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="431.5703431318255" y="0" width="22.315752165341248" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="453.8860952971667" y="0" width="6.113904702833219" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1227,7 +1227,7 @@
           </div>
                         <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M1.5 1.75a.75.75 0 00-1.5 0v12.5c0 .414.336.75.75.75h14.5a.75.75 0 000-1.5H1.5V1.75zm14.28 2.53a.75.75 0 00-1.06-1.06L10 7.94 7.53 5.47a.75.75 0 00-1.06 0L3.22 8.72a.75.75 0 001.06 1.06L7 7.06l2.47 2.47a.75.75 0 001.06 0l5.25-5.25z"/></svg>
-            ~5.90 commits per day
+            ~6.02 commits per day
           </div>
                     </section>
                 </div>
@@ -2215,10 +2215,10 @@
                                 <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.75 0,3.75 z"/>
                                 <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.75 1.7,4.75 z"/>
                             </g>
-                            <g transform="translate(-1.7, 5.916666666666666)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.083333333333333 0,2.083333333333333 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.083333333333333 1.7,3.083333333333333 z"/>
+                            <g transform="translate(-1.7, 4.083333333333333)">
+                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.916666666666666 0,3.9166666666666665 z"/>
+                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.9166666666666665 1.7,4.916666666666666 z"/>
                             </g>
                         </g>
                     </g>
