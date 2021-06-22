@@ -8,6 +8,28 @@
 
   --planet-size: 60px;
   --half-a-planet: 30px;
+
+  --lang-1-col: #3572A5;
+  --lang-1-pct: 41.25%;
+
+  --lang-2-col: #E34C26;
+  --lang-2-pct: 19.88%;
+
+  --lang-3-col: #4F5D95;
+  --lang-3-pct: 19.83%;
+
+  --lang-4-col: #C6538C;
+  --lang-4-pct: 9.68%;
+
+  --lang-5-col: #F1E05A;
+  --lang-5-pct: 4.42%;
+
+  --lang-6-col: #563D7C;
+  --lang-6-pct: 3.86%;
+
+  --lang-7-col: #858585;
+  --lang-7-pct: 1.09%;
+
   width: 900px;
   height: 900px;
   display: grid;
@@ -123,14 +145,94 @@ p.super-big {
 
   border: 2px solid;
   border-radius: 20px;
+
+  .lang-1 {
+    border-radius: 20px 0 0 20px;
+    background-color: var(--lang-1-col);
+    width: var(--lang-1-pct);
+  }
+
+  .lang-2 {
+    background-color: var(--lang-2-col);
+    width: var(--lang-2-pct);
+  }
+
+  .lang-3 {
+    background-color: var(--lang-3-col);
+    width: var(--lang-3-pct);
+  }
+
+  .lang-4 {
+    background-color: var(--lang-4-col);
+    width: var(--lang-4-pct);
+  }
+
+  .lang-5 {
+    background-color: var(--lang-5-col);
+    width: var(--lang-5-pct);
+  }
+
+  .lang-6 {
+    background-color: var(--lang-6-col);
+    width: var(--lang-6-pct);
+  }
+
+  .lang-7 {
+    border-radius: 0 20px 20px 0;
+    background-color: var(--lang-7-col);
+    width: var(--lang-7-pct);
+  }
 }
 
 .languages {
   display: flex;
   width: 100%;
-  justify-content: space-between;
-}
+  justify-content: center;
+  flex-flow: row wrap;
 
+  p {
+    position: relative;
+    padding: 0 20px;
+
+    &:before {
+      content: '';
+      position: absolute;
+      border-radius: 50%;
+      top: 6px;
+      left: 6px;
+      width: 8px;
+      height: 8px;
+    }
+
+    &.lang-1:before {
+      background-color: var(--lang-1-col);
+    }
+
+    &.lang-2:before {
+      background-color: var(--lang-2-col);
+    }
+
+    &.lang-3:before {
+      background-color: var(--lang-3-col);
+    }
+
+    &.lang-4:before {
+      background-color: var(--lang-4-col);
+    }
+
+    &.lang-5:before {
+      background-color: var(--lang-5-col);
+    }
+
+    &.lang-6:before {
+      background-color: var(--lang-6-col);
+    }
+
+    &.lang-7:before {
+      background-color: var(--lang-7-col);
+    }
+  }
+}
 
 .solar-system {
   display: grid;
@@ -183,18 +285,6 @@ p.super-big {
 
   .three {
     transform: rotateY(90deg) translateZ(var(--half-a-sun))
-  }
-
-  .four {
-    transform: translateZ(var(--half-a-sun)) rotateX(180deg);
-  }
-
-  .five {
-    transform: rotateY(-90deg) translateZ(var(--half-a-sun))
-  }
-
-  .six {
-    transform: rotateX(-90deg) translateZ(var(--half-a-sun)) rotateX(180deg);
   }
 }
 
