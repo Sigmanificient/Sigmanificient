@@ -166,14 +166,14 @@ p.super-big {
   height: var(--sun-size);
   width: var(--sun-size);
   transform-style: preserve-3d;
-  animation: spin 60s linear infinite;
+  // animation: spin 60s linear infinite;
   position: absolute;
 
   & > .face {
     position: absolute;
     border: 2px solid var(--col-light);
     background: var(--col-dark);
-    // box-shadow: inset 0 0 100px 10px var(--col-dark);
+    box-shadow: inset 0 0 100px 10px var(--col-dark);
     height: var(--sun-size);
     width: var(--sun-size);
   }
