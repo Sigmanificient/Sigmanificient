@@ -172,7 +172,7 @@ p.super-big {
   & > .face {
     position: absolute;
     border: 2px solid white;
-    background-color: var(--col-mid);
+    background: var(--col-mid);
     box-shadow: inset 0 0 100px 10px var(--col-dark);
     height: var(--sun-size);
     width: var(--sun-size);
