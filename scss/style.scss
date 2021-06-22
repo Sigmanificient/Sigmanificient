@@ -160,6 +160,7 @@ p.super-big {
   height: var(--sun-size);
   width: var(--sun-size);
   transform-style: preserve-3d;
+  transform: rotateX(120deg) rotateY(120deg) rotateZ(120deg) translateY(-20px);
   position: absolute;
 
   & > .face {
@@ -167,7 +168,6 @@ p.super-big {
     border: 2px solid var(--col-light);
     background: var(--col-dark);
     background-color: var(--col-dark);
-    transform: rotateX(120deg) rotateY(120deg) rotateZ(120deg);
     box-shadow: inset 0 0 100px 10px var(--col-dark);
     height: var(--sun-size);
     width: var(--sun-size);
@@ -204,7 +204,7 @@ p.super-big {
   height: var(--planet-size);
   width: var(--planet-size);
 
-  background: radial-gradient(circle at top,  var(--col-mid), var(--col-dark));
+  background: radial-gradient(circle at top, var(--col-mid), var(--col-dark));
   border: 2px solid var(--col-light);
   border-radius: 50%;
 
