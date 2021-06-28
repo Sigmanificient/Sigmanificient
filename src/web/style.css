@@ -3,6 +3,10 @@
 :root {
     --everything-size: 42px;
     --border-radius: 12px;
+    --dark-col: #3D1015;
+    --light-col: #960e25;
+    --text-border-col: #f8f0f0;
+
 }
 
 body {
@@ -38,10 +42,12 @@ p {
     position: absolute;
     font-family: 'JetBrains Mono', monospace;
     font-weight: bold;
-    color: white;
+    color: var(--text-border-col);
 }
 
 .content {
+    position: absolute;
+    inset: 0;
     display: grid;
     margin: var(--everything-size);
     grid-gap: var(--everything-size);
@@ -50,7 +56,9 @@ p {
 }
 
 .block {
-    border: 2px solid white;
+    border: 2px solid var(--text-border-col);
+    background: radial-gradient(ellipse at bottom left, var(--dark-col) 0%, var(--light-col) 100%);
+    box-shadow: 0 0 25px var(--dark-col), inset 0 0 100px var(--dark-col);
     padding: var(--everything-size);
     border-radius: var(--border-radius);
 }
@@ -90,7 +98,7 @@ p {
 
 hr {
     border: none;
-    border-top: 1px solid white;
+    border-top: 1px solid var(--text-border-col);
     width: 100%;
 }
 
@@ -99,7 +107,7 @@ hr {
 }
 
 .progress {
-    border: 2px solid white;
+    border: 2px solid var(--text-border-col);
     border-radius: var(--everything-size);
     width: 100%;
     height: 12px;
@@ -115,4 +123,28 @@ hr {
 .bottom .right {
     display: grid;
     place-content: center;
+}
+
+svg#bg {
+    stroke: #fff;
+}
+
+svg#technologies {
+    position: absolute;
+    inset: 0;
+}
+
+svg#technologies rect, svg#technologies circle {
+    fill: url(#rd-1);
+    filter: drop-shadow(0 3px 2px var(--dark-col));
+
+    stroke-width: 2;
+    stroke: #fff;
+}
+
+svg#technologies text {
+    fill: var(--text-border-col);
+    font-family: "JetBrains Mono", monospace;
+    font-size: 14px;
+    font-weight: bold
 }
