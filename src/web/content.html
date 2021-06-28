@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="style.css">
 <div class="root">
-    <svg id="bg" width="800" height="800" viewBox="0 0 800 800" xmlns="http://www.w3.org/2000/svg">
+    <svg id="bg" fill="none" width="800" height="800" viewBox="0 0 800 800" xmlns="http://www.w3.org/2000/svg">
         <path d="M16.6945 94.1483L799.634 733.449"></path>
         <line x1="28.2979" y1="131.598" x2="783.298" y2="691.598"></line>
         <line x1="0.278226" y1="140.585" x2="766.278" y2="653.585"></line>
@@ -30,12 +30,12 @@
             </div>
             <div class="right block">
                 <div class="stats">
-                    <p>Stars: {stars}</p>
-                    <p>Pull Requests: {pr}</p>
-                    <p>Contributed to: {contributed}</p>
-                    <p>Issues raised: {issues}</p>
+                    <p>Stars: #stars</p>
+                    <p>Pull Requests: #pr</p>
+                    <p>Contributed to: #contributed</p>
+                    <p>Issues raised: #issues</p>
                 </div>
-                <p class="note">{L}</p>
+                <p class="note">#L</p>
             </div>
         </div>
         <div class="middle block">
@@ -49,25 +49,34 @@
         <div class="bottom">
             <div class="left block">
                 <div class="progress">
-
+                    <div></div>
+                    <div></div>
+                    <div></div>
+                    <div></div>
+                    <div></div>
+                    <div></div>
+                    <div></div>
+                    <div></div>
+                    <div></div>
+                    <div></div>
                 </div>
                 <div class="lang">
-                    <p>{lang_0}</p>
-                    <p>{lang_1}</p>
-                    <p>{lang_2}</p>
-                    <p>{lang_3}</p>
-                    <p>{lang_4}</p>
-                    <p>{lang_5}</p>
-                    <p>{lang_6}</p>
-                    <p>{lang_7}</p>
-                    <p>{lang_8}</p>
-                    <p>{lang_9}</p>
+                    <p>#lang_0</p>
+                    <p>#lang_1</p>
+                    <p>#lang_2</p>
+                    <p>#lang_3</p>
+                    <p>#lang_4</p>
+                    <p>#lang_5</p>
+                    <p>#lang_6</p>
+                    <p>#lang_7</p>
+                    <p>#lang_8</p>
+                    <p>#lang_9</p>
                 </div>
             </div>
             <div class="right block">
-                <p>{commits} commits in {year}</p>
-                <p>Best streak {streak} days</p>
-                <p>~{cmt_avg} commits per days</p>
+                <p>#commits commits in #year</p>
+                <p>Best streak #streak days</p>
+                <p>~#cmt_avg commits per days</p>
             </div>
         </div>
     </div>

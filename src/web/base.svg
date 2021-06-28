@@ -5,146 +5,252 @@
                 @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@700');
 
                 :root {
-                --everything-size: 42px;
-                --border-radius: 12px;
-                --dark-col: #3D1015;
-                --light-col: #960e25;
-                --text-border-col: #f8f0f0;
+                    --everything-size: 42px;
+                    --border-radius: 12px;
+                    --dark-col: #3D1015;
+                    --light-col: #960e25;
+                    --text-border-col: #f8f0f0;
+
+                    --l0-col: #l0-col;
+                    --l0-w: #l0-w;
+
+                    --l1-col: #l1-col;
+                    --l1-w: #l1-w;
+
+                    --l2-col: #l2-col;
+                    --l2-w: #l2-w;
+
+                    --l3-col: #l3-col;
+                    --l3-w: #l3-w;
+
+                    --l4-col: #l4-col;
+                    --l4-w: #l4-w;
+
+                    --l5-col: #l5-col;
+                    --l5-w: #l5-w;
+
+                    --l6-col: #l6-col;
+                    --l6-w: #l6-w;
+
+                    --l7-col: #l7-w;
+                    --l7-w: #l7-w;
+
+                    --l8-col: #l8-col;
+                    --l8-w: #l8-w;
+
+                    --l9-col: #l9-col;
+                    --l9-w: #l9-w;
+                }
+
+                body {
+                    margin: 0;
+                    background-color: black;
+                    border: 5px solid red;
+                    position: absolute;
+                    height: 800px;
+                    width: 800px;
+                    left: 0;
+                    top: 0;
                 }
 
                 h1, p {
-                margin: 0;
+                    margin: 0;
                 }
 
                 h1 {
-                font-size: 20px;
-                line-height: 28px;
+                    font-size: 20px;
+                    line-height: 28px;
                 }
 
                 p {
-                font-size: 12px;
-                line-height: 16px;
+                    font-size: 12px;
+                    line-height: 16px;
                 }
 
                 .root {
-                top: 0;
-                left: 0;
-                height: 800px;
-                width: 800px;
-                position: absolute;
-                font-family: 'JetBrains Mono', monospace;
-                font-weight: bold;
-                color: var(--text-border-col);
+                    top: 0;
+                    left: 0;
+                    height: 800px;
+                    width: 800px;
+                    position: absolute;
+                    font-family: 'JetBrains Mono', monospace;
+                    font-weight: bold;
+                    color: var(--text-border-col);
                 }
 
                 .content {
-                position: absolute;
-                inset: 0;
-                display: grid;
-                margin: var(--everything-size);
-                grid-gap: var(--everything-size);
-                height: calc(100% - 2 * var(--everything-size));
-                grid-template-rows: 1fr 3fr 1fr;
+                    position: absolute;
+                    inset: 0;
+                    display: grid;
+                    margin: var(--everything-size);
+                    grid-gap: var(--everything-size);
+                    height: calc(100% - 2 * var(--everything-size));
+                    grid-template-rows: 1fr 3fr 1fr;
                 }
 
                 .block {
-                border: 2px solid var(--text-border-col);
-                background: radial-gradient(ellipse at bottom left, var(--dark-col) 0%, var(--light-col) 100%);
-                box-shadow: 0 0 25px var(--dark-col), inset 0 0 100px var(--dark-col);
-                padding: var(--everything-size);
-                border-radius: var(--border-radius);
+                    border: 2px solid var(--text-border-col);
+                    background: radial-gradient(ellipse at bottom left, var(--dark-col) 0%, var(--light-col) 100%);
+                    box-shadow: 0 0 25px var(--dark-col), inset 0 0 100px var(--dark-col);
+                    padding: var(--everything-size);
+                    border-radius: var(--border-radius);
                 }
 
                 .top, .bottom {
-                display: grid;
-                height: max-content;
-                grid-gap: var(--everything-size);
+                    display: grid;
+                    height: max-content;
+                    grid-gap: var(--everything-size);
                 }
 
                 .top {
-                grid-template-columns: 7fr 9fr;
+                    grid-template-columns: 7fr 9fr;
                 }
 
                 .top .right {
-                display: flex;
-                justify-content: space-between;
-                align-items: center;
+                    display: flex;
+                    justify-content: space-between;
+                    align-items: center;
                 }
 
                 .note {
-                font-size: 28px;
-                line-height: 32px;
+                    font-size: 28px;
+                    line-height: 32px;
                 }
 
                 .middle {
-                padding: 0;
-                position: relative;
+                    padding: 0;
+                    position: relative;
                 }
 
                 .bg-lines {
-                display: flex;
-                height: 100%;
-                flex-direction: column;
-                justify-content: space-evenly;
+                    display: flex;
+                    height: 100%;
+                    flex-direction: column;
+                    justify-content: space-evenly;
                 }
 
                 hr {
-                border: none;
-                border-top: 1px solid var(--text-border-col);
-                width: 100%;
+                    border: none;
+                    border-top: 1px solid var(--text-border-col);
+                    width: 100%;
                 }
 
                 .bottom {
-                grid-template-columns: 9fr 7fr;
+                    grid-template-columns: 9fr 7fr;
                 }
 
                 .progress {
-                border: 2px solid var(--text-border-col);
-                border-radius: var(--everything-size);
-                width: 100%;
-                height: 12px;
-                margin: 2px 0;
+                    display: flex;
+                    border: 2px solid var(--text-border-col);
+                    border-radius: var(--everything-size);
+                    height: 12px;
+                    margin: 2px 0;
                 }
 
+
+                .progress div:nth-of-type(1) {
+                    border-top-left-radius: var(--everything-size);
+                    border-bottom-left-radius: var(--everything-size);
+                    background-color: var(--l0-col);
+                    width: var(--l0-w);
+                    height: 100%;
+                }
+
+                .progress div:nth-of-type(2) {
+                    background-color: var(--l1-col);
+                    width: var(--l1-w);
+                    height: 100%;
+                }
+
+                .progress div:nth-of-type(3) {
+                    background-color: var(--l2-col);
+                    width: var(--l2-w);
+                    height: 100%;
+                }
+
+                .progress div:nth-of-type(4) {
+                    background-color: var(--l3-col);
+                    width: var(--l3-w);
+                    height: 100%;
+                }
+
+                .progress div:nth-of-type(5) {
+                    background-color: var(--l4-col);
+                    width: var(--l4-w);
+                    height: 100%;
+                }
+
+                .progress div:nth-of-type(6) {
+                    background-color: var(--l5-col);
+                    width: var(--l5-w);
+                    height: 100%;
+                }
+
+                .progress div:nth-of-type(7) {
+                    background-color: var(--l6-col);
+                    width: var(--l6-w);
+                    height: 100%;
+                }
+
+                .progress div:nth-of-type(8) {
+                    background-color: var(--l7-col);
+                    width: var(--l7-w);
+                    height: 100%;
+                }
+
+                .progress div:nth-of-type(9) {
+                    background-color: var(--l8-col);
+                    width: var(--l8-w);
+                    height: 100%;
+                }
+
+                .progress div:nth-of-type(10) {
+                    border-top-right-radius: var(--everything-size);
+                    border-bottom-right-radius: var(--everything-size);
+                    background-color: var(--l9-col);
+                    width: var(--l9-w);
+                    height: 100%;
+                }
+
+
                 .lang {
-                display: flex;
-                flex-flow: row wrap;
-                justify-content: space-evenly;
+                    display: flex;
+                    flex-flow: row wrap;
+                    justify-content: space-evenly;
                 }
 
                 .bottom .right {
-                display: grid;
-                place-content: center;
+                    display: grid;
+                    place-content: center;
                 }
 
                 svg#bg {
-                stroke: #fff;
+                    stroke: #fff;
                 }
 
                 svg#technologies {
-                position: absolute;
-                inset: 0;
+                    position: absolute;
+                    inset: 0;
                 }
 
                 svg#technologies rect, svg#technologies circle {
-                fill: url(#rd-1);
-                filter: drop-shadow(0 3px 2px var(--dark-col));
-
-                stroke-width: 2;
-                stroke: #fff;
+                    fill: url(#rd-1);
+                    filter: drop-shadow(0 3px 2px var(--dark-col));
+                    stroke-width: 2;
+                    stroke: #fff;
                 }
 
                 svg#technologies text {
-                fill: var(--text-border-col);
-                font-family: "JetBrains Mono", monospace;
-                font-size: 14px;
-                font-weight: bold
+                    fill: var(--text-border-col);
+                    font-family: "JetBrains Mono", monospace;
+                    font-size: 14px;
+                    font-weight: bold
                 }
-
             </style>
 
             <div class="root">
-                <svg id="bg" width="800" height="800" viewBox="0 0 800 800" xmlns="http://www.w3.org/2000/svg">
+                <svg id="bg" fill="none" width="800" height="800" viewBox="0 0 800 800"
+                     xmlns="http://www.w3.org/2000/svg">
                     <path d="M16.6945 94.1483L799.634 733.449"></path>
                     <line x1="28.2979" y1="131.598" x2="783.298" y2="691.598"></line>
                     <line x1="0.278226" y1="140.585" x2="766.278" y2="653.585"></line>
@@ -170,49 +276,58 @@
                     <div class="top">
                         <div class="left block">
                             <h1>Sigmanificient</h1>
-                            <p>FullStack Pythonista,<br/>Jetbrains and Tabnine User
+                            <p>FullStack Pythonista,<br>Jetbrains and Tabnine User
                             </p>
                         </div>
                         <div class="right block">
                             <div class="stats">
-                                <p>Stars: {stars}</p>
-                                <p>Pull Requests: {pr}</p>
-                                <p>Contributed to: {contributed}</p>
-                                <p>Issues raised: {issues}</p>
+                                <p>Stars: #stars</p>
+                                <p>Pull Requests: #pr</p>
+                                <p>Contributed to: #contributed</p>
+                                <p>Issues raised: #issues</p>
                             </div>
-                            <p class="note">{L}</p>
+                            <p class="note">#L</p>
                         </div>
                     </div>
                     <div class="middle block">
                         <div class="bg-lines">
-                            <hr/>
-                            <hr/>
-                            <hr/>
-                            <hr/>
+                            <hr>
+                            <hr>
+                            <hr>
+                            <hr>
                         </div>
                     </div>
                     <div class="bottom">
                         <div class="left block">
                             <div class="progress">
-
+                                <div></div>
+                                <div></div>
+                                <div></div>
+                                <div></div>
+                                <div></div>
+                                <div></div>
+                                <div></div>
+                                <div></div>
+                                <div></div>
+                                <div></div>
                             </div>
                             <div class="lang">
-                                <p>{lang_0}</p>
-                                <p>{lang_1}</p>
-                                <p>{lang_2}</p>
-                                <p>{lang_3}</p>
-                                <p>{lang_4}</p>
-                                <p>{lang_5}</p>
-                                <p>{lang_6}</p>
-                                <p>{lang_7}</p>
-                                <p>{lang_8}</p>
-                                <p>{lang_9}</p>
+                                <p>#lang_0</p>
+                                <p>#lang_1</p>
+                                <p>#lang_2</p>
+                                <p>#lang_3</p>
+                                <p>#lang_4</p>
+                                <p>#lang_5</p>
+                                <p>#lang_6</p>
+                                <p>#lang_7</p>
+                                <p>#lang_8</p>
+                                <p>#lang_9</p>
                             </div>
                         </div>
                         <div class="right block">
-                            <p>{commits} commits in {year}</p>
-                            <p>Best streak {streak} days</p>
-                            <p>~{cmt_avg} commits per days</p>
+                            <p>#commits commits in #year</p>
+                            <p>Best streak #streak days</p>
+                            <p>~#cmt_avg commits per days</p>
                         </div>
                     </div>
                 </div>
