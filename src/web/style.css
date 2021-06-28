@@ -1,2 +1,51 @@
 @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@700');
 
+:root {
+    --everything-size: 42px;
+    --border-radius: 12px;
+}
+
+body {
+    margin: 0;
+    background-color: black;
+    border: 5px solid red;
+    position: absolute;
+    height: 800px;
+    width: 800px;
+    left: 0;
+    top: 0;
+}
+
+.root {
+    top: 0;
+    left: 0;
+    height: 800px;
+    width: 800px;
+    position: absolute;
+    font-family: 'JetBrains Mono', monospace;
+    font-weight: bold;
+}
+
+.content {
+    display: grid;
+    margin: var(--everything-size);
+    grid-template-rows: 4fr 9fr 3fr;
+    grid-gap: var(--everything-size)
+}
+
+.block {
+    padding: var(--everything-size);
+}
+
+.top, .bottom {
+    display: grid;
+    grid-gap: var(--everything-size);
+}
+
+.top {
+    grid-template-columns: 7fr 9fr;
+}
+
+.bottom {
+    grid-template-columns: 9fr 7fr;
+}
