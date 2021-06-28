@@ -1,0 +1,427 @@
+<svg width="800" height="800" viewBox="0 0 800 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g clip-path="url(#clip0)">
+        <path d="M16.6945 94.1483L799.634 733.449" stroke="white"/>
+        <line x1="28.2979" y1="131.598" x2="783.298" y2="691.598" stroke="white"/>
+        <line x1="0.278226" y1="140.585" x2="766.278" y2="653.585" stroke="white"/>
+        <path d="M703.592 33.5004L124.5 789" stroke="white"/>
+        <path d="M693.389 8.00024L158 771.5" stroke="white"/>
+        <path d="M638.592 39.0002L163.5 795.5" stroke="white"/>
+        <circle cx="120" cy="509" r="119.5" stroke="white"/>
+        <circle cx="205" cy="509" r="72.5" stroke="white"/>
+        <circle cx="70.5" cy="603.5" r="42" stroke="white"/>
+        <circle cx="40" cy="414" r="29.5" stroke="white"/>
+        <circle cx="462" cy="663" r="29.5" stroke="white"/>
+        <circle cx="414" cy="741" r="29.5" stroke="white"/>
+        <circle cx="743" cy="539" r="29.5" stroke="white"/>
+        <circle cx="543.5" cy="257.5" r="93" stroke="white"/>
+        <circle cx="637" cy="199" r="45.5" stroke="white"/>
+        <circle cx="426" cy="107" r="45.5" stroke="white"/>
+        <circle cx="371" cy="124" r="28.5" stroke="white"/>
+        <circle cx="292" cy="199" r="28.5" stroke="white"/>
+        <circle cx="405" cy="633" r="50.5" stroke="white"/>
+        <g>
+            <path d="M467 607C467 600.373 472.373 595 479 595H743C749.627 595 755 600.373 755 607V743C755 749.627 749.627 755 743 755H479C472.373 755 467 749.627 467 743V607Z"
+                  fill="url(#paint0_radial)" stroke="#fff" stroke-width="2"/>
+        </g>
+        <text fill="white" xml:space="preserve" style="white-space: pre" font-family="JetBrains Mono" font-size="14"
+              font-weight="bold" letter-spacing="0em"><tspan x="527.055" y="664.54">Best streak: 29 days</tspan></text>
+        <text fill="white" xml:space="preserve" style="white-space: pre" font-family="JetBrains Mono" font-size="14"
+              font-weight="bold" letter-spacing="0em"><tspan x="518.66" y="697.54">~7.02 commits per days</tspan></text>
+        <g filter="url(#filter1_di)">
+            <mask id="path-23-inside-2" fill="white">
+                <path d="M45 607C45 600.373 50.3726 595 57 595H410C416.627 595 422 600.373 422 607V743C422 749.627 416.627 755 410 755H57C50.3726 755 45 749.627 45 743V607Z"/>
+            </mask>
+            <path d="M45 607C45 600.373 50.3726 595 57 595H410C416.627 595 422 600.373 422 607V743C422 749.627 416.627 755 410 755H57C50.3726 755 45 749.627 45 743V607Z"
+                  fill="url(#paint1_radial)"/>
+            <path d="M45 607C45 600.373 50.3726 595 57 595H410C416.627 595 422 600.373 422 607V743C422 749.627 416.627 755 410 755H57C50.3726 755 45 749.627 45 743V607Z"
+                  stroke="white" stroke-width="4" mask="url(#path-23-inside-2)"/>
+        </g>
+        <rect x="205" y="642" width="170" height="14" rx="7" fill="#817F80"/>
+        <rect x="92" y="642" width="276" height="14" rx="7" fill="#543A78"/>
+        <rect x="92" y="642" width="258" height="14" rx="7" fill="#EAD757"/>
+        <rect x="92" y="642" width="230" height="14" rx="7" fill="#BF4F87"/>
+        <rect x="92" y="642" width="200" height="14" rx="7" fill="#4E5990"/>
+        <rect x="92" y="642" width="162" height="14" rx="7" fill="#DF4A25"/>
+        <rect x="92" y="642" width="95" height="14" rx="7" fill="#3570A2"/>
+        <rect x="91" y="641" width="285" height="16" rx="8" stroke="white" stroke-width="2"/>
+        <text fill="white" xml:space="preserve" style="white-space: pre" font-family="JetBrains Mono" font-size="14"
+              font-weight="bold" letter-spacing="0em"><tspan x="102.316" y="689.04">Python</tspan></text>
+        <circle cx="93.5" cy="683.5" r="3.5" fill="#3570A2"/>
+        <text fill="white" xml:space="preserve" style="white-space: pre" font-family="JetBrains Mono" font-size="14"
+              font-weight="bold" letter-spacing="0em"><tspan x="252" y="689.04">PHP</tspan></text>
+        <circle cx="243.5" cy="683.5" r="3.5" fill="#4E5990"/>
+        <text fill="white" xml:space="preserve" style="white-space: pre" font-family="JetBrains Mono" font-size="14"
+              font-weight="bold" letter-spacing="0em"><tspan x="298" y="710.04">SQL</tspan></text>
+        <circle cx="289.5" cy="704.5" r="3.5" fill="#817F80"/>
+        <text fill="white" xml:space="preserve" style="white-space: pre" font-family="JetBrains Mono" font-size="14"
+              font-weight="bold" letter-spacing="0em"><tspan x="223" y="710.04">CSS</tspan></text>
+        <circle cx="214.5" cy="704.5" r="3.5" fill="#543A78"/>
+        <text fill="white" xml:space="preserve" style="white-space: pre" font-family="JetBrains Mono" font-size="14"
+              font-weight="bold" letter-spacing="0em"><tspan x="148" y="710.04">Js</tspan></text>
+        <circle cx="139.5" cy="704.5" r="3.5" fill="#EAD757"/>
+        <text fill="white" xml:space="preserve" style="white-space: pre" font-family="JetBrains Mono" font-size="14"
+              font-weight="bold" letter-spacing="0em"><tspan x="327" y="689.04">Scss</tspan></text>
+        <circle cx="318.5" cy="683.5" r="3.5" fill="#BF4F87"/>
+        <text fill="white" xml:space="preserve" style="white-space: pre" font-family="JetBrains Mono" font-size="14"
+              font-weight="bold" letter-spacing="0em"><tspan x="177" y="689.04">HTML</tspan></text>
+        <circle cx="168.5" cy="683.5" r="3.5" fill="#DF4A25"/>
+        <g filter="url(#filter2_di)">
+            <rect x="45" y="256" width="710" height="294" rx="12" fill="url(#paint2_radial)"/>
+            <rect x="46" y="257" width="708" height="292" rx="11" stroke="white" stroke-width="2"/>
+        </g>
+        <path d="M45 436H755.011" stroke="white" stroke-opacity="0.8"/>
+        <line x1="45" y1="489.5" x2="755.011" y2="489.5" stroke="white" stroke-opacity="0.8"/>
+        <line x1="45" y1="373.5" x2="755.011" y2="373.5" stroke="white" stroke-opacity="0.8"/>
+        <line x1="45" y1="322.5" x2="755.011" y2="322.5" stroke="white" stroke-opacity="0.8"/>
+        <circle cx="462" cy="477" r="27" fill="url(#paint3_radial)" stroke="white" stroke-width="2"/>
+        <rect x="384" y="455" width="77" height="31" rx="15.5" fill="url(#paint4_radial)" stroke="white"
+              stroke-width="2"/>
+        <text fill="white" xml:space="preserve" style="white-space: pre" font-family="JetBrains Mono" font-size="14"
+              font-weight="bold" letter-spacing="0em"><tspan x="401.514" y="475.54">MySQL</tspan></text>
+        <circle cx="534" cy="530" r="16" fill="url(#paint5_radial)" stroke="white" stroke-width="2"/>
+        <rect x="487" y="531" width="77" height="31" rx="15.5" fill="url(#paint6_radial)" stroke="white"
+              stroke-width="2"/>
+        <text fill="white" xml:space="preserve" style="white-space: pre" font-family="JetBrains Mono" font-size="14"
+              font-weight="bold" letter-spacing="0em"><tspan x="496.119" y="551.54">Flutter</tspan></text>
+        <circle cx="144" cy="417" r="16" fill="url(#paint7_radial)" stroke="white" stroke-width="2"/>
+        <rect x="72" y="418" width="77" height="31" rx="15.5" fill="url(#paint8_radial)" stroke="white"
+              stroke-width="2"/>
+        <text fill="white" xml:space="preserve" style="white-space: pre" font-family="JetBrains Mono" font-size="14"
+              font-weight="bold" letter-spacing="0em"><tspan x="89.5137" y="438.54">React</tspan></text>
+        <circle cx="144" cy="417" r="16" fill="url(#paint9_radial)" stroke="white" stroke-width="2"/>
+        <rect x="72" y="418" width="77" height="31" rx="15.5" fill="url(#paint10_radial)" stroke="white"
+              stroke-width="2"/>
+        <text fill="white" xml:space="preserve" style="white-space: pre" font-family="JetBrains Mono" font-size="14"
+              font-weight="bold" letter-spacing="0em"><tspan x="89.5137" y="438.54">React</tspan></text>
+        <circle cx="55" cy="526" r="16" fill="url(#paint11_radial)" stroke="white" stroke-width="2"/>
+        <rect x="45" y="525" width="85" height="31" rx="15.5" fill="url(#paint12_radial)" stroke="white"
+              stroke-width="2"/>
+        <text fill="white" xml:space="preserve" style="white-space: pre" font-family="JetBrains Mono" font-size="14"
+              font-weight="bold" letter-spacing="0em"><tspan x="58.1191" y="545.54">Laravel</tspan></text>
+        <circle cx="475" cy="369" r="21" fill="url(#paint13_radial)" stroke="white" stroke-width="2"/>
+        <rect x="473" y="347" width="104" height="31" rx="15.5" fill="url(#paint14_radial)" stroke="white"
+              stroke-width="2"/>
+        <text fill="white" xml:space="preserve" style="white-space: pre" font-family="JetBrains Mono" font-size="14"
+              font-weight="bold" letter-spacing="0em"><tspan x="483.027" y="367.54">PostgreSQL</tspan></text>
+        <circle cx="632" cy="499" r="24" fill="url(#paint15_radial)" stroke="white" stroke-width="2"/>
+        <rect x="633" y="474" width="68" height="31" rx="15.5" fill="url(#paint16_radial)" stroke="white"
+              stroke-width="2"/>
+        <text fill="white" xml:space="preserve" style="white-space: pre" font-family="JetBrains Mono" font-size="14"
+              font-weight="bold" letter-spacing="0em"><tspan x="646.014" y="494.54">Flask</tspan></text>
+        <circle cx="658" cy="429" r="15" fill="url(#paint17_radial)" stroke="white" stroke-width="2"/>
+        <rect x="656" y="404" width="80" height="31" rx="15.5" fill="url(#paint18_radial)" stroke="white"
+              stroke-width="2"/>
+        <text fill="white" xml:space="preserve" style="white-space: pre" font-family="JetBrains Mono" font-size="14"
+              font-weight="bold" letter-spacing="0em"><tspan x="670.816" y="424.54">Django</tspan></text>
+        <circle cx="367" cy="304" r="31" fill="url(#paint19_radial)" stroke="white" stroke-width="2"/>
+        <rect x="353" y="296" width="113" height="31" rx="15.5" fill="url(#paint20_radial)" stroke="white"
+              stroke-width="2"/>
+        <text fill="white" xml:space="preserve" style="white-space: pre" font-family="JetBrains Mono" font-size="14"
+              font-weight="bold" letter-spacing="0em"><tspan x="367.527" y="316.54">Discord.py</tspan></text>
+        <circle cx="131" cy="323" r="33" fill="url(#paint21_radial)" stroke="white" stroke-width="2"/>
+        <rect x="128" y="302" width="89" height="31" rx="15.5" fill="url(#paint22_radial)" stroke="white"
+              stroke-width="2"/>
+        <text fill="white" xml:space="preserve" style="white-space: pre" font-family="JetBrains Mono" font-size="14"
+              font-weight="bold" letter-spacing="0em"><tspan x="147.316" y="322.54">Pygame</tspan></text>
+        <circle cx="208" cy="495" r="28" fill="url(#paint23_radial)" stroke="white" stroke-width="2"/>
+        <rect x="209" y="484" width="80" height="31" rx="15.5" fill="url(#paint24_radial)" stroke="white"
+              stroke-width="2"/>
+        <text fill="white" xml:space="preserve" style="white-space: pre" font-family="JetBrains Mono" font-size="14"
+              font-weight="bold" letter-spacing="0em"><tspan x="219.619" y="504.54">PHP MVC</tspan></text>
+        <circle cx="285.5" cy="372.5" r="21.5" fill="url(#paint25_radial)" stroke="white" stroke-width="2"/>
+        <rect x="285" y="368" width="82" height="31" rx="15.5" fill="url(#paint26_radial)" stroke="white"
+              stroke-width="2"/>
+        <text fill="white" xml:space="preserve" style="white-space: pre" font-family="JetBrains Mono" font-size="14"
+              font-weight="bold" letter-spacing="0em"><tspan x="300.816" y="388.54">sqlite</tspan></text>
+        <circle cx="629.5" cy="308.5" r="21.5" fill="url(#paint27_radial)" stroke="white" stroke-width="2"/>
+        <rect x="629" y="304" width="137" height="31" rx="15.5" fill="url(#paint28_radial)" stroke="white"
+              stroke-width="2"/>
+        <text fill="white" xml:space="preserve" style="white-space: pre" font-family="JetBrains Mono" font-size="14"
+              font-weight="bold" letter-spacing="0em"><tspan x="642.936" y="324.54">Windows Forms</tspan></text>
+        <circle cx="520" cy="281" r="11" fill="url(#paint29_radial)" stroke="white" stroke-width="2"/>
+        <rect x="521" y="254" width="65" height="31" rx="15.5" fill="url(#paint30_radial)" stroke="white"
+              stroke-width="2"/>
+        <text fill="white" xml:space="preserve" style="white-space: pre" font-family="JetBrains Mono" font-size="14"
+              font-weight="bold" letter-spacing="0em"><tspan x="540.908" y="274.54">QT5</tspan></text>
+        <g filter="url(#filter3_di)">
+            <mask id="path-94-inside-3" fill="white">
+                <path d="M401 57C401 50.3726 406.373 45 413 45H743C749.627 45 755 50.3726 755 57V199C755 205.627 749.627 211 743 211H413C406.373 211 401 205.627 401 199V57Z"/>
+            </mask>
+            <path d="M401 57C401 50.3726 406.373 45 413 45H743C749.627 45 755 50.3726 755 57V199C755 205.627 749.627 211 743 211H413C406.373 211 401 205.627 401 199V57Z"
+                  fill="url(#paint31_radial)"/>
+            <path d="M401 57C401 50.3726 406.373 45 413 45H743C749.627 45 755 50.3726 755 57V199C755 205.627 749.627 211 743 211H413C406.373 211 401 205.627 401 199V57Z"
+                  stroke="white" stroke-width="4" mask="url(#path-94-inside-3)"/>
+        </g>
+        <text fill="white" xml:space="preserve" style="white-space: pre" font-family="JetBrains Mono" font-size="36"
+              font-weight="bold" letter-spacing="0em"><tspan x="664" y="138.96">A+</tspan></text>
+        <text fill="white" xml:space="preserve" style="white-space: pre" font-family="JetBrains Mono" font-size="14"
+              font-weight="bold" letter-spacing="0em"><tspan x="446" y="103.04">Stars: 72&#10;</tspan>
+            <tspan x="446" y="123.04">Pull Requests: 15&#10;</tspan>
+            <tspan x="446" y="143.04">Contributed to: 8&#10;</tspan>
+            <tspan x="446" y="163.04">Issues raised: 3</tspan></text>
+        <g filter="url(#filter4_di)">
+            <rect x="45" y="45" width="311" height="166" rx="12" fill="url(#paint32_radial)"/>
+            <rect x="46" y="46" width="309" height="164" rx="11" stroke="white" stroke-width="2"/>
+        </g>
+        <text fill="white" xml:space="preserve" style="white-space: pre" font-family="JetBrains Mono" font-size="24"
+              font-weight="bold" letter-spacing="0em"><tspan x="90" y="114.64">Sigmanificient</tspan></text>
+        <text fill="white" xml:space="preserve" style="white-space: pre" font-family="JetBrains Mono" font-size="14"
+              font-weight="bold" letter-spacing="0em"><tspan x="90" y="144.04">FullStack Pythonista,&#10;</tspan>
+            <tspan x="90" y="162.04">Jetbrains and Tabnine user</tspan></text>
+    </g>
+    <defs>
+        <filter id="filter0_di" x="417" y="545" width="388" height="260" filterUnits="userSpaceOnUse"
+                color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+            <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+            <feOffset/>
+            <feGaussianBlur stdDeviation="25"/>
+            <feColorMatrix type="matrix" values="0 0 0 0 0.239216 0 0 0 0 0.0627451 0 0 0 0 0.0823529 0 0 0 1 0"/>
+            <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+            <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+            <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+                           result="hardAlpha"/>
+            <feOffset/>
+            <feGaussianBlur stdDeviation="50"/>
+            <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+            <feColorMatrix type="matrix" values="0 0 0 0 0.239216 0 0 0 0 0.0627451 0 0 0 0 0.0823529 0 0 0 1 0"/>
+            <feBlend mode="normal" in2="shape" result="effect2_innerShadow"/>
+        </filter>
+        <filter id="filter1_di" x="-5" y="545" width="477" height="260" filterUnits="userSpaceOnUse"
+                color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+            <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+            <feOffset/>
+            <feGaussianBlur stdDeviation="25"/>
+            <feColorMatrix type="matrix" values="0 0 0 0 0.239216 0 0 0 0 0.0627451 0 0 0 0 0.0823529 0 0 0 1 0"/>
+            <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+            <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+            <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+                           result="hardAlpha"/>
+            <feOffset/>
+            <feGaussianBlur stdDeviation="50"/>
+            <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+            <feColorMatrix type="matrix" values="0 0 0 0 0.239216 0 0 0 0 0.0627451 0 0 0 0 0.0823529 0 0 0 1 0"/>
+            <feBlend mode="normal" in2="shape" result="effect2_innerShadow"/>
+        </filter>
+        <filter id="filter2_di" x="-5" y="206" width="810" height="394" filterUnits="userSpaceOnUse"
+                color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+            <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+            <feOffset/>
+            <feGaussianBlur stdDeviation="25"/>
+            <feColorMatrix type="matrix" values="0 0 0 0 0.239216 0 0 0 0 0.0627451 0 0 0 0 0.0823529 0 0 0 1 0"/>
+            <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+            <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+            <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+                           result="hardAlpha"/>
+            <feOffset/>
+            <feGaussianBlur stdDeviation="50"/>
+            <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+            <feColorMatrix type="matrix" values="0 0 0 0 0.239216 0 0 0 0 0.0627451 0 0 0 0 0.0823529 0 0 0 1 0"/>
+            <feBlend mode="normal" in2="shape" result="effect2_innerShadow"/>
+        </filter>
+        <filter id="filter3_di" x="351" y="-5" width="454" height="266" filterUnits="userSpaceOnUse"
+                color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+            <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+            <feOffset/>
+            <feGaussianBlur stdDeviation="25"/>
+            <feColorMatrix type="matrix" values="0 0 0 0 0.239216 0 0 0 0 0.0627451 0 0 0 0 0.0823529 0 0 0 1 0"/>
+            <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+            <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+            <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+                           result="hardAlpha"/>
+            <feOffset/>
+            <feGaussianBlur stdDeviation="50"/>
+            <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+            <feColorMatrix type="matrix" values="0 0 0 0 0.239216 0 0 0 0 0.0627451 0 0 0 0 0.0823529 0 0 0 1 0"/>
+            <feBlend mode="normal" in2="shape" result="effect2_innerShadow"/>
+        </filter>
+        <filter id="filter4_di" x="-5" y="-5" width="411" height="266" filterUnits="userSpaceOnUse"
+                color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+            <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+            <feOffset/>
+            <feGaussianBlur stdDeviation="25"/>
+            <feColorMatrix type="matrix" values="0 0 0 0 0.239216 0 0 0 0 0.0627451 0 0 0 0 0.0823529 0 0 0 1 0"/>
+            <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+            <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+            <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+                           result="hardAlpha"/>
+            <feOffset/>
+            <feGaussianBlur stdDeviation="50"/>
+            <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+            <feColorMatrix type="matrix" values="0 0 0 0 0.239216 0 0 0 0 0.0627451 0 0 0 0 0.0823529 0 0 0 1 0"/>
+            <feBlend mode="normal" in2="shape" result="effect2_innerShadow"/>
+        </filter>
+        <radialGradient id="paint0_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse"
+                        gradientTransform="translate(537.974 711.364) rotate(-18.8086) scale(193.73 376.02)">
+            <stop stop-color="#3D1015"/>
+            <stop offset="1" stop-color="#69242E"/>
+        </radialGradient>
+        <radialGradient id="paint1_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse"
+                        gradientTransform="translate(137.907 711.364) rotate(-14.5844) scale(248.048 384.432)">
+            <stop stop-color="#3D1015"/>
+            <stop offset="1" stop-color="#69242E"/>
+        </radialGradient>
+        <radialGradient id="paint2_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse"
+                        gradientTransform="translate(219.972 469.818) rotate(-14.2444) scale(466.435 707.473)">
+            <stop stop-color="#3D1015"/>
+            <stop offset="1" stop-color="#69242E"/>
+        </radialGradient>
+        <radialGradient id="paint3_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse"
+                        gradientTransform="translate(490 449) rotate(135) scale(79.196 50.8212)">
+            <stop stop-color="#69242E"/>
+            <stop offset="1" stop-color="#3D1015"/>
+        </radialGradient>
+        <radialGradient id="paint4_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse"
+                        gradientTransform="translate(462 487) rotate(-157.329) scale(85.6154 55.2456)">
+            <stop stop-color="#3D1015"/>
+            <stop offset="1" stop-color="#69242E"/>
+        </radialGradient>
+        <radialGradient id="paint5_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse"
+                        gradientTransform="translate(551 513) rotate(135) scale(48.0833 30.8557)">
+            <stop stop-color="#69242E"/>
+            <stop offset="1" stop-color="#3D1015"/>
+        </radialGradient>
+        <radialGradient id="paint6_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse"
+                        gradientTransform="translate(565 563) rotate(-157.329) scale(85.6154 55.2456)">
+            <stop stop-color="#3D1015"/>
+            <stop offset="1" stop-color="#69242E"/>
+        </radialGradient>
+        <radialGradient id="paint7_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse"
+                        gradientTransform="translate(161 400) rotate(135) scale(48.0833 30.8557)">
+            <stop stop-color="#69242E"/>
+            <stop offset="1" stop-color="#3D1015"/>
+        </radialGradient>
+        <radialGradient id="paint8_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse"
+                        gradientTransform="translate(150 450) rotate(-157.329) scale(85.6154 55.2456)">
+            <stop stop-color="#3D1015"/>
+            <stop offset="1" stop-color="#69242E"/>
+        </radialGradient>
+        <radialGradient id="paint9_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse"
+                        gradientTransform="translate(161 400) rotate(135) scale(48.0833 30.8557)">
+            <stop stop-color="#69242E"/>
+            <stop offset="1" stop-color="#3D1015"/>
+        </radialGradient>
+        <radialGradient id="paint10_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse"
+                        gradientTransform="translate(150 450) rotate(-157.329) scale(85.6154 55.2456)">
+            <stop stop-color="#3D1015"/>
+            <stop offset="1" stop-color="#69242E"/>
+        </radialGradient>
+        <radialGradient id="paint11_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse"
+                        gradientTransform="translate(72 509) rotate(135) scale(48.0833 30.8557)">
+            <stop stop-color="#69242E"/>
+            <stop offset="1" stop-color="#3D1015"/>
+        </radialGradient>
+        <radialGradient id="paint12_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse"
+                        gradientTransform="translate(131 557) rotate(-159.228) scale(93.0484 55.9801)">
+            <stop stop-color="#3D1015"/>
+            <stop offset="1" stop-color="#69242E"/>
+        </radialGradient>
+        <radialGradient id="paint13_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse"
+                        gradientTransform="translate(497 347) rotate(135) scale(62.2254 39.9309)">
+            <stop stop-color="#69242E"/>
+            <stop offset="1" stop-color="#3D1015"/>
+        </radialGradient>
+        <radialGradient id="paint14_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse"
+                        gradientTransform="translate(578 379) rotate(-162.708) scale(111.018 57.1657)">
+            <stop stop-color="#3D1015"/>
+            <stop offset="1" stop-color="#69242E"/>
+        </radialGradient>
+        <radialGradient id="paint15_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse"
+                        gradientTransform="translate(657 474) rotate(135) scale(70.7107 45.3761)">
+            <stop stop-color="#69242E"/>
+            <stop offset="1" stop-color="#3D1015"/>
+        </radialGradient>
+        <radialGradient id="paint16_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse"
+                        gradientTransform="translate(702 506) rotate(-154.759) scale(77.3886 54.1557)">
+            <stop stop-color="#3D1015"/>
+            <stop offset="1" stop-color="#69242E"/>
+        </radialGradient>
+        <radialGradient id="paint17_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse"
+                        gradientTransform="translate(674 413) rotate(135) scale(45.2548 29.0407)">
+            <stop stop-color="#69242E"/>
+            <stop offset="1" stop-color="#3D1015"/>
+        </radialGradient>
+        <radialGradient id="paint18_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse"
+                        gradientTransform="translate(737 436) rotate(-158.078) scale(88.3912 55.5428)">
+            <stop stop-color="#3D1015"/>
+            <stop offset="1" stop-color="#69242E"/>
+        </radialGradient>
+        <radialGradient id="paint19_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse"
+                        gradientTransform="translate(399 272) rotate(135) scale(90.5097 58.0814)">
+            <stop stop-color="#69242E"/>
+            <stop offset="1" stop-color="#3D1015"/>
+        </radialGradient>
+        <radialGradient id="paint20_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse"
+                        gradientTransform="translate(467 328) rotate(-163.989) scale(119.641 57.5493)">
+            <stop stop-color="#3D1015"/>
+            <stop offset="1" stop-color="#69242E"/>
+        </radialGradient>
+        <radialGradient id="paint21_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse"
+                        gradientTransform="translate(165 289) rotate(135) scale(96.1665 61.7114)">
+            <stop stop-color="#69242E"/>
+            <stop offset="1" stop-color="#3D1015"/>
+        </radialGradient>
+        <radialGradient id="paint22_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse"
+                        gradientTransform="translate(218 334) rotate(-160.067) scale(96.7988 56.2852)">
+            <stop stop-color="#3D1015"/>
+            <stop offset="1" stop-color="#69242E"/>
+        </radialGradient>
+        <radialGradient id="paint23_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse"
+                        gradientTransform="translate(237 466) rotate(135) scale(82.0244 52.6362)">
+            <stop stop-color="#69242E"/>
+            <stop offset="1" stop-color="#3D1015"/>
+        </radialGradient>
+        <radialGradient id="paint24_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse"
+                        gradientTransform="translate(290 516) rotate(-158.078) scale(88.3912 55.5428)">
+            <stop stop-color="#3D1015"/>
+            <stop offset="1" stop-color="#69242E"/>
+        </radialGradient>
+        <radialGradient id="paint25_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse"
+                        gradientTransform="translate(308 350) rotate(135) scale(63.6396 40.8385)">
+            <stop stop-color="#69242E"/>
+            <stop offset="1" stop-color="#3D1015"/>
+        </radialGradient>
+        <radialGradient id="paint26_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse"
+                        gradientTransform="translate(368 400) rotate(-158.552) scale(90.2497 55.7259)">
+            <stop stop-color="#3D1015"/>
+            <stop offset="1" stop-color="#69242E"/>
+        </radialGradient>
+        <radialGradient id="paint27_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse"
+                        gradientTransform="translate(652 286) rotate(135) scale(63.6396 40.8385)">
+            <stop stop-color="#69242E"/>
+            <stop offset="1" stop-color="#3D1015"/>
+        </radialGradient>
+        <radialGradient id="paint28_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse"
+                        gradientTransform="translate(767 336) rotate(-166.645) scale(142.864 58.2527)">
+            <stop stop-color="#3D1015"/>
+            <stop offset="1" stop-color="#69242E"/>
+        </radialGradient>
+        <radialGradient id="paint29_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse"
+                        gradientTransform="translate(532 269) rotate(135) scale(33.9411 21.7805)">
+            <stop stop-color="#69242E"/>
+            <stop offset="1" stop-color="#3D1015"/>
+        </radialGradient>
+        <radialGradient id="paint30_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse"
+                        gradientTransform="translate(587 286) rotate(-153.778) scale(74.686 53.7104)">
+            <stop stop-color="#3D1015"/>
+            <stop offset="1" stop-color="#69242E"/>
+        </radialGradient>
+        <radialGradient id="paint31_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse"
+                        gradientTransform="translate(488.239 165.727) rotate(-16.0392) scale(234.54 396.085)">
+            <stop stop-color="#3D1015"/>
+            <stop offset="1" stop-color="#69242E"/>
+        </radialGradient>
+        <radialGradient id="paint32_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse"
+                        gradientTransform="translate(121.642 165.727) rotate(-18.1199) scale(208.363 391.69)">
+            <stop stop-color="#3D1015"/>
+            <stop offset="1" stop-color="#69242E"/>
+        </radialGradient>
+        <clipPath id="clip0">
+            <rect width="800" height="800" fill="white"/>
+        </clipPath>
+    </defs>
+</svg>
