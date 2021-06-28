@@ -11,7 +11,7 @@
                   unicode-range: U+0000-00FF;
                 }
 
-                @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@700&display=swap');
+                @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@700');
 
                 p.t-1 {
                     font-family: 'JetBrains Mono';
