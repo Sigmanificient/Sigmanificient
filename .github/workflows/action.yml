@@ -1,10 +1,9 @@
 on:
   workflow_dispatch:
-  schedule: [{cron: "* 0 * * *"}]
-  push: {branches: ["master"]}
+  # schedule: [{cron: "0 * * * *"}]
 
 jobs:
-  readme-update:
+  reamde-update:
     runs-on: ubuntu-latest
 
     steps:
@@ -17,16 +16,16 @@ jobs:
           python-version: '3.x'
           architecture: 'x64'
 
-      - name: run
-        run: make
+      - name: running script
+        run: python src/auto_update_readme.py
 
-      - name: setup git
+      - name: Commit files
         run: |
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git pull
-
-      - name: running script
-        run: |
-          git commit -m ":memo: Update README" -a || echo "No changes to commit"
-          git push || echo "No changes to push"
+          git commit -m "Add changes" -a
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: master
