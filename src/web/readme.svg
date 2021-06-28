@@ -7,7 +7,7 @@
                   font-style: normal;
                   font-weight: 700;
                   font-display: swap;
-                  src: url("../fonts/JetBrains-Mono-Bold.woff2") format('woff2');
+                  src: url("https://github.com/Sigmanificient/Sigmanificient/blob/master/src/fonts/JetBrainsMono-Bold.ttf") format('woff2');
                   unicode-range: U+0000-00FF;
                 }
 
