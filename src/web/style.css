@@ -16,6 +16,20 @@ body {
     top: 0;
 }
 
+h1, p {
+    margin: 0;
+}
+
+h1 {
+    font-size: 20px;
+    line-height: 28px;
+}
+
+p {
+    font-size: 12px;
+    line-height: 16px;
+}
+
 .root {
     top: 0;
     left: 0;
@@ -24,6 +38,7 @@ body {
     position: absolute;
     font-family: 'JetBrains Mono', monospace;
     font-weight: bold;
+    color: white;
 }
 
 .content {
@@ -44,6 +59,17 @@ body {
 
 .top {
     grid-template-columns: 7fr 9fr;
+}
+
+.top .right {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.note {
+    font-size: 28px;
+    line-height: 32px;
 }
 
 .bottom {
