@@ -44,16 +44,20 @@ p {
 .content {
     display: grid;
     margin: var(--everything-size);
-    grid-template-rows: 4fr 9fr 3fr;
-    grid-gap: var(--everything-size)
+    grid-gap: var(--everything-size);
+    height: calc(100% - 2 * var(--everything-size));
+    grid-template-rows: 1fr 3fr 1fr;
 }
 
 .block {
+    border: 2px solid white;
     padding: var(--everything-size);
+    border-radius: var(--border-radius);
 }
 
 .top, .bottom {
     display: grid;
+    height: max-content;
     grid-gap: var(--everything-size);
 }
 
@@ -72,6 +76,43 @@ p {
     line-height: 32px;
 }
 
+.middle {
+    padding: 0;
+    position: relative;
+}
+
+.bg-lines {
+    display: flex;
+    height: 100%;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+hr {
+    border: none;
+    border-top: 1px solid white;
+    width: 100%;
+}
+
 .bottom {
     grid-template-columns: 9fr 7fr;
+}
+
+.progress {
+    border: 2px solid white;
+    border-radius: var(--everything-size);
+    width: 100%;
+    height: 12px;
+    margin: 2px 0;
+}
+
+.lang {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+}
+
+.bottom .right {
+    display: grid;
+    place-content: center;
 }
