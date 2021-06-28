@@ -38,17 +38,6 @@
     --l9-w: #l9-w;
 }
 
-body {
-    margin: 0;
-    background-color: black;
-    border: 5px solid red;
-    position: absolute;
-    height: 800px;
-    width: 800px;
-    left: 0;
-    top: 0;
-}
-
 h1, p {
     margin: 0;
 }
