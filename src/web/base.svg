@@ -92,7 +92,7 @@
                 }
 
                 .top {
-                    grid-template-columns: 7fr 9fr;
+                    grid-template-columns: 8fr 8fr;
                 }
 
                 .top .right {
@@ -130,6 +130,7 @@
 
                 .progress {
                     display: flex;
+                    overflow: hidden;
                     border: 2px solid var(--text-border-col);
                     border-radius: var(--everything-size);
                     height: 12px;
@@ -208,6 +209,10 @@
                     justify-content: space-evenly;
                 }
 
+                .lang p {
+                    margin: 0 10px;
+                }
+
                 .bottom .right {
                     display: grid;
                     place-content: center;
@@ -265,14 +270,14 @@
                     <div class="top">
                         <div class="left block">
                             <h1>Sigmanificient</h1>
-                            <p>FullStack Pythonista,<br>Jetbrains and Tabnine User
+                            <p>FullStack Pythonista,<br/>Jetbrains and Tabnine User
                             </p>
                         </div>
                         <div class="right block">
                             <div class="stats">
                                 <p>Stars: #stars</p>
-                                <p>Pull Requests: #pr</p>
-                                <p>Contributed to: #contributed</p>
+                                <p>Pull Requests: #prs</p>
+                                <p>Contributed to: #contribs</p>
                                 <p>Issues raised: #issues</p>
                             </div>
                             <p class="note">#L</p>
@@ -280,10 +285,10 @@
                     </div>
                     <div class="middle block">
                         <div class="bg-lines">
-                            <hr>
-                            <hr>
-                            <hr>
-                            <hr>
+                            <hr/>
+                            <hr/>
+                            <hr/>
+                            <hr/>
                         </div>
                     </div>
                     <div class="bottom">
