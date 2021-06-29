@@ -17,10 +17,10 @@ jobs:
           architecture: 'x64'
 
       - name: install requirements
-        run: pip install -r src/requirements.txt
+        run: pip install -r requirements.txt
 
       - name: running script
-        run: python src/auto_update_readme.py
+        run: python auto_update_readme.py
 
       - name: Commit files
         run: |
