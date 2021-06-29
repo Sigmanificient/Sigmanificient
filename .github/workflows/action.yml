@@ -16,6 +16,9 @@ jobs:
           python-version: '3.x'
           architecture: 'x64'
 
+      - name: install requirements
+        run: python pip install -r src/requirements.txt
+
       - name: running script
         run: python src/auto_update_readme.py
 
