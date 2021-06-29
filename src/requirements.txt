@@ -1,2 +1,2 @@
 requests~=2.25.1
-BeautifulSoup4~=4.3.1
+beautifulsoup4>=4.3.1
