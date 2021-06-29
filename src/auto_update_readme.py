@@ -43,9 +43,7 @@ while c <= 9:
     c += 1
 
 # commits stats
-
 commits_stats = requests.get(GH_COMMIT_STAT_URL)
-print(commits_stats.content)
 soup = BeautifulSoup(commits_stats.content, "html.parser")
 
 
@@ -58,7 +56,7 @@ commit_avg = ''.join(c for c in commit_avg if c.isdigit() or c == '.')
 svg_vars['streak'] = streak
 svg_vars['cmt_avg'] = commit_avg
 
-with open("web/base.svg") as f:
+with open("../src/web/base.svg") as f:
     svg = f.read()
 
 for k, v in svg_vars.items():
