@@ -21,9 +21,12 @@ svg_vars['year'] = str(datetime.now().year)
 top_languages = requests.get(GH_TOP_LANGUAGES_LINK)
 soup = BeautifulSoup(top_languages.content, "html.parser")
 
+print(top_languages.content)
+
 languages = []
 for g in soup.find_all('g'):
     children = [child for child in g.children if not (isinstance(child, str))]
+
     if len(children) != 2:
         continue
 
@@ -39,8 +42,8 @@ for c, lang in enumerate(languages):
     svg_vars[f'l{c}-w'] = percent
 
 while c <= 9:
-    svg_vars[f'lang_{c}'] = 'empty'
     c += 1
+    svg_vars[f'lang_{c}'] = 'empty'
 
 # commits stats
 commits_stats = requests.get(GH_COMMIT_STAT_URL)
@@ -56,13 +59,4 @@ commit_avg = ''.join(c for c in commit_avg if c.isdigit() or c == '.')
 svg_vars['streak'] = streak
 svg_vars['cmt_avg'] = commit_avg
 
-with open("base.svg") as f:
-    svg = f.read()
-
-for k, v in svg_vars.items():
-    svg = svg.replace(f'#{k}', v)
-
-svg = svg.replace('<p>empty</p>', '')
-
-with open("readme.svg", "w") as f:
-    f.write(svg)
+print(svg_vars)
