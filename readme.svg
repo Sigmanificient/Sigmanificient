@@ -12,28 +12,28 @@
                     --text-border-col: #f8f0f0;
 
                     --l0-col: #3572A5;
-                    --l0-w: 47.53%;
+                    --l0-w: 47.28%;
 
                     --l1-col: #e34c26;
-                    --l1-w: 18.65%;
+                    --l1-w: 18.74%;
 
                     --l2-col: #4F5D95;
-                    --l2-w: 17.42%;
+                    --l2-w: 17.50%;
 
                     --l3-col: #c6538c;
-                    --l3-w: 7.83%;
+                    --l3-w: 7.87%;
 
                     --l4-col: #f1e05a;
-                    --l4-w: 3.91%;
+                    --l4-w: 3.92%;
 
                     --l5-col: #563d7c;
-                    --l5-w: 3.70%;
+                    --l5-w: 3.72%;
 
                     --l6-col: #858585;
                     --l6-w: 0.96%;
 
-                    --l7-col: 0.00%;
-                    --l7-w: 0.00%;
+                    --l7-col: #l7-w;
+                    --l7-w: #l7-w;
 
                     --l8-col: #l8-col;
                     --l8-w: #l8-w;
@@ -313,15 +313,15 @@
                                 <p>JavaScript</p>
                                 <p>CSS</p>
                                 <p>SQL</p>
-                                <p>Shell</p>
+                                
                                 
                                 
                             </div>
                         </div>
                         <div class="right block">
-                            <p>1.7k commits in 2021</p>
-                            <p>Best streak 20 days</p>
-                            <p>~9.85 commits per days</p>
+                            <p>1.8k commits in 2021</p>
+                            <p>Best streak 55 days</p>
+                            <p>~10.31 commits per days</p>
                         </div>
                     </div>
                 </div>
