@@ -67,7 +67,7 @@
                     }
 
                     100% {
-                        transform: rotate(360deg) scale(0.8);
+                        transform: scale(0.8) rotate(360deg);
                     }
                 }
 
@@ -339,6 +339,10 @@
                     <circle cx="292" cy="199" r="28.5"></circle>
                     <circle cx="405" cy="633" r="50.5"></circle>
                 </svg>
+
+                <div class="sigma">
+                    <img src="https://avatars.githubusercontent.com/u/53050011" alt="Loading..."/>
+                </div>
 
                 <div class="content">
                     <div class="top">
