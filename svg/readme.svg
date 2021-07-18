@@ -5,6 +5,7 @@
                 @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@700');
 
                 :root {
+                    --bounce: cubic-bezier(0.42, 0, 0.1, 1.35);
                     --everything-size: 42px;
                     --border-radius: 12px;
                     --dark-col: #3D1015;
@@ -12,22 +13,22 @@
                     --text-border-col: #f8f0f0;
 
                     --l0-col: #3572A5;
-                    --l0-w: 47.28%;
+                    --l0-w: 47.02%;
 
                     --l1-col: #e34c26;
-                    --l1-w: 18.74%;
+                    --l1-w: 18.69%;
 
                     --l2-col: #4F5D95;
-                    --l2-w: 17.50%;
+                    --l2-w: 17.41%;
 
                     --l3-col: #c6538c;
-                    --l3-w: 7.87%;
+                    --l3-w: 7.83%;
 
-                    --l4-col: #f1e05a;
-                    --l4-w: 3.92%;
+                    --l4-col: #563d7c;
+                    --l4-w: 4.19%;
 
-                    --l5-col: #563d7c;
-                    --l5-w: 3.72%;
+                    --l5-col: #f1e05a;
+                    --l5-w: 3.90%;
 
                     --l6-col: #858585;
                     --l6-w: 0.96%;
@@ -41,6 +42,38 @@
                     --l9-col: #l9-col;
                     --l9-w: #l9-w;
                 }
+
+                @keyframes fadeIn {
+                    100% {
+                        opacity: 1;
+                    }
+                }
+
+                @keyframes left-Slide {
+                    0% {
+                        transform: translateX(-100%);
+                        opacity: 0;
+                    }
+
+                    100% {
+                        transform: translateX(0);
+                        opacity: 1;
+                    }
+                }
+
+                @keyframes spin {
+                    100% {
+                        transform: rotate(360deg);
+                    }
+                }
+
+                .sigma {
+                    position: absolute;
+                    inset: 0;
+                    display: grid;
+                    place-content: center;
+                }
+
 
                 h1, p {
                     margin: 0;
@@ -92,12 +125,18 @@
                 }
 
                 .top {
-                    grid-template-columns: 8fr 8fr;
+                    grid-template-columns: 7fr 9fr;
+                }
+
+                .top .left {
+                    opacity: 0;
+                    animation: left-Slide 1.5s 0.75s var(--bounce) forwards;
                 }
 
                 .top .right {
                     display: flex;
                     justify-content: space-between;
+                    animation: left-Slide 1.5s var(--bounce);
                     align-items: center;
                 }
 
@@ -109,6 +148,13 @@
                 .middle {
                     padding: 0;
                     position: relative;
+                    animation: left-Slide 1.5s 0.5s var(--bounce) forwards;
+                    opacity: 0;
+                }
+
+                .block:not(.middle) > * {
+                    opacity: 0;
+                    animation: left-Slide 1.5s 1s var(--bounce) forwards;
                 }
 
                 .bg-lines {
@@ -126,6 +172,16 @@
 
                 .bottom {
                     grid-template-columns: 9fr 7fr;
+                }
+
+                .bottom .left {
+                    animation: left-Slide 1.5s 0.42s var(--bounce) forwards;
+                    opacity: 0;
+                }
+
+                .bottom .right {
+                    animation: left-Slide 1.5s 0.12s var(--bounce) forwards;
+                    opacity: 0;
                 }
 
                 .progress {
@@ -218,28 +274,42 @@
                     place-content: center;
                 }
 
-                svg#bg {
-                    stroke: #fff;
-                }
+               svg#bg {
+                   animation: spin 200s linear infinite;
+                   stroke: #fff;
+               }
 
-                svg#technologies {
-                    position: absolute;
-                    inset: 0;
-                }
+               svg#technologies {
+                   position: absolute;
+                   inset: 0;
+               }
 
-                svg#technologies rect, svg#technologies circle {
-                    fill: url(#rd-1);
-                    filter: drop-shadow(0 3px 2px var(--dark-col));
-                    stroke-width: 2;
-                    stroke: #fff;
-                }
+               svg#technologies circle {
+                   opacity: 0;
+                   animation: fadeIn 0.5s 2s linear forwards;
+               }
 
-                svg#technologies text {
-                    fill: var(--text-border-col);
-                    font-family: "JetBrains Mono", monospace;
-                    font-size: 14px;
-                    font-weight: bold
-                }
+               svg#technologies rect {
+                   opacity: 0;
+                   animation: fadeIn 0.5s 2.5s linear forwards;
+               }
+
+               svg#technologies rect, svg#technologies circle {
+                   fill: url(#rd-1);
+                   filter: drop-shadow(0 3px 2px var(--dark-col));
+
+                   stroke-width: 2;
+                   stroke: #fff;
+               }
+
+               svg#technologies text {
+                   fill: var(--text-border-col);
+                   font-family: "JetBrains Mono", monospace;
+                   font-size: 14px;
+                   font-weight: bold;
+                   opacity: 0;
+                   animation: fadeIn 0.5s 3s linear forwards;
+               }
             </style>
 
             <div class="root">
@@ -310,8 +380,8 @@
                                 <p>HTML</p>
                                 <p>PHP</p>
                                 <p>SCSS</p>
-                                <p>JavaScript</p>
                                 <p>CSS</p>
+                                <p>JavaScript</p>
                                 <p>SQL</p>
                                 
                                 
