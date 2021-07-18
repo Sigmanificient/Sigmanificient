@@ -2,8 +2,6 @@
 
 :root {
     --bounce: cubic-bezier(0.42, 0, 0.1, 1.35);
-
-    background: black;
     --everything-size: 42px;
     --border-radius: 12px;
     --dark-col: #3D1015;
