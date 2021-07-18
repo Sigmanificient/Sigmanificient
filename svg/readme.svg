@@ -13,19 +13,19 @@
                     --text-border-col: #f8f0f0;
 
                     --l0-col: #3572A5;
-                    --l0-w: 47.02%;
+                    --l0-w: 47.13%;
 
                     --l1-col: #e34c26;
-                    --l1-w: 18.69%;
+                    --l1-w: 18.65%;
 
                     --l2-col: #4F5D95;
-                    --l2-w: 17.41%;
+                    --l2-w: 17.37%;
 
                     --l3-col: #c6538c;
-                    --l3-w: 7.83%;
+                    --l3-w: 7.81%;
 
                     --l4-col: #563d7c;
-                    --l4-w: 4.19%;
+                    --l4-w: 4.18%;
 
                     --l5-col: #f1e05a;
                     --l5-w: 3.90%;
@@ -62,8 +62,12 @@
                 }
 
                 @keyframes spin {
+                    0% {
+                        transform: scale(0.8);
+                    }
+
                     100% {
-                        transform: rotate(360deg);
+                        transform: rotate(360deg) scale(0.8);
                     }
                 }
 
@@ -275,7 +279,6 @@
                 }
 
                svg#bg {
-                   transform: scale(0.9);
                    animation: spin 200s linear infinite;
                    stroke: #fff;
                }
@@ -392,7 +395,7 @@
                         <div class="right block">
                             <p>1.8k commits in 2021</p>
                             <p>Best streak 56 days</p>
-                            <p>~10.30 commits per days</p>
+                            <p>~10.33 commits per days</p>
                         </div>
                     </div>
                 </div>
