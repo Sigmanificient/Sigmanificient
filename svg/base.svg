@@ -78,6 +78,9 @@
                     place-content: center;
                 }
 
+                .sigma svg {
+                    transform: scale(0.4);
+                }
 
                 h1, p {
                     margin: 0;
@@ -341,7 +344,218 @@
                 </svg>
 
                 <div class="sigma">
-                    <img src="https://raw.githubusercontent.com/Sigmanificient/Sigmanificient/587d1c5222a76719cd2a24e883538070c473d84c/sigma.png" alt="Loading..."/>
+                    <svg width="851" height="901" xmlns="http://www.w3.org/2000/svg" overflow="hidden">
+                        <defs>
+                            <filter id="fx0" x="-10%" y="-10%" width="120%" height="120%">
+                                <feComponentTransfer color-interpolation-filters="sRGB">
+                                    <feFuncR type="discrete" tableValues="0.0666667 0.0666667"/>
+                                    <feFuncG type="discrete" tableValues="0 0"/>
+                                    <feFuncB type="discrete" tableValues="0.0156863 0.0156863"/>
+                                    <feFuncA type="linear" slope="0.458824" intercept="0"/>
+                                </feComponentTransfer>
+                                <feGaussianBlur stdDeviation="6.67747 6.66667"/>
+                            </filter>
+                            <filter id="fx1" x="-10%" y="-10%" width="120%" height="120%">
+                                <feComponentTransfer color-interpolation-filters="sRGB">
+                                    <feFuncR type="discrete" tableValues="0.0666667 0.0666667"/>
+                                    <feFuncG type="discrete" tableValues="0 0"/>
+                                    <feFuncB type="discrete" tableValues="0.0156863 0.0156863"/>
+                                    <feFuncA type="linear" slope="1" intercept="0"/>
+                                </feComponentTransfer>
+                                <feGaussianBlur stdDeviation="6.45476 6.45476"/>
+                            </filter>
+                            <filter id="fx2" x="-10%" y="-10%" width="120%" height="120%">
+                                <feComponentTransfer color-interpolation-filters="sRGB">
+                                    <feFuncR type="discrete" tableValues="0 0"/>
+                                    <feFuncG type="discrete" tableValues="0 0"/>
+                                    <feFuncB type="discrete" tableValues="0 0"/>
+                                    <feFuncA type="linear" slope="1" intercept="0"/>
+                                </feComponentTransfer>
+                                <feGaussianBlur stdDeviation="6.45861 6.45861"/>
+                            </filter>
+                            <filter id="fx3" x="-10%" y="-10%" width="120%" height="120%">
+                                <feComponentTransfer color-interpolation-filters="sRGB">
+                                    <feFuncR type="discrete" tableValues="0.0666667 0.0666667"/>
+                                    <feFuncG type="discrete" tableValues="0 0"/>
+                                    <feFuncB type="discrete" tableValues="0.0156863 0.0156863"/>
+                                    <feFuncA type="linear" slope="1" intercept="0"/>
+                                </feComponentTransfer>
+                                <feGaussianBlur stdDeviation="7.40741 7.40741"/>
+                            </filter>
+                            <filter id="fx4" x="-10%" y="-10%" width="120%" height="120%">
+                                <feComponentTransfer color-interpolation-filters="sRGB">
+                                    <feFuncR type="discrete" tableValues="0.0666667 0.0666667"/>
+                                    <feFuncG type="discrete" tableValues="0 0"/>
+                                    <feFuncB type="discrete" tableValues="0.0156863 0.0156863"/>
+                                    <feFuncA type="linear" slope="1" intercept="0"/>
+                                </feComponentTransfer>
+                                <feGaussianBlur stdDeviation="1.77778 1.77778"/>
+                            </filter>
+                            <clipPath id="clip5">
+                                <rect x="-187" y="740" width="851" height="901"/>
+                            </clipPath>
+                            <clipPath id="clip6">
+                                <rect x="-3.50567" y="-3.5" width="316.011" height="316"/>
+                            </clipPath>
+                            <clipPath id="clip7">
+                                <rect x="0" y="0" width="309" height="308"/>
+                            </clipPath>
+                            <radialGradient cx="5.03872e+06" cy="-0.25" r="7.12583e+06" fy="0" id="fill8"
+                                            gradientTransform="matrix(5.31043e-05 0 0 5.30184e-05 20.6446 20.371)">
+                                <stop offset="0"/>
+                                <stop offset="0.65" stop-color="#36000C" stop-opacity="0"/>
+                                <stop offset="1" stop-color="#36000C" stop-opacity="0"/>
+                            </radialGradient>
+                            <radialGradient cx="5.03872e+06" cy="-0.25" r="7.12583e+06" fy="0"
+                                            id="fill9" gradientTransform="matrix(0.000104987 0 0 0.000104987 -31 899)">
+                                <stop offset="0"/>
+                                <stop offset="0.65" stop-color="#36000C" stop-opacity="0"/>
+                                <stop offset="1" stop-color="#36000C" stop-opacity="0"/>
+                            </radialGradient>
+                            <clipPath id="clip10">
+                                <rect x="-3.5056" y="-6.51041" width="321.013" height="324.018"/>
+                            </clipPath>
+                            <clipPath id="clip11">
+                                <rect x="0" y="0" width="313" height="313"/>
+                            </clipPath>
+                            <radialGradient cx="5.03872e+06" cy="-0.25" r="7.12583e+06" fy="0"
+                                            id="fill12" gradientTransform="matrix(0.000104987 0 0 0.000104987 -29 893)">
+                                <stop offset="0" stop-color="#36000C"/>
+                                <stop offset="0.95"/>
+                                <stop offset="1"/>
+                            </radialGradient>
+                            <clipPath id="clip13">
+                                <rect x="-6.51428" y="-6.51431" width="125.024" height="125.024"/>
+                            </clipPath>
+                            <clipPath id="clip14">
+                                <rect x="0" y="0" width="114" height="114"/>
+                            </clipPath>
+                            <linearGradient x1="252" y1="1216" x2="-18" y2="1486" gradientUnits="userSpaceOnUse" spreadMethod="reflect"
+                                            id="fill15">
+                                <stop offset="0"/>
+                                <stop offset="0.0625" stop-color="#010000"/>
+                                <stop offset="0.125" stop-color="#030000"/>
+                                <stop offset="0.1875" stop-color="#050001"/>
+                                <stop offset="0.25" stop-color="#070001"/>
+                                <stop offset="0.3125" stop-color="#080002"/>
+                                <stop offset="0.375" stop-color="#090002"/>
+                                <stop offset="0.4375" stop-color="#0B0002"/>
+                                <stop offset="0.5" stop-color="#0C0002"/>
+                                <stop offset="0.5625" stop-color="#0D0003"/>
+                                <stop offset="0.625" stop-color="#0E0003"/>
+                                <stop offset="0.6875" stop-color="#0F0003"/>
+                                <stop offset="0.75" stop-color="#0F0003"/>
+                                <stop offset="0.8125" stop-color="#100003"/>
+                                <stop offset="0.875" stop-color="#100003"/>
+                                <stop offset="0.9375" stop-color="#100003"/>
+                                <stop offset="1" stop-color="#110004"/>
+                            </linearGradient>
+                            <clipPath id="clip16">
+                                <rect x="-7.5" y="-7.49999" width="159" height="159"/>
+                            </clipPath>
+                            <clipPath id="clip17">
+                                <rect x="0" y="0" width="142" height="142"/>
+                            </clipPath>
+                            <radialGradient cx="5.03872e+06" cy="-0.25" r="7.12583e+06" fy="0" id="fill18"
+                                            gradientTransform="matrix(1.92476e-05 0 0 1.92476e-05 22.4513 22.5192)">
+                                <stop offset="0"/>
+                                <stop offset="0.65" stop-color="#36000C" stop-opacity="0"/>
+                                <stop offset="1" stop-color="#36000C" stop-opacity="0"/>
+                            </radialGradient>
+                            <radialGradient cx="5.03872e+06" cy="-0.25" r="7.12583e+06" fy="0"
+                                            id="fill19" gradientTransform="matrix(0.000104987 0 0 0.000104987 -27 894)">
+                                <stop offset="0"/>
+                                <stop offset="0.65" stop-color="#36000C" stop-opacity="0"/>
+                                <stop offset="1" stop-color="#36000C" stop-opacity="0"/>
+                            </radialGradient>
+                            <clipPath id="clip20">
+                                <rect x="-2" y="-2" width="287" height="287"/>
+                            </clipPath>
+                            <clipPath id="clip21">
+                                <rect x="0" y="0" width="284" height="284"/>
+                            </clipPath>
+                            <linearGradient x1="277" y1="7.33337" x2="7" y2="277.333" gradientUnits="userSpaceOnUse" spreadMethod="reflect"
+                                            id="fill22">
+                                <stop offset="0" stop-color="#000000" stop-opacity="0"/>
+                                <stop offset="0.49" stop-color="#000000" stop-opacity="0"/>
+                                <stop offset="1" stop-color="#110004"/>
+                            </linearGradient>
+                            <linearGradient x1="249" y1="1223" x2="-21" y2="1493" gradientUnits="userSpaceOnUse" spreadMethod="reflect"
+                                            id="fill23">
+                                <stop offset="0" stop-color="#000000" stop-opacity="0"/>
+                                <stop offset="0.49" stop-color="#000000" stop-opacity="0"/>
+                                <stop offset="1" stop-color="#110004"/>
+                            </linearGradient>
+                        </defs>
+                        <g clip-path="url(#clip5)" transform="translate(187 -740)">
+                            <g clip-path="url(#clip6)" filter="url(#fx0)" transform="matrix(1.99676 0 0 2 -45 1025)">
+                                <g clip-path="url(#clip7)">
+                                    <path d="M20.6446 153.943C20.6446 80.1734 80.544 20.371 154.434 20.371 228.323 20.371 288.223 80.1734 288.223 153.943 288.223 227.714 228.323 287.516 154.434 287.516 80.544 287.516 20.6446 227.714 20.6446 153.943Z"
+                                          fill="url(#fill8)" fill-rule="evenodd"/>
+                                </g>
+                            </g>
+                            <path d="M-31 1163.5C-31 1017.42 87.4207 899 233.5 899 379.579 899 498 1017.42 498 1163.5 498 1309.58 379.579 1428 233.5 1428 87.4207 1428-31 1309.58-31 1163.5Z"
+                                  fill="url(#fill9)" fill-rule="evenodd"/>
+                            <text fill="#FFFFFF" font-family="Calibri,Calibri_MSFontService,sans-serif" font-weight="400" font-size="24"
+                                  transform="translate(221.594 1171)">11
+                            </text>
+                            <g clip-path="url(#clip10)" filter="url(#fx1)" transform="matrix(1.99681 0 0 1.99681 -76 852)">
+                                <g clip-path="url(#clip11)" transform="translate(-7.10543e-15 0)">
+                                    <path d="M20.1435 156.282C20.1435 80.9311 81.2277 19.8469 156.579 19.8469 231.93 19.8469 293.014 80.9311 293.014 156.282 293.014 231.634 231.93 292.718 156.579 292.718 81.2277 292.718 20.1435 231.634 20.1435 156.282Z"
+                                          fill="#FF0000" fill-rule="evenodd"/>
+                                </g>
+                            </g>
+                            <path d="M-29 1157.5C-29 1011.42 89.4207 893 235.5 893 381.579 893 500 1011.42 500 1157.5 500 1303.58 381.579 1422 235.5 1422 89.4207 1422-29 1303.58-29 1157.5Z"
+                                  fill="url(#fill12)" fill-rule="evenodd"/>
+                            <g clip-path="url(#clip13)" filter="url(#fx2)" transform="matrix(3.99123 0 0 3.99123 -109 1130)">
+                                <g clip-path="url(#clip14)" transform="translate(-3.55271e-15 5.68434e-14)">
+                                    <path d="M19.7076 57.0164C19.7076 36.4677 36.3656 19.8098 56.9142 19.8098 77.4629 19.8098 94.1208 36.4677 94.1208 57.0164 94.1208 77.565 77.4629 94.223 56.9142 94.223 36.3656 94.223 19.7076 77.565 19.7076 57.0164Z"
+                                          fill="#FF0000" fill-rule="evenodd"/>
+                                </g>
+                            </g>
+                            <path d="M-18 1351C-18 1276.44 42.4416 1216 117 1216 191.558 1216 252 1276.44 252 1351 252 1425.56 191.558 1486 117 1486 42.4416 1486-18 1425.56-18 1351Z"
+                                  fill="url(#fill15)" fill-rule="evenodd"/>
+                            <path d="M0 19.0002C-2.4667e-15 8.50667 8.50661-4.93342e-15 19-4.93342e-15L291 0C301.494-4.93342e-15 310 8.50667 310 19.0002L310 19.0002C310 29.4937 301.493 38.0003 291 38.0003L19 38C8.50661 38 0 29.4933 0 18.9998Z"
+                                  fill="#FFFFFF" fill-rule="evenodd" transform="matrix(1 -1.22465e-16 -1.22465e-16 -1 16 1382)"/>
+                            <path d="M0 19.3783C-4.9342e-15 8.67597 8.67591 0 19.3782 0L290.673 0C301.375-4.93424e-15 310.051 8.67597 310.051 19.3783L310.051 19.3783C310.051 30.0807 301.375 38.7567 290.673 38.7567L19.3782 38.7563C8.67591 38.7563 2.4671e-15 30.0804 0 19.378Z"
+                                  fill="#FFFFFF" fill-rule="evenodd"
+                                  transform="matrix(0.647995 -0.761645 -0.761645 -0.647995 36.4293 1387.94)"/>
+                            <path d="M145.037 1077.24C153.189 1070.31 165.419 1071.29 172.354 1079.44L222.581 1138.48C229.516 1146.63 228.53 1158.86 220.379 1165.8L220.379 1165.8C212.228 1172.73 199.998 1171.75 193.063 1163.59L142.835 1104.56C135.9 1096.41 136.886 1084.18 145.037 1077.24Z"
+                                  fill="#FFFFFF" fill-rule="evenodd"/>
+                            <path d="M0 19.3783C-3.08388e-15 8.67595 8.67591 0 19.3782 0L174.404 0C185.106-3.08389e-15 193.782 8.67595 193.782 19.3783L193.782 19.3783C193.782 30.0806 185.106 38.7565 174.404 38.7565L19.3782 38.7563C8.67591 38.7563 0 30.0804 0 19.3781Z"
+                                  fill="#FFFFFF" fill-rule="evenodd"
+                                  transform="matrix(0.647995 -0.761645 -0.761645 -0.647995 209.402 1303.7)"/>
+                            <path d="M319.392 1172.25C311.241 1179.19 299.011 1178.2 292.076 1170.05L133.506 983.671C126.571 975.52 127.557 963.29 135.708 956.355L135.708 956.355C143.86 949.42 156.09 950.406 163.025 958.557L321.594 1144.94C328.529 1153.09 327.543 1165.32 319.392 1172.25Z"
+                                  fill="#FFFFFF" fill-rule="evenodd"/>
+                            <path d="M0 19.3782C-4.9342e-15 8.67594 8.67591 0 19.3782 0L135.647 0C146.35-4.93422e-15 155.026 8.67594 155.026 19.3782L155.026 19.3782C155.026 30.0806 146.35 38.7565 135.647 38.7565L19.3782 38.7563C8.67591 38.7563 2.4671e-15 30.0804 0 19.3781Z"
+                                  fill="#FFFFFF" fill-rule="evenodd"
+                                  transform="matrix(0.647995 -0.761645 -0.761645 -0.647995 337.675 1269.87)"/>
+                            <path d="M423.372 1168.05C415.22 1174.98 402.991 1174 396.056 1165.85L298.714 1051.43C291.779 1043.28 292.765 1031.05 300.916 1024.12L300.916 1024.12C309.067 1017.18 321.297 1018.17 328.232 1026.32L425.574 1140.73C432.509 1148.88 431.523 1161.11 423.372 1168.05Z"
+                                  fill="#FFFFFF" fill-rule="evenodd"/>
+                            <path d="M399.526 1466.94C391.375 1473.88 379.145 1472.89 372.21 1464.74L296.868 1376.18C289.933 1368.03 290.919 1355.8 299.07 1348.87L299.07 1348.87C307.222 1341.93 319.452 1342.92 326.387 1351.07L401.728 1439.63C408.663 1447.78 407.677 1460.01 399.526 1466.94Z"
+                                  fill="#FFFFFF" fill-rule="evenodd"/>
+                            <path d="M0 19.0002C-2.4667e-15 8.50667 8.50661-4.93342e-15 19-4.93342e-15L291 0C301.494-4.93342e-15 310 8.50667 310 19.0002L310 19.0002C310 29.4937 301.493 38.0003 291 38.0003L19 38C8.50661 38 0 29.4933 0 18.9998Z"
+                                  fill="#FFFFFF" fill-rule="evenodd" transform="matrix(1 -1.22465e-16 -1.22465e-16 -1 63 1445)"/>
+                            <path d="M0 19C-2.48261e-15 8.50659 8.50657-2.48262e-15 19-2.48262e-15L59 0C69.4934-2.48262e-15 78 8.50659 78 19L78 19C78 29.4934 69.4934 38 59 38L19 38C8.50657 38 0 29.4934 0 19Z"
+                                  fill="#FFFFFF" fill-rule="evenodd" transform="matrix(1 -1.22465e-16 -1.22465e-16 -1 37 1178)"/>
+                            <g clip-path="url(#clip16)" filter="url(#fx3)" transform="matrix(6 0 0 6 -187 739)">
+                                <g clip-path="url(#clip17)" transform="translate(3.55271e-15 -1.42109e-14)">
+                                    <path d="M22.4513 71.0109C22.4513 44.2297 44.1617 22.5192 70.9429 22.5192 97.7242 22.5192 119.435 44.2297 119.435 71.0109 119.435 97.7921 97.7242 119.503 70.9429 119.503 44.1617 119.503 22.4513 97.7921 22.4513 71.0109Z"
+                                          fill="url(#fill18)" fill-rule="evenodd"/>
+                                </g>
+                            </g>
+                            <path d="M-27 1158.5C-27 1012.42 91.4207 894 237.5 894 383.579 894 502 1012.42 502 1158.5 502 1304.58 383.579 1423 237.5 1423 91.4207 1423-27 1304.58-27 1158.5Z"
+                                  fill="url(#fill19)" fill-rule="evenodd"/>
+                            <g clip-path="url(#clip20)" filter="url(#fx4)" transform="translate(-28 1221)">
+                                <g clip-path="url(#clip21)">
+                                    <path d="M7 142.333C7 67.7749 67.4416 7.33337 142 7.33337 216.558 7.33337 277 67.7749 277 142.333 277 216.892 216.558 277.333 142 277.333 67.4416 277.333 7 216.892 7 142.333Z"
+                                          fill="url(#fill22)" fill-rule="evenodd"/>
+                                </g>
+                            </g>
+                            <path d="M-21 1358C-21 1283.44 39.4416 1223 114 1223 188.558 1223 249 1283.44 249 1358 249 1432.56 188.558 1493 114 1493 39.4416 1493-21 1432.56-21 1358Z"
+                                  fill="url(#fill23)" fill-rule="evenodd"/>
+                        </g>
+                    </svg>
                 </div>
 
                 <div class="content">
