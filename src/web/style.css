@@ -1,6 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@700');
 
 :root {
+    --bounce: cubic-bezier(0.42, 0, 0.1, 1.35);
+
+    background: black;
     --everything-size: 42px;
     --border-radius: 12px;
     --dark-col: #3D1015;
@@ -38,6 +41,31 @@
     --l9-w: #l9-w;
 }
 
+@keyframes fadeIn {
+    100% {
+        opacity: 1;
+    }
+}
+
+@keyframes left-Slide {
+    0% {
+        transform: translateX(-100%);
+        opacity: 0;
+    }
+
+    100% {
+        transform: translateX(0);
+        opacity: 1;
+    }
+}
+
+@keyframes spin {
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+
 h1, p {
     margin: 0;
 }
@@ -61,6 +89,14 @@ p {
     font-family: 'JetBrains Mono', monospace;
     font-weight: bold;
     color: var(--text-border-col);
+}
+
+
+.sigma {
+    position: absolute;
+    inset: 0;
+    display: grid;
+    place-content: center;
 }
 
 .content {
@@ -91,9 +127,15 @@ p {
     grid-template-columns: 7fr 9fr;
 }
 
+.top .left {
+    opacity: 0;
+    animation: left-Slide 1.5s 0.75s var(--bounce) forwards;
+}
+
 .top .right {
     display: flex;
     justify-content: space-between;
+    animation: left-Slide 1.5s var(--bounce);
     align-items: center;
 }
 
@@ -105,6 +147,13 @@ p {
 .middle {
     padding: 0;
     position: relative;
+    animation: left-Slide 1.5s 0.5s var(--bounce) forwards;
+    opacity: 0;
+}
+
+.block:not(.middle) > * {
+    opacity: 0;
+    animation: left-Slide 1.5s 1s var(--bounce) forwards;
 }
 
 .bg-lines {
@@ -124,12 +173,22 @@ hr {
     grid-template-columns: 9fr 7fr;
 }
 
+.bottom .left {
+    animation: left-Slide 1.5s 0.42s var(--bounce) forwards;
+    opacity: 0;
+}
+
+.bottom .right {
+    animation: left-Slide 1.5s 0.12s var(--bounce) forwards;
+    opacity: 0;
+}
+
 .progress {
     display: flex;
     border: 2px solid var(--text-border-col);
     border-radius: var(--everything-size);
-    height: 12px;
-    margin: 2px 0;
+    height: 6px;
+    margin-bottom: 4px;
 }
 
 
@@ -210,12 +269,23 @@ hr {
 }
 
 svg#bg {
+    animation: spin 200s linear infinite;
     stroke: #fff;
 }
 
 svg#technologies {
     position: absolute;
     inset: 0;
+}
+
+svg#technologies circle {
+    opacity: 0;
+    animation: fadeIn 0.5s 2s linear forwards;
+}
+
+svg#technologies rect {
+    opacity: 0;
+    animation: fadeIn 0.5s 2.5s linear forwards;
 }
 
 svg#technologies rect, svg#technologies circle {
@@ -230,5 +300,7 @@ svg#technologies text {
     fill: var(--text-border-col);
     font-family: "JetBrains Mono", monospace;
     font-size: 14px;
-    font-weight: bold
+    font-weight: bold;
+    opacity: 0;
+    animation: fadeIn 0.5s 3s linear forwards;
 }
