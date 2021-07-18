@@ -189,8 +189,8 @@
                     overflow: hidden;
                     border: 2px solid var(--text-border-col);
                     border-radius: var(--everything-size);
-                    height: 12px;
-                    margin: 2px 0;
+                    height: 6px;
+                    margin-bottom: 4px;
                 }
 
 
@@ -391,7 +391,7 @@
                         <div class="right block">
                             <p>1.8k commits in 2021</p>
                             <p>Best streak 56 days</p>
-                            <p>~10.27 commits per days</p>
+                            <p>~10.30 commits per days</p>
                         </div>
                     </div>
                 </div>
