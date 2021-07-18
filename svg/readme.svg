@@ -275,6 +275,7 @@
                 }
 
                svg#bg {
+                   transform: scale(0.9);
                    animation: spin 200s linear infinite;
                    stroke: #fff;
                }
