@@ -59,7 +59,7 @@ commit_avg = ''.join(c for c in commit_avg if c.isdigit() or c == '.')
 svg_vars['streak'] = streak
 svg_vars['cmt_avg'] = commit_avg
 
-with open("base.svg") as f:
+with open("svg/base.svg") as f:
     svg = f.read()
 
 for k, v in svg_vars.items():
@@ -67,5 +67,5 @@ for k, v in svg_vars.items():
 
 svg = svg.replace('<p>empty</p>', '')
 
-with open("readme.svg", "w") as f:
+with open("svg/readme.svg", "w") as f:
     f.write(svg)
