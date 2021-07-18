@@ -62,8 +62,12 @@
                 }
 
                 @keyframes spin {
+                    0% {
+                        transform: scale(0.8);
+                    }
+
                     100% {
-                        transform: rotate(360deg);
+                        transform: rotate(360deg) scale(0.8);
                     }
                 }
 
@@ -275,7 +279,6 @@
                 }
 
                svg#bg {
-                   transform: scale(0.9);
                    animation: spin 200s linear infinite;
                    stroke: #fff;
                }
