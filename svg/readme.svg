@@ -13,25 +13,25 @@
                     --text-border-col: #f8f0f0;
 
                     --l0-col: #3572A5;
-                    --l0-w: 57.87%;
+                    --l0-w: 54.46%;
 
                     --l1-col: #e34c26;
-                    --l1-w: 20.29%;
+                    --l1-w: 21.93%;
 
                     --l2-col: #4F5D95;
-                    --l2-w: 7.88%;
+                    --l2-w: 8.52%;
 
                     --l3-col: #563d7c;
-                    --l3-w: 4.85%;
+                    --l3-w: 5.25%;
 
                     --l4-col: #c6538c;
-                    --l4-w: 4.39%;
+                    --l4-w: 4.74%;
 
                     --l5-col: #f1e05a;
-                    --l5-w: 3.91%;
+                    --l5-w: 4.22%;
 
                     --l6-col: #858585;
-                    --l6-w: 0.81%;
+                    --l6-w: 0.87%;
 
                     --l7-col: #l7-w;
                     --l7-w: #l7-w;
@@ -356,7 +356,7 @@
                         </div>
                         <div class="right block">
                             <div class="stats">
-                                <p>Stars: 65</p>
+                                <p>Stars: 64</p>
                                 <p>Pull Requests: 27</p>
                                 <p>Contributed to: 23</p>
                                 <p>Issues raised: 16</p>
@@ -402,7 +402,7 @@
                         <div class="right block">
                             <p>1.7k commits in 2021</p>
                             <p>Best streak 62 days</p>
-                            <p>~10.94 commits per days</p>
+                            <p>~10.96 commits per days</p>
                         </div>
                     </div>
                 </div>
