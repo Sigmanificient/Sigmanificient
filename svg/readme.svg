@@ -13,22 +13,22 @@
                     --text-border-col: #f8f0f0;
 
                     --l0-col: #3572A5;
-                    --l0-w: 57.54%;
+                    --l0-w: 57.59%;
 
                     --l1-col: #e34c26;
-                    --l1-w: 19.25%;
+                    --l1-w: 18.73%;
 
                     --l2-col: #4F5D95;
-                    --l2-w: 7.45%;
+                    --l2-w: 7.46%;
 
-                    --l3-col: #563d7c;
-                    --l3-w: 4.95%;
+                    --l3-col: #c6538c;
+                    --l3-w: 4.61%;
 
-                    --l4-col: #c6538c;
-                    --l4-w: 4.15%;
+                    --l4-col: #563d7c;
+                    --l4-w: 4.48%;
 
                     --l5-col: #f1e05a;
-                    --l5-w: 3.69%;
+                    --l5-w: 3.70%;
 
                     --l6-col: #02f88c;
                     --l6-w: 1.13%;
@@ -37,10 +37,10 @@
                     --l7-w: 0.94%;
 
                     --l8-col: #e38c00;
-                    --l8-w: 0.87%;
+                    --l8-w: 0.88%;
 
-                    --l9-col: #89e051;
-                    --l9-w: 0.02%;
+                    --l9-col: #a86454;
+                    --l9-w: 0.48%;
                 }
 
                 @keyframes fadeIn {
@@ -390,19 +390,19 @@
                                 <p>Python</p>
                                 <p>HTML</p>
                                 <p>PHP</p>
-                                <p>CSS</p>
                                 <p>SCSS</p>
+                                <p>CSS</p>
                                 <p>JavaScript</p>
                                 <p>Ada</p>
                                 <p>C#</p>
                                 <p>SQL</p>
-                                <p>Shell</p>
+                                <p>Pug</p>
                             </div>
                         </div>
                         <div class="right block">
                             <p>1.9k commits in 2021</p>
-                            <p>Best streak 74 days</p>
-                            <p>~11.70 commits per days</p>
+                            <p>Best streak 60 days</p>
+                            <p>~26 commits per days</p>
                         </div>
                     </div>
                 </div>
