@@ -13,34 +13,34 @@
                     --text-border-col: #f8f0f0;
 
                     --l0-col: #3572A5;
-                    --l0-w: 58.96%;
+                    --l0-w: 59.20%;
 
                     --l1-col: #e34c26;
-                    --l1-w: 18.12%;
+                    --l1-w: 18.02%;
 
                     --l2-col: #4F5D95;
-                    --l2-w: 7.22%;
+                    --l2-w: 7.18%;
 
                     --l3-col: #c6538c;
-                    --l3-w: 4.46%;
+                    --l3-w: 4.43%;
 
                     --l4-col: #563d7c;
-                    --l4-w: 4.34%;
+                    --l4-w: 4.31%;
 
                     --l5-col: #f1e05a;
-                    --l5-w: 3.58%;
+                    --l5-w: 3.56%;
 
                     --l6-col: #02f88c;
-                    --l6-w: 1.10%;
+                    --l6-w: 1.09%;
 
                     --l7-col: #178600;
-                    --l7-w: 0.91%;
+                    --l7-w: 0.90%;
 
                     --l8-col: #e38c00;
-                    --l8-w: 0.85%;
+                    --l8-w: 0.84%;
 
                     --l9-col: #a86454;
-                    --l9-w: 0.47%;
+                    --l9-w: 0.46%;
                 }
 
                 @keyframes fadeIn {
@@ -402,7 +402,7 @@
                         <div class="right block">
                             <p>1.9k commits in 2021</p>
                             <p>Best streak 76 days</p>
-                            <p>~12.30 commits per days</p>
+                            <p>~12.39 commits per days</p>
                         </div>
                     </div>
                 </div>
