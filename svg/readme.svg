@@ -13,34 +13,34 @@
                     --text-border-col: #f8f0f0;
 
                     --l0-col: #3572A5;
-                    --l0-w: 59.50%;
+                    --l0-w: 59.22%;
 
                     --l1-col: #e34c26;
-                    --l1-w: 17.97%;
+                    --l1-w: 17.66%;
 
                     --l2-col: #4F5D95;
-                    --l2-w: 7.10%;
+                    --l2-w: 7.03%;
 
                     --l3-col: #c6538c;
-                    --l3-w: 4.39%;
+                    --l3-w: 4.43%;
 
                     --l4-col: #563d7c;
-                    --l4-w: 4.27%;
+                    --l4-w: 4.23%;
 
                     --l5-col: #f1e05a;
-                    --l5-w: 3.52%;
+                    --l5-w: 3.48%;
 
-                    --l6-col: #02f88c;
+                    --l6-col: #a52a22;
                     --l6-w: 1.08%;
 
-                    --l7-col: #178600;
-                    --l7-w: 0.90%;
+                    --l7-col: #02f88c;
+                    --l7-w: 1.07%;
 
                     --l8-col: #e38c00;
-                    --l8-w: 0.83%;
+                    --l8-w: 0.91%;
 
-                    --l9-col: #a86454;
-                    --l9-w: 0.46%;
+                    --l9-col: #178600;
+                    --l9-w: 0.89%;
                 }
 
                 @keyframes fadeIn {
@@ -393,16 +393,16 @@
                                 <p>SCSS</p>
                                 <p>CSS</p>
                                 <p>JavaScript</p>
+                                <p>Jinja</p>
                                 <p>Ada</p>
-                                <p>C#</p>
                                 <p>SQL</p>
-                                <p>Pug</p>
+                                <p>C#</p>
                             </div>
                         </div>
                         <div class="right block">
                             <p>2k commits in 2021</p>
                             <p>Best streak 76 days</p>
-                            <p>~12.80 commits per days</p>
+                            <p>~12.82 commits per days</p>
                         </div>
                     </div>
                 </div>
