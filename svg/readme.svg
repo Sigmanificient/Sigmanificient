@@ -13,34 +13,34 @@
                     --text-border-col: #f8f0f0;
 
                     --l0-col: #3572A5;
-                    --l0-w: 59.20%;
+                    --l0-w: 56.98%;
 
                     --l1-col: #e34c26;
-                    --l1-w: 18.02%;
+                    --l1-w: 19.04%;
 
-                    --l2-col: #4F5D95;
-                    --l2-w: 7.18%;
+                    --l2-col: #c6538c;
+                    --l2-w: 6.97%;
 
-                    --l3-col: #c6538c;
-                    --l3-w: 4.43%;
+                    --l3-col: #4F5D95;
+                    --l3-w: 6.65%;
 
                     --l4-col: #563d7c;
-                    --l4-w: 4.31%;
+                    --l4-w: 4.00%;
 
                     --l5-col: #f1e05a;
-                    --l5-w: 3.56%;
+                    --l5-w: 3.30%;
 
                     --l6-col: #02f88c;
-                    --l6-w: 1.09%;
+                    --l6-w: 1.01%;
 
                     --l7-col: #178600;
-                    --l7-w: 0.90%;
+                    --l7-w: 0.84%;
 
                     --l8-col: #e38c00;
-                    --l8-w: 0.84%;
+                    --l8-w: 0.78%;
 
                     --l9-col: #a86454;
-                    --l9-w: 0.46%;
+                    --l9-w: 0.43%;
                 }
 
                 @keyframes fadeIn {
@@ -356,9 +356,9 @@
                         </div>
                         <div class="right block">
                             <div class="stats">
-                                <p>Stars: 63</p>
+                                <p>Stars: 65</p>
                                 <p>Pull Requests: 49</p>
-                                <p>Contributed to: 40</p>
+                                <p>Contributed to: 39</p>
                                 <p>Issues raised: 18</p>
                             </div>
                             <p class="note">A++</p>
@@ -389,8 +389,8 @@
                             <div class="lang">
                                 <p>Python</p>
                                 <p>HTML</p>
-                                <p>PHP</p>
                                 <p>SCSS</p>
+                                <p>PHP</p>
                                 <p>CSS</p>
                                 <p>JavaScript</p>
                                 <p>Ada</p>
@@ -402,7 +402,7 @@
                         <div class="right block">
                             <p>1.9k commits in 2021</p>
                             <p>Best streak 76 days</p>
-                            <p>~12.39 commits per days</p>
+                            <p>~12.43 commits per days</p>
                         </div>
                     </div>
                 </div>
