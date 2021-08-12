@@ -16,22 +16,22 @@
                     --l0-w: 55.78%;
 
                     --l1-col: #e34c26;
-                    --l1-w: 17.29%;
+                    --l1-w: 17.28%;
 
                     --l2-col: #4F5D95;
-                    --l2-w: 6.24%;
+                    --l2-w: 6.23%;
 
                     --l3-col: #c6538c;
-                    --l3-w: 5.96%;
+                    --l3-w: 5.95%;
 
                     --l4-col: #563d7c;
                     --l4-w: 4.65%;
 
                     --l5-col: #a52a22;
-                    --l5-w: 3.61%;
+                    --l5-w: 3.66%;
 
                     --l6-col: #f1e05a;
-                    --l6-w: 3.42%;
+                    --l6-w: 3.41%;
 
                     --l7-col: #C1F12E;
                     --l7-w: 1.29%;
@@ -357,7 +357,7 @@
                         <div class="right block">
                             <div class="stats">
                                 <p>Stars: 65</p>
-                                <p>Pull Requests: 50</p>
+                                <p>Pull Requests: 51</p>
                                 <p>Contributed to: 38</p>
                                 <p>Issues raised: 18</p>
                             </div>
