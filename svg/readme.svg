@@ -13,31 +13,31 @@
                     --text-border-col: #f8f0f0;
 
                     --l0-col: #3572A5;
-                    --l0-w: 55.78%;
+                    --l0-w: 55.57%;
 
                     --l1-col: #e34c26;
-                    --l1-w: 17.28%;
+                    --l1-w: 17.20%;
 
-                    --l2-col: #4F5D95;
-                    --l2-w: 6.23%;
+                    --l2-col: #c6538c;
+                    --l2-w: 6.31%;
 
-                    --l3-col: #c6538c;
-                    --l3-w: 5.95%;
+                    --l3-col: #4F5D95;
+                    --l3-w: 6.20%;
 
                     --l4-col: #563d7c;
-                    --l4-w: 4.65%;
+                    --l4-w: 4.63%;
 
                     --l5-col: #a52a22;
                     --l5-w: 3.66%;
 
                     --l6-col: #f1e05a;
-                    --l6-w: 3.41%;
+                    --l6-w: 3.40%;
 
                     --l7-col: #C1F12E;
-                    --l7-w: 1.29%;
+                    --l7-w: 1.28%;
 
                     --l8-col: #02f88c;
-                    --l8-w: 0.95%;
+                    --l8-w: 0.94%;
 
                     --l9-col: #e38c00;
                     --l9-w: 0.81%;
@@ -389,8 +389,8 @@
                             <div class="lang">
                                 <p>Python</p>
                                 <p>HTML</p>
-                                <p>PHP</p>
                                 <p>SCSS</p>
+                                <p>PHP</p>
                                 <p>CSS</p>
                                 <p>Jinja</p>
                                 <p>JavaScript</p>
@@ -401,8 +401,8 @@
                         </div>
                         <div class="right block">
                             <p>2.1k commits in 2021</p>
-                            <p>Best streak 28 days</p>
-                            <p>~12.66 commits per days</p>
+                            <p>Best streak 81 days</p>
+                            <p>~12.71 commits per days</p>
                         </div>
                     </div>
                 </div>
