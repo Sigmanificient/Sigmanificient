@@ -13,34 +13,34 @@
                     --text-border-col: #f8f0f0;
 
                     --l0-col: #3572A5;
-                    --l0-w: 56.94%;
+                    --l0-w: 57.22%;
 
                     --l1-col: #e34c26;
-                    --l1-w: 16.49%;
+                    --l1-w: 14.88%;
 
-                    --l2-col: #c6538c;
-                    --l2-w: 6.31%;
+                    --l2-col: #4F5D95;
+                    --l2-w: 7.18%;
 
-                    --l3-col: #4F5D95;
-                    --l3-w: 5.95%;
+                    --l3-col: #c6538c;
+                    --l3-w: 6.34%;
 
                     --l4-col: #563d7c;
-                    --l4-w: 4.44%;
+                    --l4-w: 4.46%;
 
                     --l5-col: #a52a22;
-                    --l5-w: 3.63%;
+                    --l5-w: 3.64%;
 
                     --l6-col: #f1e05a;
-                    --l6-w: 3.35%;
+                    --l6-w: 3.36%;
 
                     --l7-col: #C1F12E;
                     --l7-w: 1.23%;
 
                     --l8-col: #02f88c;
-                    --l8-w: 0.90%;
+                    --l8-w: 0.91%;
 
                     --l9-col: #e38c00;
-                    --l9-w: 0.77%;
+                    --l9-w: 0.78%;
                 }
 
                 @keyframes fadeIn {
@@ -357,7 +357,7 @@
                         <div class="right block">
                             <div class="stats">
                                 <p>Stars: 65</p>
-                                <p>Pull Requests: 52</p>
+                                <p>Pull Requests: 54</p>
                                 <p>Contributed to: 38</p>
                                 <p>Issues raised: 18</p>
                             </div>
@@ -389,8 +389,8 @@
                             <div class="lang">
                                 <p>Python</p>
                                 <p>HTML</p>
-                                <p>SCSS</p>
                                 <p>PHP</p>
+                                <p>SCSS</p>
                                 <p>CSS</p>
                                 <p>Jinja</p>
                                 <p>JavaScript</p>
@@ -402,7 +402,7 @@
                         <div class="right block">
                             <p>2.1k commits in 2021</p>
                             <p>Best streak 85 days</p>
-                            <p>~13.30 commits per days</p>
+                            <p>~13.41 commits per days</p>
                         </div>
                     </div>
                 </div>
