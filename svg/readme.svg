@@ -13,34 +13,34 @@
                     --text-border-col: #f8f0f0;
 
                     --l0-col: #3572A5;
-                    --l0-w: 57.84%;
+                    --l0-w: 58.05%;
 
                     --l1-col: #e34c26;
-                    --l1-w: 14.66%;
+                    --l1-w: 14.59%;
 
                     --l2-col: #4F5D95;
-                    --l2-w: 7.07%;
+                    --l2-w: 7.04%;
 
                     --l3-col: #c6538c;
-                    --l3-w: 6.25%;
+                    --l3-w: 6.22%;
 
                     --l4-col: #563d7c;
-                    --l4-w: 4.39%;
+                    --l4-w: 4.37%;
 
                     --l5-col: #a52a22;
-                    --l5-w: 3.59%;
+                    --l5-w: 3.57%;
 
                     --l6-col: #f1e05a;
-                    --l6-w: 3.31%;
+                    --l6-w: 3.30%;
 
                     --l7-col: #C1F12E;
-                    --l7-w: 1.22%;
+                    --l7-w: 1.21%;
 
                     --l8-col: #02f88c;
                     --l8-w: 0.89%;
 
                     --l9-col: #e38c00;
-                    --l9-w: 0.77%;
+                    --l9-w: 0.76%;
                 }
 
                 @keyframes fadeIn {
@@ -357,7 +357,7 @@
                         <div class="right block">
                             <div class="stats">
                                 <p>Stars: 65</p>
-                                <p>Pull Requests: 59</p>
+                                <p>Pull Requests: 60</p>
                                 <p>Contributed to: 42</p>
                                 <p>Issues raised: 18</p>
                             </div>
@@ -402,7 +402,7 @@
                         <div class="right block">
                             <p>2.2k commits in 2021</p>
                             <p>Best streak 87 days</p>
-                            <p>~13.53 commits per days</p>
+                            <p>~13.56 commits per days</p>
                         </div>
                     </div>
                 </div>
