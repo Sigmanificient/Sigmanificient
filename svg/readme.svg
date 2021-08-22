@@ -13,13 +13,13 @@
                     --text-border-col: #f8f0f0;
 
                     --l0-col: #3572A5;
-                    --l0-w: 58.25%;
+                    --l0-w: 58.29%;
 
                     --l1-col: #e34c26;
-                    --l1-w: 14.35%;
+                    --l1-w: 14.33%;
 
                     --l2-col: #4F5D95;
-                    --l2-w: 6.92%;
+                    --l2-w: 6.91%;
 
                     --l3-col: #c6538c;
                     --l3-w: 6.11%;
@@ -357,7 +357,7 @@
                         <div class="right block">
                             <div class="stats">
                                 <p>Stars: 65</p>
-                                <p>Pull Requests: 73</p>
+                                <p>Pull Requests: 75</p>
                                 <p>Contributed to: 41</p>
                                 <p>Issues raised: 18</p>
                             </div>
