@@ -13,34 +13,34 @@
                     --text-border-col: #f8f0f0;
 
                     --l0-col: #3572A5;
-                    --l0-w: 58.29%;
+                    --l0-w: 58.67%;
 
                     --l1-col: #e34c26;
-                    --l1-w: 14.33%;
+                    --l1-w: 14.18%;
 
                     --l2-col: #4F5D95;
-                    --l2-w: 6.91%;
+                    --l2-w: 6.84%;
 
                     --l3-col: #c6538c;
-                    --l3-w: 6.11%;
+                    --l3-w: 6.04%;
 
                     --l4-col: #563d7c;
-                    --l4-w: 4.30%;
+                    --l4-w: 4.25%;
 
                     --l5-col: #a52a22;
-                    --l5-w: 3.51%;
+                    --l5-w: 3.47%;
 
                     --l6-col: #f1e05a;
-                    --l6-w: 3.24%;
+                    --l6-w: 3.20%;
 
-                    --l7-col: #b07219;
+                    --l7-col: #C1F12E;
                     --l7-w: 1.25%;
 
-                    --l8-col: #C1F12E;
-                    --l8-w: 1.19%;
+                    --l8-col: #b07219;
+                    --l8-w: 1.23%;
 
                     --l9-col: #02f88c;
-                    --l9-w: 0.87%;
+                    --l9-w: 0.86%;
                 }
 
                 @keyframes fadeIn {
@@ -394,8 +394,8 @@
                                 <p>CSS</p>
                                 <p>Jinja</p>
                                 <p>JavaScript</p>
-                                <p>Java</p>
                                 <p>Batchfile</p>
+                                <p>Java</p>
                                 <p>Ada</p>
                             </div>
                         </div>
