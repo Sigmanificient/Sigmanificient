@@ -13,28 +13,28 @@
                     --text-border-col: #f8f0f0;
 
                     --l0-col: #3572A5;
-                    --l0-w: 60.66%;
+                    --l0-w: 60.71%;
 
                     --l1-col: #e34c26;
-                    --l1-w: 12.93%;
+                    --l1-w: 12.91%;
 
                     --l2-col: #4F5D95;
-                    --l2-w: 6.97%;
+                    --l2-w: 6.96%;
 
                     --l3-col: #c6538c;
-                    --l3-w: 6.16%;
+                    --l3-w: 6.15%;
 
                     --l4-col: #a52a22;
-                    --l4-w: 3.54%;
+                    --l4-w: 3.53%;
 
                     --l5-col: #563d7c;
-                    --l5-w: 3.49%;
+                    --l5-w: 3.48%;
 
                     --l6-col: #f1e05a;
                     --l6-w: 3.34%;
 
                     --l7-col: #b07219;
-                    --l7-w: 1.26%;
+                    --l7-w: 1.25%;
 
                     --l8-col: #02f88c;
                     --l8-w: 0.88%;
@@ -356,8 +356,8 @@
                         </div>
                         <div class="right block">
                             <div class="stats">
-                                <p>Stars: 65</p>
-                                <p>Pull Requests: 81</p>
+                                <p>Stars: 64</p>
+                                <p>Pull Requests: 80</p>
                                 <p>Contributed to: 40</p>
                                 <p>Issues raised: 18</p>
                             </div>
