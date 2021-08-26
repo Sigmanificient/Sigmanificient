@@ -13,34 +13,34 @@
                     --text-border-col: #f8f0f0;
 
                     --l0-col: #3572A5;
-                    --l0-w: 60.71%;
+                    --l0-w: 63.66%;
 
                     --l1-col: #e34c26;
-                    --l1-w: 12.91%;
+                    --l1-w: 12.56%;
 
                     --l2-col: #4F5D95;
-                    --l2-w: 6.96%;
+                    --l2-w: 7.49%;
 
                     --l3-col: #c6538c;
-                    --l3-w: 6.15%;
+                    --l3-w: 5.43%;
 
                     --l4-col: #a52a22;
-                    --l4-w: 3.53%;
+                    --l4-w: 3.80%;
 
                     --l5-col: #563d7c;
-                    --l5-w: 3.48%;
+                    --l5-w: 3.43%;
 
-                    --l6-col: #f1e05a;
-                    --l6-w: 3.34%;
+                    --l6-col: #b07219;
+                    --l6-w: 1.35%;
 
-                    --l7-col: #b07219;
-                    --l7-w: 1.25%;
+                    --l7-col: #f1e05a;
+                    --l7-w: 1.02%;
 
-                    --l8-col: #02f88c;
-                    --l8-w: 0.88%;
+                    --l8-col: #e38c00;
+                    --l8-w: 0.85%;
 
-                    --l9-col: #e38c00;
-                    --l9-w: 0.79%;
+                    --l9-col: #a86454;
+                    --l9-w: 0.40%;
                 }
 
                 @keyframes fadeIn {
@@ -356,9 +356,9 @@
                         </div>
                         <div class="right block">
                             <div class="stats">
-                                <p>Stars: 64</p>
+                                <p>Stars: 52</p>
                                 <p>Pull Requests: 80</p>
-                                <p>Contributed to: 40</p>
+                                <p>Contributed to: 46</p>
                                 <p>Issues raised: 18</p>
                             </div>
                             <p class="note">A++</p>
@@ -393,16 +393,16 @@
                                 <p>SCSS</p>
                                 <p>Jinja</p>
                                 <p>CSS</p>
-                                <p>JavaScript</p>
                                 <p>Java</p>
-                                <p>Ada</p>
+                                <p>JavaScript</p>
                                 <p>SQL</p>
+                                <p>Pug</p>
                             </div>
                         </div>
                         <div class="right block">
                             <p>2.2k commits in 2021</p>
                             <p>Best streak 95 days</p>
-                            <p>~14.28 commits per days</p>
+                            <p>~14.29 commits per days</p>
                         </div>
                     </div>
                 </div>
