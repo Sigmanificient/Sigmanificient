@@ -21,8 +21,6 @@ svg_vars['year'] = str(datetime.now().year)
 top_languages = requests.get(GH_TOP_LANGUAGES_LINK)
 soup = BeautifulSoup(top_languages.content, "html.parser")
 
-print(top_languages.content)
-
 languages = []
 for g in soup.find_all('g'):
     children = [child for child in g.children if not (isinstance(child, str))]
@@ -33,8 +31,9 @@ for g in soup.find_all('g'):
     languages.append(children)
 
 last = len(languages) - 1
-for c, lang in enumerate(languages):
+for c, lang in enumerate(languages[1:]):
     circle, text = lang
+    print('>>>', text.text.strip().split())
     name, percent = text.text.strip().split()
 
     svg_vars[f'l{c}-col'] = circle.attrs['fill']
