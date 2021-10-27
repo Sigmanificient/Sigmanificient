@@ -13,34 +13,34 @@
                     --text-border-col: #f8f0f0;
 
                     --l0-col: #3572A5;
-                    --l0-w: 75.76%;
+                    --l0-w: 74.68%;
 
                     --l1-col: #4F5D95;
-                    --l1-w: 6.97%;
+                    --l1-w: 7.28%;
 
                     --l2-col: #a52a22;
-                    --l2-w: 4.07%;
+                    --l2-w: 4.25%;
 
                     --l3-col: #563d7c;
-                    --l3-w: 3.19%;
+                    --l3-w: 3.34%;
 
                     --l4-col: #c6538c;
-                    --l4-w: 2.93%;
+                    --l4-w: 3.06%;
 
                     --l5-col: #e34c26;
-                    --l5-w: 2.63%;
+                    --l5-w: 2.75%;
 
                     --l6-col: #41b883;
-                    --l6-w: 1.36%;
+                    --l6-w: 1.42%;
 
                     --l7-col: #b07219;
-                    --l7-w: 1.26%;
+                    --l7-w: 1.31%;
 
                     --l8-col: #f1e05a;
-                    --l8-w: 1.03%;
+                    --l8-w: 1.07%;
 
                     --l9-col: #e38c00;
-                    --l9-w: 0.79%;
+                    --l9-w: 0.83%;
                 }
 
                 @keyframes fadeIn {
@@ -357,7 +357,7 @@
                         <div class="right block">
                             <div class="stats">
                                 <p>Stars: 54</p>
-                                <p>Pull Requests: 138</p>
+                                <p>Pull Requests: 139</p>
                                 <p>Contributed to: 70</p>
                                 <p>Issues raised: 46</p>
                             </div>
@@ -400,7 +400,7 @@
                             </div>
                         </div>
                         <div class="right block">
-                            <p>3k commits in 2021</p>
+                            <p>3.1k commits in 2021</p>
                             <p>Best streak 156 days</p>
                             <p>~4.49 commits per days</p>
                         </div>
