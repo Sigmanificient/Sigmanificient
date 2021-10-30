@@ -13,34 +13,34 @@
                     --text-border-col: #f8f0f0;
 
                     --l0-col: #3572A5;
-                    --l0-w: 74.22%;
+                    --l0-w: 72.91%;
 
                     --l1-col: #4F5D95;
-                    --l1-w: 7.23%;
+                    --l1-w: 6.87%;
 
                     --l2-col: #a52a22;
-                    --l2-w: 4.85%;
+                    --l2-w: 4.61%;
 
                     --l3-col: #563d7c;
-                    --l3-w: 3.31%;
+                    --l3-w: 3.15%;
 
-                    --l4-col: #c6538c;
-                    --l4-w: 3.04%;
+                    --l4-col: #89e051;
+                    --l4-w: 3.05%;
 
-                    --l5-col: #e34c26;
-                    --l5-w: 2.73%;
+                    --l5-col: #c6538c;
+                    --l5-w: 2.89%;
 
-                    --l6-col: #41b883;
-                    --l6-w: 1.41%;
+                    --l6-col: #e34c26;
+                    --l6-w: 2.80%;
 
-                    --l7-col: #b07219;
-                    --l7-w: 1.30%;
+                    --l7-col: #41b883;
+                    --l7-w: 1.34%;
 
-                    --l8-col: #f1e05a;
-                    --l8-w: 1.07%;
+                    --l8-col: #b07219;
+                    --l8-w: 1.24%;
 
-                    --l9-col: #e38c00;
-                    --l9-w: 0.82%;
+                    --l9-col: #f1e05a;
+                    --l9-w: 1.14%;
                 }
 
                 @keyframes fadeIn {
@@ -356,10 +356,10 @@
                         </div>
                         <div class="right block">
                             <div class="stats">
-                                <p>Stars: 54</p>
-                                <p>Pull Requests: 139</p>
-                                <p>Contributed to: 70</p>
-                                <p>Issues raised: 46</p>
+                                <p>Stars: 82</p>
+                                <p>Pull Requests: 180</p>
+                                <p>Contributed to: 79</p>
+                                <p>Issues raised: 73</p>
                             </div>
                             <p class="note">A++</p>
                         </div>
@@ -391,18 +391,18 @@
                                 <p>PHP</p>
                                 <p>Jinja</p>
                                 <p>CSS</p>
+                                <p>Shell</p>
                                 <p>SCSS</p>
                                 <p>HTML</p>
                                 <p>Vue</p>
                                 <p>Java</p>
                                 <p>JavaScript</p>
-                                <p>SQL</p>
                             </div>
                         </div>
                         <div class="right block">
-                            <p>3.1k commits in 2021</p>
+                            <p>4.3k commits in 2022</p>
                             <p>Best streak 156 days</p>
-                            <p>~4.54 commits per days</p>
+                            <p>~6.02 commits per days</p>
                         </div>
                     </div>
                 </div>
