@@ -13,28 +13,28 @@
                     --text-border-col: #f8f0f0;
 
                     --l0-col: #3572A5;
-                    --l0-w: 74.14%;
+                    --l0-w: 74.17%;
 
                     --l1-col: #4F5D95;
                     --l1-w: 7.19%;
 
                     --l2-col: #a52a22;
-                    --l2-w: 4.83%;
+                    --l2-w: 4.82%;
 
                     --l3-col: #563d7c;
-                    --l3-w: 3.30%;
+                    --l3-w: 3.29%;
 
                     --l4-col: #c6538c;
                     --l4-w: 3.02%;
 
                     --l5-col: #e34c26;
-                    --l5-w: 2.72%;
+                    --l5-w: 2.71%;
 
                     --l6-col: #41b883;
                     --l6-w: 1.40%;
 
                     --l7-col: #b07219;
-                    --l7-w: 1.30%;
+                    --l7-w: 1.29%;
 
                     --l8-col: #f1e05a;
                     --l8-w: 1.06%;
@@ -359,7 +359,7 @@
                                 <p>Stars: 95</p>
                                 <p>Pull Requests: 145</p>
                                 <p>Contributed to: 73</p>
-                                <p>Issues raised: 46</p>
+                                <p>Issues raised: 47</p>
                             </div>
                             <p class="note">A++</p>
                         </div>
