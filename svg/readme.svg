@@ -13,34 +13,34 @@
                     --text-border-col: #f8f0f0;
 
                     --l0-col: #3572A5;
-                    --l0-w: 74.17%;
+                    --l0-w: 72.73%;
 
                     --l1-col: #4F5D95;
-                    --l1-w: 7.19%;
+                    --l1-w: 7.05%;
 
                     --l2-col: #a52a22;
-                    --l2-w: 4.82%;
+                    --l2-w: 4.73%;
 
                     --l3-col: #563d7c;
-                    --l3-w: 3.29%;
+                    --l3-w: 3.23%;
 
-                    --l4-col: #c6538c;
-                    --l4-w: 3.02%;
+                    --l4-col: #89e051;
+                    --l4-w: 2.97%;
 
-                    --l5-col: #e34c26;
-                    --l5-w: 2.71%;
+                    --l5-col: #c6538c;
+                    --l5-w: 2.96%;
 
-                    --l6-col: #41b883;
-                    --l6-w: 1.40%;
+                    --l6-col: #e34c26;
+                    --l6-w: 2.66%;
 
-                    --l7-col: #b07219;
-                    --l7-w: 1.29%;
+                    --l7-col: #41b883;
+                    --l7-w: 1.37%;
 
-                    --l8-col: #f1e05a;
-                    --l8-w: 1.06%;
+                    --l8-col: #b07219;
+                    --l8-w: 1.27%;
 
-                    --l9-col: #89e051;
-                    --l9-w: 1.05%;
+                    --l9-col: #f1e05a;
+                    --l9-w: 1.04%;
                 }
 
                 @keyframes fadeIn {
@@ -391,16 +391,16 @@
                                 <p>PHP</p>
                                 <p>Jinja</p>
                                 <p>CSS</p>
+                                <p>Shell</p>
                                 <p>SCSS</p>
                                 <p>HTML</p>
                                 <p>Vue</p>
                                 <p>Java</p>
                                 <p>JavaScript</p>
-                                <p>Shell</p>
                             </div>
                         </div>
                         <div class="right block">
-                            <p>3.5k commits in 2021</p>
+                            <p>3.6k commits in 2021</p>
                             <p>Best streak 156 days</p>
                             <p>~5.02 commits per days</p>
                         </div>
