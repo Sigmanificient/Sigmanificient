@@ -13,34 +13,34 @@
                     --text-border-col: #f8f0f0;
 
                     --l0-col: #3572A5;
-                    --l0-w: 73.08%;
+                    --l0-w: 72.66%;
 
                     --l1-col: #4F5D95;
-                    --l1-w: 6.83%;
+                    --l1-w: 6.94%;
 
                     --l2-col: #a52a22;
-                    --l2-w: 4.58%;
+                    --l2-w: 4.65%;
 
                     --l3-col: #563d7c;
-                    --l3-w: 3.13%;
+                    --l3-w: 3.18%;
 
                     --l4-col: #89e051;
-                    --l4-w: 3.03%;
+                    --l4-w: 3.07%;
 
                     --l5-col: #c6538c;
-                    --l5-w: 2.87%;
+                    --l5-w: 2.92%;
 
                     --l6-col: #e34c26;
-                    --l6-w: 2.78%;
+                    --l6-w: 2.82%;
 
                     --l7-col: #41b883;
-                    --l7-w: 1.33%;
+                    --l7-w: 1.35%;
 
                     --l8-col: #b07219;
-                    --l8-w: 1.23%;
+                    --l8-w: 1.25%;
 
                     --l9-col: #f1e05a;
-                    --l9-w: 1.14%;
+                    --l9-w: 1.15%;
                 }
 
                 @keyframes fadeIn {
@@ -357,7 +357,7 @@
                         <div class="right block">
                             <div class="stats">
                                 <p>Stars: 82</p>
-                                <p>Pull Requests: 176</p>
+                                <p>Pull Requests: 177</p>
                                 <p>Contributed to: 78</p>
                                 <p>Issues raised: 72</p>
                             </div>
@@ -402,7 +402,7 @@
                         <div class="right block">
                             <p>4.2k commits in 2022</p>
                             <p>Best streak 156 days</p>
-                            <p>~5.77 commits per days</p>
+                            <p>~5.79 commits per days</p>
                         </div>
                     </div>
                 </div>
