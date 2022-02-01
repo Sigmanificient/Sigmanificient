@@ -13,7 +13,7 @@
                     --text-border-col: #f8f0f0;
 
                     --l0-col: #3572A5;
-                    --l0-w: 71.43%;
+                    --l0-w: 71.46%;
 
                     --l1-col: #4F5D95;
                     --l1-w: 6.59%;
@@ -27,11 +27,11 @@
                     --l4-col: #563d7c;
                     --l4-w: 3.02%;
 
-                    --l5-col: #89e051;
-                    --l5-w: 2.97%;
+                    --l5-col: #e34c26;
+                    --l5-w: 2.94%;
 
-                    --l6-col: #e34c26;
-                    --l6-w: 2.94%;
+                    --l6-col: #89e051;
+                    --l6-w: 2.93%;
 
                     --l7-col: #c6538c;
                     --l7-w: 2.77%;
@@ -392,8 +392,8 @@
                                 <p>Jinja</p>
                                 <p>Vue</p>
                                 <p>CSS</p>
-                                <p>Shell</p>
                                 <p>HTML</p>
+                                <p>Shell</p>
                                 <p>SCSS</p>
                                 <p>JavaScript</p>
                                 <p>Java</p>
@@ -402,7 +402,7 @@
                         <div class="right block">
                             <p>4.4k commits in 2022</p>
                             <p>Best streak 86 days</p>
-                            <p>~19.77 commits per days</p>
+                            <p>~19.86 commits per days</p>
                         </div>
                     </div>
                 </div>
