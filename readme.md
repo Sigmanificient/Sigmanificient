@@ -16,16 +16,41 @@ projects.
 
 <hr>
 
-Languages & Technologies I know, love & use
 
+Languages & Technologies I know, love & use 　　　　　　　　　Stuff I’d like to learn this year
 
-
-Stuff I’d like to learn this year
-
+<img src="icons/html.svg" width="16px">
+<img src="icons/css_dark.svg" width="16px">
+<img src="icons/scss.svg" width="16px">
+<img src="icons/stylus.svg" width="16px">
+<img src="icons/pug.svg" width="16px">
+<img src="icons/js.svg" width="16px">
+<img src="icons/php.svg" width="16px">
+<img src="icons/python.svg" width="16px">
+<img src="icons/vue.svg" width="16px">
+<img src="icons/flask.svg" width="16px">
+<img src="icons/sqlite.svg" width="16px">
+<img src="icons/sql.svg" width="16px">
+<img src="icons/shell.svg" width="16px">
+<img src="icons/htaccess.svg" width="16px"> 　　　　　　　　 
+<img src="icons/docker.svg" width="16px">
+<img src="icons/apl.svg" width="16px">
+<img src="icons/laravel.svg" width="16px">
+<img src="icons/nuxt.svg" width="16px">
+<img src="icons/redis.svg" width="16px">
+<img src="icons/pgsql.svg" width="16px">
+<img src="icons/postcss.svg" width="16px">
+<img src="icons/travis.svg" width="16px">
+<img src="icons/yarn.svg" width="16px">
+<img src="icons/nodejs.svg" width="16px">
+<img src="icons/nginx.svg" width="16px">
+<img src="icons/mongodb.svg" width="16px">
+<img src="icons/ionic.svg" width="16px">
 
 My Tools
 
 <hr>
+<img src="svg/sigma.svg" align="right" width="240">
 
 I dedicate a part of my time to help beginners finding a way in the wild world of programming, or other<br>
 developer to learn a new skill. As such I am very proud of the work my friends [@drawbu](https://github.com/drawbu/),
