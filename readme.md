@@ -19,51 +19,52 @@ projects.
 Languages & Technologies I know, love & use 　　　　　　　　Stuff I’d like to learn this year
 
 <div>
-<img src="icons/html.svg" width="24px">
-<img src="icons/css_dark.svg" width="24px">
-<img src="icons/scss.svg" width="24px">
-<img src="icons/stylus.svg" width="24px">
-<img src="icons/pug.svg" width="24px">
-<img src="icons/js.svg" width="24px">
-<img src="icons/php.svg" width="24px">
-<img src="icons/python.svg" width="24px">
-<img src="icons/vue.svg" width="24px">
-<img src="icons/flask.svg" width="24px">
-<img src="icons/sqlite.svg" width="24px">
-<img src="icons/sql.svg" width="24px">
-<img src="icons/shell.svg" width="24px">
-<img src="icons/htaccess.svg" width="24px"> 　　　 
-<img src="icons/docker.svg" width="24px">
-<img src="icons/apl.svg" width="24px">
-<img src="icons/laravel.svg" width="24px">
-<img src="icons/nuxt.svg" width="24px">
-<img src="icons/redis.svg" width="24px">
-<img src="icons/pgsql.svg" width="24px">
-<img src="icons/postcss.svg" width="24px">
-<img src="icons/travis.svg" width="24px">
-<img src="icons/yarn.svg" width="24px">
-<img src="icons/nodejs.svg" width="24px">
-<img src="icons/nginx.svg" width="24px">
-<img src="icons/mongodb.svg" width="24px">
-<img src="icons/ionic.svg" width="24px">
+<img src="icons/html.svg" width="22px">
+<img src="icons/css_dark.svg" width="22px">
+<img src="icons/scss.svg" width="22px">
+<img src="icons/stylus.svg" width="22px">
+<img src="icons/pug.svg" width="22px">
+<img src="icons/js.svg" width="22px">
+<img src="icons/php.svg" width="22px">
+<img src="icons/python.svg" width="22px">
+<img src="icons/vue.svg" width="22px">
+<img src="icons/flask.svg" width="22px">
+<img src="icons/sqlite.svg" width="22px">
+<img src="icons/sql.svg" width="22px">
+<img src="icons/shell.svg" width="22px">
+<img src="icons/htaccess.svg" width="22px"> 　　　 
+<img src="icons/docker.svg" width="22px">
+<img src="icons/apl.svg" width="22px">
+<img src="icons/laravel.svg" width="22px">
+<img src="icons/nuxt.svg" width="22px">
+<img src="icons/redis.svg" width="22px">
+<img src="icons/pgsql.svg" width="22px">
+<img src="icons/postcss.svg" width="22px">
+<img src="icons/travis.svg" width="22px">
+<img src="icons/yarn.svg" width="22px">
+<img src="icons/nodejs.svg" width="22px">
+<img src="icons/nginx.svg" width="22px">
+<img src="icons/mongodb.svg" width="22px">
+<img src="icons/ionic.svg" width="22px">
 </div>
 
 <hr>
-<img src="svg/sigma.svg" align="right" width="240">
 
 I dedicate a part of my time to help beginners finding a way in the wild world of programming, or other<br>
 developer to learn a new skill. As such I am very proud of the work my friends [@drawbu](https://github.com/drawbu/),
 [@vedsaga](https://github.com/Vedsaga/) &<br>
 [@reyfey](https://github.com/Reyfey/) have been able to do with our hours of knowledge sharing.
 
+<img src="svg/sigma.svg" align="right" width="240">
+
 I am currently a student at Fulbert’s high school, (2nd year after Baccalaureate) where I learn 
-[DevOps](https://en.wikipedia.org/wiki/DevOps/). <br>
+[DevOps](https://en.wikipedia.org/wiki/DevOps/).
 Planning for another 3 year of studying before searching for a Job as a 
 [Front-End](https://en.wikipedia.org/wiki/Front-end_web_development) or 
 [FullStack](https://en.wikipedia.org/w/index.php?title=Full_stack) developer.
 
 Currently, my biggest project is [Pincer](https://pincer.dev), a library I created to learn more about 
-[websocket](https://en.wikipedia.org/wiki/WebSocket) and<br>
+[websocket](https://en.wikipedia.org/wiki/WebSocket) and
 [discord API](https://discord.dev) that has received contribution from 
-[amazing people](https://github.com/Pincer-org/Pincer/graphs/contributors). It had been a key project to teach<br>
+[amazing people](https://github.com/Pincer-org/Pincer/graphs/contributors). It had been a key project to teach
 me open-source organisation and way more has been done than i could ever imagine.
