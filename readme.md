@@ -16,8 +16,7 @@ projects.
 
 <hr>
 
-
-Languages & Technologies I know, love & use 　　　　　　　　　Stuff I’d like to learn this year
+Languages & Technologies I know, love & use 　　　　　　　　Stuff I’d like to learn this year
 
 <div>
 <img src="icons/html.svg" width="24px">
@@ -33,7 +32,7 @@ Languages & Technologies I know, love & use 　　　　　　　　　Stuff I�
 <img src="icons/sqlite.svg" width="24px">
 <img src="icons/sql.svg" width="24px">
 <img src="icons/shell.svg" width="24px">
-<img src="icons/htaccess.svg" width="24px"> 　　　　 
+<img src="icons/htaccess.svg" width="24px"> 　　　 
 <img src="icons/docker.svg" width="24px">
 <img src="icons/apl.svg" width="24px">
 <img src="icons/laravel.svg" width="24px">
@@ -48,9 +47,6 @@ Languages & Technologies I know, love & use 　　　　　　　　　Stuff I�
 <img src="icons/mongodb.svg" width="24px">
 <img src="icons/ionic.svg" width="24px">
 </div>
-
-<br>
-My Tools
 
 <hr>
 <img src="svg/sigma.svg" align="right" width="240">
@@ -71,15 +67,3 @@ Currently, my biggest project is [Pincer](https://pincer.dev), a library I creat
 [discord API](https://discord.dev) that has received contribution from 
 [amazing people](https://github.com/Pincer-org/Pincer/graphs/contributors). It had been a key project to teach<br>
 me open-source organisation and way more has been done than i could ever imagine.
-
-<hr>
-
-5277 Commits
-118 Pull requests reviewed
-73 Issues opened
-130 issues comments
-
-Contributed to 145 repositories
-Current streak 34 days
-Best streak 86 days
-~19.85 Commits a day
