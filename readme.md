@@ -32,7 +32,7 @@ Languages & Technologies I know, love & use 　　　　　　　　Stuff I’d 
 <img src="icons/sqlite.svg" width="22px">
 <img src="icons/sql.svg" width="22px">
 <img src="icons/shell.svg" width="22px">
-<img src="icons/htaccess.svg" width="22px"> 　　　 
+<img src="icons/htaccess.svg" width="22px"> 　　 
 <img src="icons/docker.svg" width="22px">
 <img src="icons/apl.svg" width="22px">
 <img src="icons/laravel.svg" width="22px">
