@@ -19,6 +19,7 @@ projects.
 
 Languages & Technologies I know, love & use 　　　　　　　　　Stuff I’d like to learn this year
 
+<div>
 <img src="icons/html.svg" width="16px">
 <img src="icons/css_dark.svg" width="16px">
 <img src="icons/scss.svg" width="16px">
@@ -46,6 +47,7 @@ Languages & Technologies I know, love & use 　　　　　　　　　Stuff I�
 <img src="icons/nginx.svg" width="16px">
 <img src="icons/mongodb.svg" width="16px">
 <img src="icons/ionic.svg" width="16px">
+</div>
 
 My Tools
 
