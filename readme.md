@@ -14,11 +14,11 @@ current operating system.
 Know more about myself by taking a look over my [repositories](https://github.com/Sigmanificient?tab=repositories) and 
 projects.
 
-<hr>
+# <!-- Small line break, looking better than <hr/> -->
 
 Languages & Technologies I know, love & use 　　　　　　　　Stuff I’d like to learn this year
 
-<div>
+<div><!-- make img inline -->
 <img src="icons/html.svg" width="22px">
 <img src="icons/css_dark.svg" width="22px">
 <img src="icons/scss.svg" width="22px">
@@ -32,7 +32,7 @@ Languages & Technologies I know, love & use 　　　　　　　　Stuff I’d 
 <img src="icons/sqlite.svg" width="22px">
 <img src="icons/sql.svg" width="22px">
 <img src="icons/shell.svg" width="22px">
-<img src="icons/htaccess.svg" width="22px"> 　　 
+<img src="icons/htaccess.svg" width="22px"> 　　 <!-- Beautiful hack -->
 <img src="icons/docker.svg" width="22px">
 <img src="icons/apl.svg" width="22px">
 <img src="icons/laravel.svg" width="22px">
@@ -48,7 +48,7 @@ Languages & Technologies I know, love & use 　　　　　　　　Stuff I’d 
 <img src="icons/ionic.svg" width="22px">
 </div>
 
-<hr>
+#   
 
 I dedicate a part of my time to help beginners finding a way in the wild world of programming, or other<br>
 developer to learn a new skill. As such I am very proud of the work my friends [@drawbu](https://github.com/drawbu/),
