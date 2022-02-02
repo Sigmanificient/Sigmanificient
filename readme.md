@@ -20,35 +20,36 @@ projects.
 Languages & Technologies I know, love & use 　　　　　　　　　Stuff I’d like to learn this year
 
 <div>
-<img src="icons/html.svg" width="16px">
-<img src="icons/css_dark.svg" width="16px">
-<img src="icons/scss.svg" width="16px">
-<img src="icons/stylus.svg" width="16px">
-<img src="icons/pug.svg" width="16px">
-<img src="icons/js.svg" width="16px">
-<img src="icons/php.svg" width="16px">
-<img src="icons/python.svg" width="16px">
-<img src="icons/vue.svg" width="16px">
-<img src="icons/flask.svg" width="16px">
-<img src="icons/sqlite.svg" width="16px">
-<img src="icons/sql.svg" width="16px">
-<img src="icons/shell.svg" width="16px">
-<img src="icons/htaccess.svg" width="16px"> 　　　　　　　　 
-<img src="icons/docker.svg" width="16px">
-<img src="icons/apl.svg" width="16px">
-<img src="icons/laravel.svg" width="16px">
-<img src="icons/nuxt.svg" width="16px">
-<img src="icons/redis.svg" width="16px">
-<img src="icons/pgsql.svg" width="16px">
-<img src="icons/postcss.svg" width="16px">
-<img src="icons/travis.svg" width="16px">
-<img src="icons/yarn.svg" width="16px">
-<img src="icons/nodejs.svg" width="16px">
-<img src="icons/nginx.svg" width="16px">
-<img src="icons/mongodb.svg" width="16px">
-<img src="icons/ionic.svg" width="16px">
+<img src="icons/html.svg" width="24px">
+<img src="icons/css_dark.svg" width="24px">
+<img src="icons/scss.svg" width="24px">
+<img src="icons/stylus.svg" width="24px">
+<img src="icons/pug.svg" width="24px">
+<img src="icons/js.svg" width="24px">
+<img src="icons/php.svg" width="24px">
+<img src="icons/python.svg" width="24px">
+<img src="icons/vue.svg" width="24px">
+<img src="icons/flask.svg" width="24px">
+<img src="icons/sqlite.svg" width="24px">
+<img src="icons/sql.svg" width="24px">
+<img src="icons/shell.svg" width="24px">
+<img src="icons/htaccess.svg" width="24px"> 　　　　 
+<img src="icons/docker.svg" width="24px">
+<img src="icons/apl.svg" width="24px">
+<img src="icons/laravel.svg" width="24px">
+<img src="icons/nuxt.svg" width="24px">
+<img src="icons/redis.svg" width="24px">
+<img src="icons/pgsql.svg" width="24px">
+<img src="icons/postcss.svg" width="24px">
+<img src="icons/travis.svg" width="24px">
+<img src="icons/yarn.svg" width="24px">
+<img src="icons/nodejs.svg" width="24px">
+<img src="icons/nginx.svg" width="24px">
+<img src="icons/mongodb.svg" width="24px">
+<img src="icons/ionic.svg" width="24px">
 </div>
 
+<br>
 My Tools
 
 <hr>
