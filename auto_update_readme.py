@@ -12,15 +12,23 @@ soup = BeautifulSoup(r.text, 'html.parser')
 
 fields = [div.text.strip() for div in soup.find_all('div', class_='field')]
 
+
+def extract_number(string):
+	return int(''.join(ch for ch in string if ch.isdigit()))
+
+
 data = {
-	'contributed': fields[4],
-	'commits': fields[5],
-	'pr_opened': fields[7],
-	'issues': fields[8],
-	'streak': fields[23],
-	'streak_best': fields[24],
-	'highest': fields[25],
-	'average': fields[26]
+	k: extract_number(fields[i])
+	for (k, i) in {
+		'contributed': 4,
+		'commits': 5,
+		'pr_opened': 7,
+		'issues': 8,
+		'streak': 23,
+		'streak_best': 24,
+		'highest': 25,
+		'average': 26
+	}.items()
 }
 
 with open('base.md', 'r') as f:
