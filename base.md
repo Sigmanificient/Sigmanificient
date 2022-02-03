@@ -69,5 +69,7 @@ Currently, my biggest project is [Pincer](https://pincer.dev), a library I creat
 [amazing people](https://github.com/Pincer-org/Pincer/graphs/contributors). It had been a key project to teach
 me open-source organisation and way more has been done than i could ever imagine.
 
-Contributed to {contributed} repositories 　　{pr_opened} Pull Requests Opened 　　{streak} Current Streak　　{highest} Highest commits a day
-{commits} commits in 2022  　　 　　 　　 　　{issues} Issues Opened　　{streak_best} Best Streak　　{average} Average commits a day
+```
+Contributed to {contributed} 　　{pr_opened} PRs 　　{streak}d Streak　　^{highest} commits
+{commits} commits  　　 　　 　　 　　{issues} Issues　　^{streak_best}d Streak　　{average} commits a day
+```
