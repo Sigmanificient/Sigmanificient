@@ -69,7 +69,4 @@ Currently, my biggest project is [Pincer](https://pincer.dev), a library I creat
 [amazing people](https://github.com/Pincer-org/Pincer/graphs/contributors). It had been a key project to teach
 me open-source organisation and way more has been done than i could ever imagine.
 
-```
-Contributed to Contributed to 145 repositories 　　185 Pull requests opened PRs 　　Current streak 38 daysd Streak　　^Highest in a day at 85 commits
-5372 Commits commits  　　 　　 　　 　　73 Issues opened Issues　　^Best streak 86 daysd Streak　　Average per day at ~19.94 commits a day
-```
+I have contributed to `145` repositories, opened `185` pull requests & `73` issues!
