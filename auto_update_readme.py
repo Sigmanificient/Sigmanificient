@@ -11,7 +11,6 @@ r = requests.get(URL)
 soup = BeautifulSoup(r.text, 'html.parser')
 
 fields = [div.text.strip() for div in soup.find_all('div', class_='field')]
-print(fields, len(fields))
 
 
 def extract_number(string):
