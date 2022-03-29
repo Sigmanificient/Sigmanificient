@@ -1,4 +1,4 @@
-# Hello, World!
+# <img src="assets/img/sg_cookie.png" width="32px" align="top"> Hello, World!
 
 My name is [Yohann Boniface](https://www.linkedin.com/in/yohann-boniface/), I’m 19 a French student learning 
 [Full Stack](https://www.freecodecamp.org/news/what-is-a-full-stack-developer-back-end-front-end-full-stack-engineer/) 
@@ -14,11 +14,11 @@ current operating system.
 Know more about myself by taking a look over my [repositories](https://github.com/Sigmanificient?tab=repositories) and 
 projects.
 
+<img src="assets/svg/sigma.svg" align="right" width="300">
+
 # <!-- Small line break, looking better than <hr/> -->
 
-<img src="assets/svg/sigma.svg" align="right" width="240">
-
-Languages & Technologies I know, love & use
+> **Languages & Technologies I know, love & use**
 
 <div><!-- make img inline -->
 <img src="assets/icons/html.svg" width="22px">
@@ -36,9 +36,9 @@ Languages & Technologies I know, love & use
 <img src="assets/icons/shell.svg" width="22px">
 <img src="assets/icons/htaccess.svg" width="22px">
 
-<br>
+<br><br>
 
-Stuff I’d like to learn this year
+> Stuff I’d like to learn this year
 
 <img src="assets/icons/docker.svg" width="22px">
 <img src="assets/icons/apl.svg" width="22px">
@@ -56,6 +56,8 @@ Stuff I’d like to learn this year
 </div>
 
 #   
+
+<br>
 
 I dedicate a part of my time to help beginners finding a way in the wild world of programming, or other<br>
 developer to learn a new skill. As such I am very proud of the work my friends [@drawbu](https://github.com/drawbu/),
