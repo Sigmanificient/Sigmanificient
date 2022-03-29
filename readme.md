@@ -36,9 +36,9 @@ projects.
 <img src="assets/icons/shell.svg" width="22px">
 <img src="assets/icons/htaccess.svg" width="22px">
 
-<br><br>
+<br>
 
-> Stuff I’d like to learn this year
+> **Stuff I’d like to learn this year**
 
 <img src="assets/icons/docker.svg" width="22px">
 <img src="assets/icons/apl.svg" width="22px">
