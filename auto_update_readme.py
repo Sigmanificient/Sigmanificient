@@ -11,6 +11,7 @@ r = requests.get(URL)
 soup = BeautifulSoup(r.text, 'html.parser')
 
 fields = [div.text.strip() for div in soup.find_all('div', class_='field')]
+print(fields, len(fields))
 
 
 def extract_number(string):
@@ -24,10 +25,9 @@ data = {
 		'commits': 5,
 		'pr_opened': 7,
 		'issues': 8,
-		'streak': 23,
-		'streak_best': 24,
-		'highest': 25,
-		'average': 26
+		'streak_best': 23,
+		'highest': 24,
+		'average': 25
 	}.items()
 }
 
