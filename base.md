@@ -36,7 +36,7 @@ projects.
 <img src="assets/icons/shell.svg" width="22px">
 <img src="assets/icons/htaccess.svg" width="22px">
 
-<br>
+<br><br>
 
 > **Stuff I’d like to learn this year**
 
@@ -57,7 +57,7 @@ projects.
 
 #   
 
-<br><br>
+<br>
 
 I dedicate a part of my time to help beginners finding a way in the wild world of programming, or other<br>
 developer to learn a new skill. As such I am very proud of the work my friends [@drawbu](https://github.com/drawbu/),
