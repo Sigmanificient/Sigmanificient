@@ -16,6 +16,8 @@ projects.
 
 # <!-- Small line break, looking better than <hr/> -->
 
+<img src="assets/svg/sigma.svg" align="right" width="240">
+
 Languages & Technologies I know, love & use
 
 <div><!-- make img inline -->
@@ -32,7 +34,12 @@ Languages & Technologies I know, love & use
 <img src="assets/icons/sqlite.svg" width="22px">
 <img src="assets/icons/sql.svg" width="22px">
 <img src="assets/icons/shell.svg" width="22px">
-<img src="assets/icons/htaccess.svg" width="22px"> 　　 <!-- Beautiful hack -->
+<img src="assets/icons/htaccess.svg" width="22px">
+
+<br>
+
+Stuff I’d like to learn this year
+
 <img src="assets/icons/docker.svg" width="22px">
 <img src="assets/icons/apl.svg" width="22px">
 <img src="assets/icons/laravel.svg" width="22px">
@@ -55,8 +62,6 @@ developer to learn a new skill. As such I am very proud of the work my friends [
 [@vedsaga](https://github.com/Vedsaga/) &<br>
 [@reyfey](https://github.com/Reyfey/) have been able to do with our hours of knowledge sharing.
 
-<img src="assets/svg/sigma.svg" align="right" width="240">
-
 I am currently a student at Fulbert’s high school, (2nd year after Baccalaureate) where I learn 
 [DevOps](https://en.wikipedia.org/wiki/DevOps/).
 Planning for another 3 year of studying before searching for a Job as a 
@@ -69,4 +74,4 @@ Currently, my biggest project is [Pincer](https://pincer.dev), a library I creat
 [amazing people](https://github.com/Pincer-org/Pincer/graphs/contributors). It had been a key project to teach
 me open-source organisation and way more has been done than i could ever imagine.
 
-I have contributed to `151` repositories, opened `186` pull requests & `74` issues!
+I have contributed to `152` repositories, opened `188` pull requests & `74` issues!
