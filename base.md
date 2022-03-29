@@ -19,33 +19,33 @@ projects.
 Languages & Technologies I know, love & use 　　　　　　　　Stuff I’d like to learn this year
 
 <div><!-- make img inline -->
-<img src="icons/html.svg" width="22px">
-<img src="icons/css_dark.svg" width="22px">
-<img src="icons/scss.svg" width="22px">
-<img src="icons/stylus.svg" width="22px">
-<img src="icons/pug.svg" width="22px">
-<img src="icons/js.svg" width="22px">
-<img src="icons/php.svg" width="22px">
-<img src="icons/python.svg" width="22px">
-<img src="icons/vue.svg" width="22px">
-<img src="icons/flask.svg" width="22px">
-<img src="icons/sqlite.svg" width="22px">
-<img src="icons/sql.svg" width="22px">
-<img src="icons/shell.svg" width="22px">
-<img src="icons/htaccess.svg" width="22px"> 　　 <!-- Beautiful hack -->
-<img src="icons/docker.svg" width="22px">
-<img src="icons/apl.svg" width="22px">
-<img src="icons/laravel.svg" width="22px">
-<img src="icons/nuxt.svg" width="22px">
-<img src="icons/redis.svg" width="22px">
-<img src="icons/pgsql.svg" width="22px">
-<img src="icons/postcss.svg" width="22px">
-<img src="icons/travis.svg" width="22px">
-<img src="icons/yarn.svg" width="22px">
-<img src="icons/nodejs.svg" width="22px">
-<img src="icons/nginx.svg" width="22px">
-<img src="icons/mongodb.svg" width="22px">
-<img src="icons/ionic.svg" width="22px">
+<img src="assets/icons/html.svg" width="22px">
+<img src="assets/icons/css_dark.svg" width="22px">
+<img src="assets/icons/scss.svg" width="22px">
+<img src="assets/icons/stylus.svg" width="22px">
+<img src="assets/icons/pug.svg" width="22px">
+<img src="assets/icons/js.svg" width="22px">
+<img src="assets/icons/php.svg" width="22px">
+<img src="assets/icons/python.svg" width="22px">
+<img src="assets/icons/vue.svg" width="22px">
+<img src="assets/icons/flask.svg" width="22px">
+<img src="assets/icons/sqlite.svg" width="22px">
+<img src="assets/icons/sql.svg" width="22px">
+<img src="assets/icons/shell.svg" width="22px">
+<img src="assets/icons/htaccess.svg" width="22px"> 　　 <!-- Beautiful hack -->
+<img src="assets/icons/docker.svg" width="22px">
+<img src="assets/icons/apl.svg" width="22px">
+<img src="assets/icons/laravel.svg" width="22px">
+<img src="assets/icons/nuxt.svg" width="22px">
+<img src="assets/icons/redis.svg" width="22px">
+<img src="assets/icons/pgsql.svg" width="22px">
+<img src="assets/icons/postcss.svg" width="22px">
+<img src="assets/icons/travis.svg" width="22px">
+<img src="assets/icons/yarn.svg" width="22px">
+<img src="assets/icons/nodejs.svg" width="22px">
+<img src="assets/icons/nginx.svg" width="22px">
+<img src="assets/icons/mongodb.svg" width="22px">
+<img src="assets/icons/ionic.svg" width="22px">
 </div>
 
 #   
@@ -55,7 +55,7 @@ developer to learn a new skill. As such I am very proud of the work my friends [
 [@vedsaga](https://github.com/Vedsaga/) &<br>
 [@reyfey](https://github.com/Reyfey/) have been able to do with our hours of knowledge sharing.
 
-<img src="svg/sigma.svg" align="right" width="240">
+<img src="assets/svg/sigma.svg" align="right" width="240">
 
 I am currently a student at Fulbert’s high school, (2nd year after Baccalaureate) where I learn 
 [DevOps](https://en.wikipedia.org/wiki/DevOps/).
