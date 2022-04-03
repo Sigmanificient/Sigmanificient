@@ -36,6 +36,7 @@ projects.
 <img src="assets/icons/sql.svg" width="22px">
 <img src="assets/icons/shell.svg" width="22px">
 <img src="assets/icons/htaccess.svg" width="22px">
+<br>
 <img src="assets/icons/archlinux.svg" width="22px">
 <img src="assets/icons/figma.svg" width="22px">
 <img src="assets/icons/firefox.svg" width="22px">
@@ -87,6 +88,6 @@ Currently, my biggest project is [Pincer](https://pincer.dev), a library I creat
 [amazing people](https://github.com/Pincer-org/Pincer/graphs/contributors). It had been a key project to teach
 me open-source organisation and way more has been done than i could ever imagine.
 
-I have contributed to `157` repositories, opened `191` pull requests & `75` issues!
+I have contributed to `160` repositories, opened `194` pull requests & `75` issues!
 
 ![](assets/neofetch.png)
