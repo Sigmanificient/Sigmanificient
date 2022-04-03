@@ -43,7 +43,6 @@ projects.
 <img src="assets/icons/gimp.svg" width="22px">
 <img src="assets/icons/codecov.svg" width="22px">
 <img src="assets/icons/makefile.svg" width="22px">
-</div>
 
 <br><br>
 
@@ -65,6 +64,7 @@ projects.
 <img src="assets/icons/c.svg" width="22px">
 <img src="assets/icons/django.svg" width="22px">
 <img src="assets/icons/vim.svg" width="22px">
+</div>
 
 #   
 
