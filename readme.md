@@ -18,7 +18,7 @@ projects.
 
 # <!-- Small line break, looking better than <hr/> -->
 
-> **Languages & Technologies I know, love & use**
+> **Languages, Technologies & Tools I know, love & use**
 
 <div><!-- make img inline -->
 <img src="assets/icons/html.svg" width="22px">
@@ -30,11 +30,21 @@ projects.
 <img src="assets/icons/php.svg" width="22px">
 <img src="assets/icons/python.svg" width="22px">
 <img src="assets/icons/vue.svg" width="22px">
+<img src="assets/icons/vuex.svg" width="22px">
 <img src="assets/icons/flask.svg" width="22px">
 <img src="assets/icons/sqlite.svg" width="22px">
 <img src="assets/icons/sql.svg" width="22px">
 <img src="assets/icons/shell.svg" width="22px">
 <img src="assets/icons/htaccess.svg" width="22px">
+
+<img src="assets/icons/archlinux.svg" width="22px">
+<img src="assets/icons/figma.svg" width="22px">
+<img src="assets/icons/firefox.svg" width="22px">
+<img src="assets/icons/editorconfig.svg" width="22px">
+<img src="assets/icons/gimp.svg" width="22px">
+<img src="assets/icons/codecov.svg" width="22px">
+<img src="assets/icons/makefile.svg" width="22px">
+
 
 <br><br>
 
@@ -53,7 +63,9 @@ projects.
 <img src="assets/icons/nginx.svg" width="22px">
 <img src="assets/icons/mongodb.svg" width="22px">
 <img src="assets/icons/ionic.svg" width="22px">
-</div>
+<img src="assets/icons/c.svg" width="22px">
+<img src="assets/icons/django.svg" width="22px">
+<img src="assets/icons/vim.svg" width="22px">
 
 #   
 
