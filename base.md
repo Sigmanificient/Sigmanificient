@@ -30,6 +30,7 @@ projects.
 <img src="assets/icons/php.svg" width="22px">
 <img src="assets/icons/python.svg" width="22px">
 <img src="assets/icons/vue.svg" width="22px">
+<img src="assets/icons/vuex.svg" width="22px">
 <img src="assets/icons/flask.svg" width="22px">
 <img src="assets/icons/sqlite.svg" width="22px">
 <img src="assets/icons/sql.svg" width="22px">
@@ -64,6 +65,7 @@ projects.
 <img src="assets/icons/ionic.svg" width="22px">
 <img src="assets/icons/c.svg" width="22px">
 <img src="assets/icons/django.svg" width="22px">
+<img src="assets/icons/vim.svg" width="22px">
 
 #   
 
