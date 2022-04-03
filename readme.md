@@ -44,7 +44,7 @@ projects.
 <img src="assets/icons/gimp.svg" width="22px">
 <img src="assets/icons/codecov.svg" width="22px">
 <img src="assets/icons/makefile.svg" width="22px">
-
+</div>
 
 <br><br>
 
