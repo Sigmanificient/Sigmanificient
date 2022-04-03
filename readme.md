@@ -14,9 +14,9 @@ current operating system.
 Know more about myself by taking a look over my [repositories](https://github.com/Sigmanificient?tab=repositories) and 
 projects.
 
-<img src="assets/svg/sigma.svg" align="right" width="300">
-
 # <!-- Small line break, looking better than <hr/> -->
+
+<img src="assets/svg/sigma.svg" align="right" width="280">
 
 > **Languages, Technologies & Tools I know, love & use**
 
@@ -36,7 +36,7 @@ projects.
 <img src="assets/icons/sql.svg" width="22px">
 <img src="assets/icons/shell.svg" width="22px">
 <img src="assets/icons/htaccess.svg" width="22px">
-
+<br>
 <img src="assets/icons/archlinux.svg" width="22px">
 <img src="assets/icons/figma.svg" width="22px">
 <img src="assets/icons/firefox.svg" width="22px">
