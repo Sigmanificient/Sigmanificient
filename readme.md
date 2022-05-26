@@ -1,6 +1,6 @@
 # <img src="assets/img/sg_cookie.png" width="32px" align="top"> Hello, World!
 
-My name is [Yohann Boniface](https://www.linkedin.com/in/yohann-boniface/), I am a 67 yo French student learning 
+My name is [Yohann Boniface](https://www.linkedin.com/in/yohann-boniface/), I am a 20 yo French student learning 
 [Full Stack](https://www.freecodecamp.org/news/what-is-a-full-stack-developer-back-end-front-end-full-stack-engineer/) 
 Web Development, and a [Pythonista](https://www.linkedin.com/pulse/what-pythonistas-aakash-padhiyar). <br> 
 Started Coding by age of 15 with the [python](https://www.python.org/) programming language, my passion for design
@@ -88,6 +88,6 @@ Currently, my biggest project is [Pincer](https://pincer.dev), a library I creat
 [amazing people](https://github.com/Pincer-org/Pincer/graphs/contributors). It had been a key project to teach
 me open-source organisation and way more has been done than i could ever imagine.
 
-I have contributed to `167` repositories, opened `202` pull requests & `97` issues!
+I have contributed to `5440` repositories, opened `104` pull requests & `158` issues!
 
 ![](assets/neofetch.png)
