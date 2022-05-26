@@ -1,3 +1,5 @@
+import datetime
+
 import requests
 from bs4 import BeautifulSoup
 
@@ -17,9 +19,15 @@ def extract_number(string):
 	return int(''.join(ch for ch in string if ch.isdigit()))
 
 
+DATE_OF_BIRTH = datetime.date(2001, 12, 1)
+today = datetime.date.today()
+
+current_age = int((DATE_OF_BIRTH - today).days / 365)
+
 data = {
 	k: extract_number(fields[i])
 	for (k, i) in {
+		'age': current_age,
 		'contributed': 4,
 		'commits': 5,
 		'pr_opened': 7,
