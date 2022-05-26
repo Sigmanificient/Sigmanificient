@@ -1,4 +1,4 @@
-import datetime
+from datetime import datetime
 
 import requests
 from bs4 import BeautifulSoup
@@ -19,8 +19,8 @@ def extract_number(string):
 	return int(''.join(ch for ch in string if ch.isdigit()))
 
 
-DATE_OF_BIRTH = datetime.date(2001, 12, 1)
-today = datetime.date.today()
+DATE_OF_BIRTH = datetime(year=2001, month=12, day=11)
+today = datetime.now()
 
 current_age = int((today - DATE_OF_BIRTH).days / 365)
 
