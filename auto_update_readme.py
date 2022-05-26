@@ -19,15 +19,9 @@ def extract_number(string):
 	return int(''.join(ch for ch in string if ch.isdigit()))
 
 
-DATE_OF_BIRTH = datetime(year=2001, month=12, day=11)
-today = datetime.now()
-
-current_age = int((today - DATE_OF_BIRTH).days / 365)
-
 data = {
 	k: extract_number(fields[i])
 	for (k, i) in {
-		'age': current_age,
 		'contributed': 4,
 		'commits': 5,
 		'pr_opened': 7,
@@ -37,6 +31,12 @@ data = {
 		'average': 25
 	}.items()
 }
+
+today = datetime.now()
+DATE_OF_BIRTH = datetime(year=2001, month=12, day=11)
+
+current_age = int((today - DATE_OF_BIRTH).days / 365)
+data['age'] = current_age
 
 with open('base.md', 'r') as f:
 	base = f.read()
