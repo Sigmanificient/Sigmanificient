@@ -22,7 +22,7 @@ def extract_number(string):
 DATE_OF_BIRTH = datetime.date(2001, 12, 1)
 today = datetime.date.today()
 
-current_age = int((DATE_OF_BIRTH - today).days / 365)
+current_age = int((today - DATE_OF_BIRTH).days / 365)
 
 data = {
 	k: extract_number(fields[i])
