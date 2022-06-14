@@ -16,16 +16,17 @@ fields = [div.text.strip() for div in soup.find_all('div', class_='field')]
 
 
 def extract_number(string):
-	return int(''.join(ch for ch in string if ch.isdigit()))
+	n = ''.join(ch for ch in string if ch.isdigit() or ch == '.')
+	return int(n) if n.isdigit() else float(n)
 
 
 data = {
 	k: extract_number(fields[i])
 	for (k, i) in {
-		'contributed': 4,
-		'commits': 5,
-		'pr_opened': 7,
-		'issues': 8,
+		'contributed': 3,
+		'commits': 4,
+		'pr_opened': 6,
+		'issues': 7,
 		'streak_best': 23,
 		'highest': 24,
 		'average': 25
