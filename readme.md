@@ -88,6 +88,6 @@ Currently, my biggest project is [Pincer](https://pincer.dev), a library I creat
 [amazing people](https://github.com/Pincer-org/Pincer/graphs/contributors). It had been a key project to teach
 me open-source organisation and way more has been done than i could ever imagine.
 
-I have contributed to `5440` repositories, opened `104` pull requests & `158` issues!
+I have contributed to `175` repositories, opened `225` pull requests & `105` issues!
 
 ![](assets/neofetch.png)
