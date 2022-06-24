@@ -1,26 +1,4 @@
-```py
->>> cicada()
-
-
-        ⢀⣀⣤⣤⣤⠤⢤⣤⣤⣤⣤⣄⣀⡀            ⢀⣠⣤⣄⡀            ⣀⣀⣀⣤⣤⣤⣤⣤⣤⣤⣤⣀⡀ 
-   ⢀⣤⠚⠩⠁⡄ ⠠⣤⠒⠒⣂ ⢈⣨⣭⣿⠛⠶⣦⣤⣄⡀    ⢠⣾⡟⠉⠉⠝⠿⠇    ⢀⣠⡤⠔⠒⣻⠟⠋⠩⠉⢁⣀⡀  ⣶  ⠙⡛⠷ 
-   ⠸⢟⡠⠒⢊⡤  ⠋⣠ ⠈⣉⣉⣉⣉⣀⣛⣿⡒⠭⡿⢿⣷⣤⣤⣀⣽⣇⣴⠆⣴⡃⢀⣠⣤⠴⣚⣫⡥ ⠒⠛⠁⣀⣉⣉⣙⢏⡉  ⢀⣼⣤⣜⠳⡦⠂ 
-     ⠐⠚⠫⣤⠖⢣⣤⡕ ⠉⣩⣤⠔ ⠂⣋⣭⣥⣤⠴⠛⣛⠈⢩⣿⠿⠛⢉  ⡐⠞⠫⢍⠙⣓⠢⠴⣥⣍⣙⠛⢓⡢⢤⣬⠉⠅ ⣤⡜⢛⠻⠛⠉⠁ 
-        ⠘⢔⢎⣡⡔⠂⣠⡿⠁⠒⢛⡻⢛⣩⠅  ⠉  ⠚⣯⣄⢠⣿⢀⣾⠇ ⠓ ⠁⠂⠈⠍⠐⠈⡉⣿⠛⣛⠛⠉⣤⣰⣿⣿⡟⠛⠁      
-            ⠙⠛⠐⠚⠋ ⠒⣲⡿⠇⣋        ⢺⡏⠈⣀ ⠉⠈        ⠙⢿⠟⢰⣖⡢ ⠂⠒⠚⠉          
-                 ⣴⠛⠅⢀⣾⠟⢃       ⢹⠃⠠⠁⠈⠩         ⢠⣿ ⣀⢹⣿⡷             
-                 ⢿⣤⢚⣫⠅         ⢸⠇ ⢚ ⢀         ⣸⡇ ⠉⣿⣿⠇           
-                 ⠈⠛⢻⣥⡚⠔⣠⢣⣄⡀   ⢸⡇ ⢘ ⠈ ⠠⠈    ⣀⣰⡿⣧⣄⠾⠋⠁          
-                    ⠈⠑⠁        ⠘⣿⡀⣈⣀    ⠈  ⠈⠙⠁                   
-                                 ⠘⣷⠁                                
-                                  ⠙⣤                                
-                                    ⠛⠂ 
-                                     
->>> greeting()
-'Hello, World!'
-```
-
-<hr>
+# <img src="assets/img/sg_cookie.png" width="32px" align="top"> Hello, World!
 
 My name is [Yohann Boniface](https://www.linkedin.com/in/yohann-boniface/), I am a 20 yo French student learning 
 [Full Stack](https://www.freecodecamp.org/news/what-is-a-full-stack-developer-back-end-front-end-full-stack-engineer/) 
@@ -35,7 +13,7 @@ current operating system.
 
 Know more about myself by taking a look over my [repositories](https://github.com/Sigmanificient?tab=repositories) and 
 projects.
-!
+
 # <!-- Small line break, looking better than <hr/> -->
 
 <img src="assets/svg/sigma.svg" align="right" width="280">
