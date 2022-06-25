@@ -1,3 +1,23 @@
+```coffeescript
+>>> cicada()
+        ⢀⣀⣤⣤⣤⠤⢤⣤⣤⣤⣤⣄⣀⡀            ⢀⣠⣤⣄⡀            ⣀⣀⣀⣤⣤⣤⣤⣤⣤⣤⣤⣀⡀ 
+   ⢀⣤⠚⠩⠁⡄ ⠠⣤⠒⠒⣂ ⢈⣨⣭⣿⠛⠶⣦⣤⣄⡀    ⢠⣾⡟⠉⠉⠝⠿⠇    ⢀⣠⡤⠔⠒⣻⠟⠋⠩⠉⢁⣀⡀  ⣶  ⠙⡛⠷ 
+   ⠸⢟⡠⠒⢊⡤  ⠋⣠ ⠈⣉⣉⣉⣉⣀⣛⣿⡒⠭⡿⢿⣷⣤⣤⣀⣽⣇⣴⠆⣴⡃⢀⣠⣤⠴⣚⣫⡥ ⠒⠛⠁⣀⣉⣉⣙⢏⡉  ⢀⣼⣤⣜⠳⡦⠂ 
+     ⠐⠚⠫⣤⠖⢣⣤⡕ ⠉⣩⣤⠔ ⠂⣋⣭⣥⣤⠴⠛⣛⠈⢩⣿⠿⠛⢉  ⡐⠞⠫⢍⠙⣓⠢⠴⣥⣍⣙⠛⢓⡢⢤⣬⠉⠅ ⣤⡜⢛⠻⠛⠉⠁ 
+        ⠘⢔⢎⣡⡔⠂⣠⡿⠁⠒⢛⡻⢛⣩⠅  ⠉  ⠚⣯⣄⢠⣿⢀⣾⠇ ⠓ ⠁⠂⠈⠍⠐⠈⡉⣿⠛⣛⠛⠉⣤⣰⣿⣿⡟⠛⠁      
+            ⠙⠛⠐⠚⠋ ⠒⣲⡿⠇⣋        ⢺⡏⠈⣀ ⠉⠈        ⠙⢿⠟⢰⣖⡢ ⠂⠒⠚⠉          
+                 ⣴⠛⠅⢀⣾⠟⢃       ⢹⠃⠠⠁⠈⠩         ⢠⣿ ⣀⢹⣿⡷             
+                 ⢿⣤⢚⣫⠅         ⢸⠇ ⢚ ⢀         ⣸⡇ ⠉⣿⣿⠇           
+                 ⠈⠛⢻⣥⡚⠔⣠⢣⣄⡀   ⢸⡇ ⢘ ⠈ ⠠⠈    ⣀⣰⡿⣧⣄⠾⠋⠁          
+                    ⠈⠑⠁        ⠘⣿⡀⣈⣀    ⠈  ⠈⠙⠁                   
+                                 ⠘⣷⠁                                
+                                  ⠙⣤                                
+                                    ⠛⠂ 
+                                     
+>>> github.profile('Sigmanificient').readme
+<richformat.Markdown object at 0x4815162342>
+```
+
 # <img src="assets/img/sg_cookie.png" width="32px" align="top"> Hello, World!
 
 My name is [Yohann Boniface](https://www.linkedin.com/in/yohann-boniface/), I am a 20 yo French student learning 
@@ -88,6 +108,6 @@ Currently, my biggest project is [Pincer](https://pincer.dev), a library I creat
 [amazing people](https://github.com/Pincer-org/Pincer/graphs/contributors). It had been a key project to teach
 me open-source organisation and way more has been done than i could ever imagine.
 
-I have contributed to `175` repositories, opened `225` pull requests & `105` issues!
+I have contributed to `170` repositories, opened `221` pull requests & `93` issues!
 
 ![](assets/neofetch.png)
