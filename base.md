@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=Sigmanificient&color=2347cc&style=flat-square)
 ```coffeescript
 >>> cicada()
         ⢀⣀⣤⣤⣤⠤⢤⣤⣤⣤⣤⣄⣀⡀            ⢀⣠⣤⣄⡀            ⣀⣀⣀⣤⣤⣤⣤⣤⣤⣤⣤⣀⡀ 
