@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=Sigmanificient&color=2347cc&style=flat-square)
+![](https://komarev.com/ghpvc/?username=Sigmanificient&color=2347cc&style=flat-square) ![](https://hit.yhype.me/github/profile?user_id=53050011)
 ```coffeescript
 >>> cicada()
         ⢀⣀⣤⣤⣤⠤⢤⣤⣤⣤⣤⣄⣀⡀            ⢀⣠⣤⣄⡀            ⣀⣀⣀⣤⣤⣤⣤⣤⣤⣤⣤⣀⡀ 
@@ -109,6 +109,6 @@ Currently, my biggest project is [Pincer](https://pincer.dev), a library I creat
 [amazing people](https://github.com/Pincer-org/Pincer/graphs/contributors). It had been a key project to teach
 me open-source organisation and way more has been done than i could ever imagine.
 
-I have contributed to `161` repositories, opened `219` pull requests & `92` issues!
+I have contributed to `131` repositories, opened `172` pull requests & `94` issues!
 
 ![](assets/neofetch.png)
