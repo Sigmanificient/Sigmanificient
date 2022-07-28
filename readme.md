@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=Sigmanificient&color=2347cc&style=flat-square) ![](https://hit.yhype.me/github/profile?user_id=53050011)
+![](https://komarev.com/ghpvc/?username=Sigmanificient&color=2347cc&style=flat-square)
 ```coffeescript
 >>> cicada()
         ⢀⣀⣤⣤⣤⠤⢤⣤⣤⣤⣤⣄⣀⡀            ⢀⣠⣤⣄⡀            ⣀⣀⣀⣤⣤⣤⣤⣤⣤⣤⣤⣀⡀ 
