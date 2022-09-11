@@ -21,7 +21,7 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: running script
-        run: python auto_update_readme.py
+        run: python generate.py
 
       - name: Commit files
         run: |
