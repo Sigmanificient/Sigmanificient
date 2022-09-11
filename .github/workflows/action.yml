@@ -17,11 +17,8 @@ jobs:
           python-version: '3.x'
           architecture: 'x64'
 
-      - name: install requirements
-        run: pip install -r requirements.txt
-
-      - name: running script
-        run: python generate.py
+      - name: run
+        run: make
 
       - name: Commit files
         run: |
