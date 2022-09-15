@@ -2,7 +2,7 @@ VENV = venv
 V_BIN = $(VENV)/bin
 
 
-all: README.md
+all: update
 
 
 $(V_BIN)/python3:
@@ -13,7 +13,7 @@ $(V_BIN)/python3:
 	$(V_BIN)/pip install -r requirements.txt
 
 
-README.md: $(V_BIN)/python3
+update: $(V_BIN)/python3
 	$(V_BIN)/python3 -m generate.py
 
 
@@ -25,4 +25,4 @@ fclean: clean
 	rm -rf venv
 
 
-.PHONY: clean fclean
+.PHONY: clean fclean update
