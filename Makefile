@@ -14,7 +14,7 @@ $(V_BIN)/python3:
 
 
 update: $(V_BIN)/python3
-	$(V_BIN)/python3 -m generate.py
+	$(V_BIN)/python3 -m generate
 
 
 clean:
