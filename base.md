@@ -46,7 +46,7 @@
 
 <img src="assets/svg/sigma.svg" align="right" width="280">
 
-I am a 20 yo French Epitech student learning [Full Stack](https://www.freecodecamp.org/news/what-is-a-full-stack-developer-back-end-front-end-full-stack-engineer/) 
+I am a {age} yo French Epitech student learning [Full Stack](https://www.freecodecamp.org/news/what-is-a-full-stack-developer-back-end-front-end-full-stack-engineer/) 
 Web Development, and a [Pythonista](https://www.linkedin.com/pulse/what-pythonistas-aakash-padhiyar).
 I started coding at the age of 15 with the [Python programming language](https://www.python.org/), and my passion for design brought me to website creation.
 brought me to the website creation. 
@@ -62,7 +62,7 @@ projects.
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=Sigmanificient&color=2347cc&style=flat-square&label=views)![](https://hit.yhype.me/github/profile?user_id=53050011) ![GitHub User's stars](https://img.shields.io/github/stars/Sigmanificient?affiliations=COLLABORATOR&color=2347cc&style=flat-square) ![GitHub User's stars](https://img.shields.io/static/v1?label=prs&message=172&color=2347cc&style=flat-square) ![GitHub User's stars](https://img.shields.io/static/v1?label=issues&message=94&color=2347cc&style=flat-square) ![GitHub User's stars](https://img.shields.io/static/v1?label=streak&message=132&color=2347cc&style=flat-square)
+![](https://komarev.com/ghpvc/?username=Sigmanificient&color=2347cc&style=flat-square&label=views)![](https://hit.yhype.me/github/profile?user_id=53050011) ![GitHub Stats](https://img.shields.io/static/v1?label=commits&message={commits}&color=2347cc&style=flat-square) ![GitHub Stats](https://img.shields.io/static/v1?label=prs&message={pr}&color=2347cc&style=flat-square) ![GitHub Stats](https://img.shields.io/static/v1?label=issues&message={issues}&color=2347cc&style=flat-square) ![GitHub Stats](https://img.shields.io/static/v1?label=streak&message={streak}&color=2347cc&style=flat-square)
 
 # <!-- Small line break, looking better than <hr/> -->
 
