@@ -46,10 +46,9 @@
 
 <img src="assets/svg/sigma.svg" align="right" width="280">
 
-My name is [Yohann Boniface](https://www.linkedin.com/in/yohann-boniface/), I am a {age} yo French student learning 
-[Full Stack](https://www.freecodecamp.org/news/what-is-a-full-stack-developer-back-end-front-end-full-stack-engineer/) 
+I am a 20 yo French Epitech student learning [Full Stack](https://www.freecodecamp.org/news/what-is-a-full-stack-developer-back-end-front-end-full-stack-engineer/) 
 Web Development, and a [Pythonista](https://www.linkedin.com/pulse/what-pythonistas-aakash-padhiyar).
-Started Coding by age of 15 with the [python](https://www.python.org/) programming language, my passion for design
+I started coding at the age of 15 with the [Python programming language](https://www.python.org/), and my passion for design brought me to website creation.
 brought me to the website creation. 
 
 I enjoy learning new things to become a better developer, always improving my code and my workflow. I believe in [Open-source](https://en.wikipedia.org/wiki/Open_source) and use [Arch-Linux](https://archlinux.org/) as my
@@ -69,19 +68,31 @@ projects.
 
 <br>
 
-I dedicate a part of my time to help beginners finding a way in the wild world of programming, or other<br>
-developer to learn a new skill. As such I am very proud of the work my friends [@drawbu](https://github.com/drawbu/),
-[@vedsaga](https://github.com/Vedsaga/) &<br>
-[@reyfey](https://github.com/Reyfey/) have been able to do with our hours of knowledge sharing.
+<details>
+    <summary>Read more</summary>
 
-I am currently a student at Fulbert’s high school, (2nd year after Baccalaureate) where I learn 
-[DevOps](https://en.wikipedia.org/wiki/DevOps/).
-Planning for another 3 year of studying before searching for a Job as a 
-[Front-End](https://en.wikipedia.org/wiki/Front-end_web_development) or 
-[FullStack](https://en.wikipedia.org/w/index.php?title=Full_stack) developer.
+<br>
 
-Currently, my biggest project is [Pincer](https://pincer.dev), a library I created to learn more about 
-[websocket](https://en.wikipedia.org/wiki/WebSocket) and
-[discord API](https://discord.dev) that has received contribution from 
-[amazing people](https://github.com/Pincer-org/Pincer/graphs/contributors). It had been a key project to teach
-me open-source organisation and way more has been done than i could ever imagine.
+I dedicate a part of my time to helping beginners find a way in the wild world 
+of programming, or other developers to learn new skills. 
+As such I am very proud of the work my friends [@drawbu](https://github.com/drawbu/),
+[@vedsaga](https://github.com/Vedsaga/), [@reyfey](https://github.com/Reyfey/),
+..., have been able to do with our hours of knowledge sharing.
+
+I studied for 2 years at Fulbert’s high school, where I learn the fundamentals 
+of [DevOps](https://en.wikipedia.org/wiki/DevOps/), database management 
+and core skills of the [FullStack](https://en.wikipedia.org/w/index.php?title=Full_stack)
+developer.
+Currently, I'm studying at [Epitech School Of Technology](https://www.epitech.eu/)
+to become an IT experts and master the field of computer science. Here, I will
+learn me the C programming language to strengthen my low-level knowledge and 
+make various projects to thoroughly improve my coding skills.
+
+One of my biggest, yet personal project is [Pincer](https://pincer.dev), a 
+library I created in 2022 to learn more about [websockets](https://en.wikipedia.org/wiki/WebSocket)
+and [Discord API](https://discord.dev) that has received contributions from 
+[amazing people](https://github.com/Pincer-org/Pincer/graphs/contributors). 
+It had been a key project to teach me open-source organisation and way more has
+been done than i could ever imagine.
+
+</details>
