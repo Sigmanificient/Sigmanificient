@@ -1,46 +1,47 @@
+import re
 from datetime import datetime
 
 import requests
-from bs4 import BeautifulSoup
 
-URL = (
-	"https://metrics.lecoq.io/Sigmanificient"
-	"?template=classic&isocalendar=1&isocalendar.duration=half-year"
-	"&config.timezone=Europe%2FParis"
-)
+DATE_OF_BIRTH = datetime(year=2001, month=12, day=11)
+HTML_FILTER = r'(<.*>)|(\s{2,})|(\{[\s\S]+})'
 
-r = requests.get(URL)
-soup = BeautifulSoup(r.text, 'html.parser')
-
-fields = [div.text.strip() for div in soup.find_all('div', class_='field')]
-
-
-def extract_number(string):
-	n = ''.join(ch for ch in string if ch.isdigit() or ch == '.')
-	return int(n) if n.isdigit() else float(n)
-
-
-data = {
-	k: extract_number(fields[i])
-	for (k, i) in {
-		'contributed': 3,
-		'commits': 4,
-		'pr_opened': 6,
-		'issues': 7,
-		'streak_best': 23,
-		'highest': 24,
-		'average': 25
-	}.items()
+FIELDS_PATTERNS = {
+    'commits': r'\D(\d+)\s?Commits',
+    'pr': r'\D(\d+)\s?Pull\D*\sopened',
+    'issues': r'\D(\d+)\sIssues\D*\sopened',
+    'streak': r'\DBest\sstreak\s(\d+)'
 }
 
-today = datetime.now()
-DATE_OF_BIRTH = datetime(year=2001, month=12, day=11)
+URL = (
+    "https://metrics.lecoq.io/Sigmanificient"
+    "?template=classic&isocalendar=1&isocalendar.duration=half-year"
+    "&config.timezone=Europe%2FParis"
+)
 
-current_age = int((today - DATE_OF_BIRTH).days / 365)
-data['age'] = current_age
 
-with open('base.md', 'r') as f:
-	base = f.read()
+def compute_age():
+    today = datetime.now()
+    return int((today - DATE_OF_BIRTH).days / 365)
 
-with open('readme.md', 'w') as f:
-	f.write(base.format(**data))
+
+def main():
+    response = requests.get(URL)
+    filtered_response = re.sub(HTML_FILTER, '', response.text)
+
+    data = {
+        key: re.search(pattern, filtered_response)[1]
+        for key, pattern in FIELDS_PATTERNS.items()
+    }
+
+    data['age'] = compute_age()
+
+    with open('base.md', 'r') as f:
+        base = f.read()
+
+    with open('README.md', 'w') as f:
+        f.write(base.format(**data))
+
+
+if __name__ == '__main__':
+    main()
