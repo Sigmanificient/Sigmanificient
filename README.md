@@ -62,7 +62,7 @@ projects.
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=Sigmanificient&color=2347cc&style=flat-square&label=views)![](https://hit.yhype.me/github/profile?user_id=53050011) ![GitHub User's stars](https://img.shields.io/github/stars/Sigmanificient?affiliations=COLLABORATOR&color=2347cc&style=flat-square) ![GitHub User's stars](https://img.shields.io/static/v1?label=prs&message=172&color=2347cc&style=flat-square) ![GitHub User's stars](https://img.shields.io/static/v1?label=issues&message=94&color=2347cc&style=flat-square) ![GitHub User's stars](https://img.shields.io/static/v1?label=streak&message=132&color=2347cc&style=flat-square)
+![](https://komarev.com/ghpvc/?username=Sigmanificient&color=2347cc&style=flat-square&label=views)![](https://hit.yhype.me/github/profile?user_id=53050011) ![GitHub Stats](https://img.shields.io/static/v1?label=commits&message=6467&color=2347cc&style=flat-square) ![GitHub Stats](https://img.shields.io/static/v1?label=prs&message=172&color=2347cc&style=flat-square) ![GitHub Stats](https://img.shields.io/static/v1?label=issues&message=94&color=2347cc&style=flat-square) ![GitHub Stats](https://img.shields.io/static/v1?label=streak&message=136&color=2347cc&style=flat-square)
 
 # <!-- Small line break, looking better than <hr/> -->
 
