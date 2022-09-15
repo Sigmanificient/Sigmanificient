@@ -46,13 +46,15 @@
 
 <img src="assets/svg/sigma.svg" align="right" width="280">
 
-I am a 20 yo French Epitech student learning [Full Stack](https://www.freecodecamp.org/news/what-is-a-full-stack-developer-back-end-front-end-full-stack-engineer/) 
+I am a 20 yo French Epitech student learning 
+[Full Stack](https://www.freecodecamp.org/news/what-is-a-full-stack-developer-back-end-front-end-full-stack-engineer/) 
 Web Development, and a [Pythonista](https://www.linkedin.com/pulse/what-pythonistas-aakash-padhiyar).
-I started coding at the age of 15 with the [Python programming language](https://www.python.org/), and my passion for design brought me to website creation.
-brought me to the website creation. 
+I started coding at the age of 15 with the [Python programming language](https://www.python.org/), 
+and my passion for design brought me to website creation.
 
-I enjoy learning new things to become a better developer, always improving my code and my workflow. I believe in [Open-source](https://en.wikipedia.org/wiki/Open_source) and use [Arch-Linux](https://archlinux.org/) as my
-current operating system.
+I enjoy learning new things to become a better developer, always improving my 
+code and my workflow. I believe in [Open-source](https://en.wikipedia.org/wiki/Open_source) 
+and use [Arch-Linux](https://archlinux.org/) as my current operating system.
 
 
 Know more about myself by taking a look over my [repositories](https://github.com/Sigmanificient?tab=repositories) and 
@@ -62,7 +64,7 @@ projects.
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=Sigmanificient&color=2347cc&style=flat-square&label=views)![](https://hit.yhype.me/github/profile?user_id=53050011) ![GitHub Stats](https://img.shields.io/static/v1?label=commits&message=6467&color=2347cc&style=flat-square) ![GitHub Stats](https://img.shields.io/static/v1?label=prs&message=172&color=2347cc&style=flat-square) ![GitHub Stats](https://img.shields.io/static/v1?label=issues&message=94&color=2347cc&style=flat-square) ![GitHub Stats](https://img.shields.io/static/v1?label=streak&message=136&color=2347cc&style=flat-square)
+![](https://komarev.com/ghpvc/?username=Sigmanificient&color=2347cc&style=flat-square&label=views)![](https://hit.yhype.me/github/profile?user_id=53050011) ![GitHub Stats](https://img.shields.io/static/v1?label=commits&message=6575&color=2347cc&style=flat-square) ![GitHub Stats](https://img.shields.io/static/v1?label=prs&message=171&color=2347cc&style=flat-square) ![GitHub Stats](https://img.shields.io/static/v1?label=issues&message=98&color=2347cc&style=flat-square) ![GitHub Stats](https://img.shields.io/static/v1?label=streak&message=143&color=2347cc&style=flat-square)
 
 # <!-- Small line break, looking better than <hr/> -->
 
