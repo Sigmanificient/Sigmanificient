@@ -28,6 +28,5 @@ jobs:
 
       - name: running script
         run: |
-          python -m scripts.auto_update_readme
           git commit -m ":memo: Update README" -a || echo "No changes to commit"
           git push || echo "No changes to push"
