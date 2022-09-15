@@ -1,47 +1,11 @@
-![](https://komarev.com/ghpvc/?username=Sigmanificient&color=2347cc&style=flat-square) ![](https://hit.yhype.me/github/profile?user_id=53050011)
-```coffeescript
->>> cicada()
-        ⢀⣀⣤⣤⣤⠤⢤⣤⣤⣤⣤⣄⣀⡀            ⢀⣠⣤⣄⡀            ⣀⣀⣀⣤⣤⣤⣤⣤⣤⣤⣤⣀⡀ 
-   ⢀⣤⠚⠩⠁⡄ ⠠⣤⠒⠒⣂ ⢈⣨⣭⣿⠛⠶⣦⣤⣄⡀    ⢠⣾⡟⠉⠉⠝⠿⠇    ⢀⣠⡤⠔⠒⣻⠟⠋⠩⠉⢁⣀⡀  ⣶  ⠙⡛⠷ 
-   ⠸⢟⡠⠒⢊⡤  ⠋⣠ ⠈⣉⣉⣉⣉⣀⣛⣿⡒⠭⡿⢿⣷⣤⣤⣀⣽⣇⣴⠆⣴⡃⢀⣠⣤⠴⣚⣫⡥ ⠒⠛⠁⣀⣉⣉⣙⢏⡉  ⢀⣼⣤⣜⠳⡦⠂ 
-     ⠐⠚⠫⣤⠖⢣⣤⡕ ⠉⣩⣤⠔ ⠂⣋⣭⣥⣤⠴⠛⣛⠈⢩⣿⠿⠛⢉  ⡐⠞⠫⢍⠙⣓⠢⠴⣥⣍⣙⠛⢓⡢⢤⣬⠉⠅ ⣤⡜⢛⠻⠛⠉⠁ 
-        ⠘⢔⢎⣡⡔⠂⣠⡿⠁⠒⢛⡻⢛⣩⠅  ⠉  ⠚⣯⣄⢠⣿⢀⣾⠇ ⠓ ⠁⠂⠈⠍⠐⠈⡉⣿⠛⣛⠛⠉⣤⣰⣿⣿⡟⠛⠁      
-            ⠙⠛⠐⠚⠋ ⠒⣲⡿⠇⣋        ⢺⡏⠈⣀ ⠉⠈        ⠙⢿⠟⢰⣖⡢ ⠂⠒⠚⠉          
-                 ⣴⠛⠅⢀⣾⠟⢃       ⢹⠃⠠⠁⠈⠩         ⢠⣿ ⣀⢹⣿⡷             
-                 ⢿⣤⢚⣫⠅         ⢸⠇ ⢚ ⢀         ⣸⡇ ⠉⣿⣿⠇           
-                 ⠈⠛⢻⣥⡚⠔⣠⢣⣄⡀   ⢸⡇ ⢘ ⠈ ⠠⠈    ⣀⣰⡿⣧⣄⠾⠋⠁          
-                    ⠈⠑⠁        ⠘⣿⡀⣈⣀    ⠈  ⠈⠙⠁                   
-                                 ⠘⣷⠁                                
-                                  ⠙⣤                                
-                                    ⠛⠂ 
-                                     
->>> github.profile('Sigmanificient').readme
+```coffeescript 
+>>> readme = github.User(id=53050011).readme
 <richformat.Markdown object at 0x4815162342>
+>>> readme.show()
 ```
 
-# <img src="assets/img/sg_cookie.png" width="32px" align="top"> Hello, World!
-
-My name is [Yohann Boniface](https://www.linkedin.com/in/yohann-boniface/), I am a {age} yo French student learning 
-[Full Stack](https://www.freecodecamp.org/news/what-is-a-full-stack-developer-back-end-front-end-full-stack-engineer/) 
-Web Development, and a [Pythonista](https://www.linkedin.com/pulse/what-pythonistas-aakash-padhiyar). <br> 
-Started Coding by age of 15 with the [python](https://www.python.org/) programming language, my passion for design
-brought me to the website creation. 
-
-I enjoy learning new things to become a better developer, always improving my code and my workflow.<br>
-I believe in [Open-source](https://en.wikipedia.org/wiki/Open_source) and use [Arch-Linux](https://archlinux.org/) as my
-current operating system.
-
-
-Know more about myself by taking a look over my [repositories](https://github.com/Sigmanificient?tab=repositories) and 
-projects.
-
-# <!-- Small line break, looking better than <hr/> -->
-
-<img src="assets/svg/sigma.svg" align="right" width="280">
-
-> **Languages, Technologies & Tools I know, love & use**
-
-<div><!-- make img inline -->
+<br>
+<p align="center">
 <img src="assets/icons/html.svg" width="22px">
 <img src="assets/icons/css_dark.svg" width="22px">
 <img src="assets/icons/scss.svg" width="22px">
@@ -57,7 +21,6 @@ projects.
 <img src="assets/icons/sql.svg" width="22px">
 <img src="assets/icons/shell.svg" width="22px">
 <img src="assets/icons/htaccess.svg" width="22px">
-<br>
 <img src="assets/icons/archlinux.svg" width="22px">
 <img src="assets/icons/figma.svg" width="22px">
 <img src="assets/icons/firefox.svg" width="22px">
@@ -65,30 +28,44 @@ projects.
 <img src="assets/icons/gimp.svg" width="22px">
 <img src="assets/icons/codecov.svg" width="22px">
 <img src="assets/icons/makefile.svg" width="22px">
-
-<br><br>
-
-> **Stuff I’d like to learn this year**
-
-<img src="assets/icons/docker.svg" width="22px">
-<img src="assets/icons/apl.svg" width="22px">
-<img src="assets/icons/laravel.svg" width="22px">
 <img src="assets/icons/nuxt.svg" width="22px">
-<img src="assets/icons/redis.svg" width="22px">
 <img src="assets/icons/pgsql.svg" width="22px">
-<img src="assets/icons/postcss.svg" width="22px">
-<img src="assets/icons/travis.svg" width="22px">
-<img src="assets/icons/yarn.svg" width="22px">
-<img src="assets/icons/nodejs.svg" width="22px">
-<img src="assets/icons/nginx.svg" width="22px">
-<img src="assets/icons/mongodb.svg" width="22px">
-<img src="assets/icons/ionic.svg" width="22px">
 <img src="assets/icons/c.svg" width="22px">
-<img src="assets/icons/django.svg" width="22px">
-<img src="assets/icons/vim.svg" width="22px">
-</div>
+<img src="assets/icons/ionic.svg" width="22px">
+<img src="assets/icons/yarn.svg" width="22px">
 
-#   
+<br>
+
+<a href="https://hit.yhype.me/github/profile?user_id=53050011">
+    <img href="https://komarev.com/ghpvc/?username=Sigmanificient&color=2347cc&style=flat-square">
+</a>
+
+</p>
+
+# <img src="assets/img/sg_cookie.png" width="32px" align="top"> Hello, World!
+
+<img src="assets/svg/sigma.svg" align="right" width="280">
+
+My name is [Yohann Boniface](https://www.linkedin.com/in/yohann-boniface/), I am a {age} yo French student learning 
+[Full Stack](https://www.freecodecamp.org/news/what-is-a-full-stack-developer-back-end-front-end-full-stack-engineer/) 
+Web Development, and a [Pythonista](https://www.linkedin.com/pulse/what-pythonistas-aakash-padhiyar).
+Started Coding by age of 15 with the [python](https://www.python.org/) programming language, my passion for design
+brought me to the website creation. 
+
+I enjoy learning new things to become a better developer, always improving my code and my workflow. I believe in [Open-source](https://en.wikipedia.org/wiki/Open_source) and use [Arch-Linux](https://archlinux.org/) as my
+current operating system.
+
+
+Know more about myself by taking a look over my [repositories](https://github.com/Sigmanificient?tab=repositories) and 
+projects.
+
+# <!-- Small line break, looking better than <hr/> -->
+
+<br>
+
+![](https://komarev.com/ghpvc/?username=Sigmanificient&color=2347cc&style=flat-square&label=views)![](https://hit.yhype.me/github/profile?user_id=53050011) ![GitHub User's stars](https://img.shields.io/github/stars/Sigmanificient?affiliations=COLLABORATOR&color=2347cc&style=flat-square) ![GitHub User's stars](https://img.shields.io/static/v1?label=contributions&message=172&color=2347cc&style=flat-square) ![GitHub User's stars](https://img.shields.io/static/v1?label=prs&message=172&color=2347cc&style=flat-square) ![GitHub User's stars](https://img.shields.io/static/v1?label=issues&message=94&color=2347cc&style=flat-square) ![GitHub User's stars](https://img.shields.io/static/v1?label=streak&message=132&color=2347cc&style=flat-square)
+
+# <!-- Small line break, looking better than <hr/> -->
 
 <br>
 
@@ -108,7 +85,3 @@ Currently, my biggest project is [Pincer](https://pincer.dev), a library I creat
 [discord API](https://discord.dev) that has received contribution from 
 [amazing people](https://github.com/Pincer-org/Pincer/graphs/contributors). It had been a key project to teach
 me open-source organisation and way more has been done than i could ever imagine.
-
-I have contributed to `{contributed}` repositories, opened `{pr_opened}` pull requests & `{issues}` issues!
-
-![](assets/neofetch.png)
