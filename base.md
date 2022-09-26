@@ -78,7 +78,7 @@ projects.
 I dedicate a part of my time to helping beginners find a way in the wild world 
 of programming, or other developers to learn new skills. 
 As such I am very proud of the work my friends [@drawbu](https://github.com/drawbu/),
-[@vedsaga](https://github.com/Vedsaga/), [@reyfey](https://github.com/Reyfey/),
+[@vedsaga](https://github.com/Vedsaga/), [@VictorBetsch](https://github.com/VictorBetsch),
 ..., have been able to do with our hours of knowledge sharing.
 
 I studied for 2 years at Fulbert’s high school, where I learn the fundamentals 
