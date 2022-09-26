@@ -64,7 +64,7 @@ projects.
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=Sigmanificient&color=2347cc&style=flat-square&label=views)![](https://hit.yhype.me/github/profile?user_id=53050011) ![GitHub Stats](https://img.shields.io/static/v1?label=commits&message=6575&color=2347cc&style=flat-square) ![GitHub Stats](https://img.shields.io/static/v1?label=prs&message=171&color=2347cc&style=flat-square) ![GitHub Stats](https://img.shields.io/static/v1?label=issues&message=98&color=2347cc&style=flat-square) ![GitHub Stats](https://img.shields.io/static/v1?label=streak&message=143&color=2347cc&style=flat-square)
+![](https://komarev.com/ghpvc/?username=Sigmanificient&color=2347cc&style=flat-square&label=views)![](https://hit.yhype.me/github/profile?user_id=53050011) ![GitHub Stats](https://img.shields.io/static/v1?label=commits&message=6727&color=2347cc&style=flat-square) ![GitHub Stats](https://img.shields.io/static/v1?label=prs&message=158&color=2347cc&style=flat-square) ![GitHub Stats](https://img.shields.io/static/v1?label=issues&message=92&color=2347cc&style=flat-square) ![GitHub Stats](https://img.shields.io/static/v1?label=streak&message=143&color=2347cc&style=flat-square)
 
 # <!-- Small line break, looking better than <hr/> -->
 
@@ -78,7 +78,7 @@ projects.
 I dedicate a part of my time to helping beginners find a way in the wild world 
 of programming, or other developers to learn new skills. 
 As such I am very proud of the work my friends [@drawbu](https://github.com/drawbu/),
-[@vedsaga](https://github.com/Vedsaga/), [@reyfey](https://github.com/Reyfey/),
+[@vedsaga](https://github.com/Vedsaga/), [@VictorBetsch](https://github.com/VictorBetsch),
 ..., have been able to do with our hours of knowledge sharing.
 
 I studied for 2 years at Fulbert’s high school, where I learn the fundamentals 
