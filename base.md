@@ -21,7 +21,7 @@
 <img src="assets/icons/sql.svg" width="22px">
 <img src="assets/icons/shell.svg" width="22px">
 <img src="assets/icons/htaccess.svg" width="22px">
-<img src="assets/icons/archlinux.svg" width="22px">
+<img src="assets/icons/nix.svg" width="22px">
 <img src="assets/icons/figma.svg" width="22px">
 <img src="assets/icons/firefox.svg" width="22px">
 <img src="assets/icons/editorconfig.svg" width="22px">
@@ -54,7 +54,7 @@ and my passion for design brought me to website creation.
 
 I enjoy learning new things to become a better developer, always improving my 
 code and my workflow. I believe in [Open-source](https://en.wikipedia.org/wiki/Open_source) 
-and use [Arch-Linux](https://archlinux.org/) as my current operating system.
+and use [Nix OS](https://nixos.org) as my current operating system.
 
 
 Know more about myself by taking a look over my [repositories](https://github.com/Sigmanificient?tab=repositories) and 
