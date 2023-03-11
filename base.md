@@ -15,7 +15,6 @@
 <img src="assets/icons/php.svg" width="22px">
 <img src="assets/icons/python.svg" width="22px">
 <img src="assets/icons/vue.svg" width="22px">
-<img src="assets/icons/vuex.svg" width="22px">
 <img src="assets/icons/flask.svg" width="22px">
 <img src="assets/icons/sqlite.svg" width="22px">
 <img src="assets/icons/sql.svg" width="22px">
@@ -25,13 +24,12 @@
 <img src="assets/icons/figma.svg" width="22px">
 <img src="assets/icons/firefox.svg" width="22px">
 <img src="assets/icons/editorconfig.svg" width="22px">
-<img src="assets/icons/gimp.svg" width="22px">
 <img src="assets/icons/codecov.svg" width="22px">
+<img src="assets/icons/docker.svg" width="22px">
 <img src="assets/icons/makefile.svg" width="22px">
 <img src="assets/icons/nuxt.svg" width="22px">
 <img src="assets/icons/pgsql.svg" width="22px">
 <img src="assets/icons/c.svg" width="22px">
-<img src="assets/icons/ionic.svg" width="22px">
 <img src="assets/icons/yarn.svg" width="22px">
 
 <br>
