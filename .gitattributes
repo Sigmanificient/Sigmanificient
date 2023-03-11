@@ -1,0 +1,12 @@
+* text=lf
+* eol=lf
+
+*.png binary
+*.jpg binary
+
+*.* linguist-detectable
+
+*.md -linguist-documentation
+*.md -linguist-generated
+
+assets/svg/sigma.svg -linguist-detectable
