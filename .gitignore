@@ -3,3 +3,7 @@
 
 # Python env
 venv
+
+# Direnv
+.direnv
+.envrc
