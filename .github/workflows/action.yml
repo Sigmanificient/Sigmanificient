@@ -1,9 +1,10 @@
 on:
   workflow_dispatch:
-  # schedule: [{cron: "0 * * * *"}]
+  schedule: [{cron: "0 * * * *"}]
+  push: {branches: ["master"]}
 
 jobs:
-  reamde-update:
+  readme-update:
     runs-on: ubuntu-latest
 
     steps:
@@ -16,8 +17,11 @@ jobs:
           python-version: '3.x'
           architecture: 'x64'
 
+      - name: install requirements
+        run: pip install -r requirements.txt
+
       - name: running script
-        run: python src/auto_update_readme.py
+        run: python generate.py
 
       - name: Commit files
         run: |
