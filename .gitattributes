@@ -9,4 +9,5 @@
 *.md -linguist-documentation
 *.md -linguist-generated
 
-assets/svg/sigma.svg -linguist-detectable
+assets/svg/sigma.svg linguist-detectable
+assets/icons/*.svg linguist-vendored
