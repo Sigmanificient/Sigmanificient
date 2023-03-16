@@ -1,13 +1,7 @@
 * text=lf
 * eol=lf
 
-*.png binary
-*.jpg binary
+base.md linguist-detectable
+base.md -linguist-documentation
 
-*.* linguist-detectable
-
-*.md -linguist-documentation
-*.md -linguist-generated
-
-assets/svg/sigma.svg linguist-detectable
-assets/icons/*.svg linguist-vendored
+README.md linguist-generated
