@@ -1,6 +1,8 @@
 * text=lf
 * eol=lf
 
+*.png binary
+
 base.md linguist-detectable
 base.md -linguist-documentation
 
