@@ -62,7 +62,7 @@ projects.
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=Sigmanificient&color=2347cc&style=flat-square&label=views)![](https://hit.yhype.me/github/profile?user_id=53050011) ![GitHub Stats](https://img.shields.io/static/v1?label=commits&message=10135&color=2347cc&style=flat-square) ![GitHub Stats](https://img.shields.io/static/v1?label=prs&message=124&color=2347cc&style=flat-square) ![GitHub Stats](https://img.shields.io/static/v1?label=issues&message=59&color=2347cc&style=flat-square) ![GitHub Stats](https://img.shields.io/static/v1?label=streak&message=77&color=2347cc&style=flat-square) [![wakatime](https://wakatime.com/badge/user/175665bc-a6a0-4303-80ac-5a323cfb3ab4.svg?style=flat-square)](https://wakatime.com/@175665bc-a6a0-4303-80ac-5a323cfb3ab4)
+![](https://komarev.com/ghpvc/?username=Sigmanificient&color=2347cc&style=flat-square&label=views)![](https://hit.yhype.me/github/profile?user_id=53050011) ![GitHub Stats](https://img.shields.io/static/v1?label=commits&message=10139&color=2347cc&style=flat-square) ![GitHub Stats](https://img.shields.io/static/v1?label=prs&message=124&color=2347cc&style=flat-square) ![GitHub Stats](https://img.shields.io/static/v1?label=issues&message=59&color=2347cc&style=flat-square) ![GitHub Stats](https://img.shields.io/static/v1?label=streak&message=77&color=2347cc&style=flat-square) [![wakatime](https://wakatime.com/badge/user/175665bc-a6a0-4303-80ac-5a323cfb3ab4.svg?style=flat-square)](https://wakatime.com/@175665bc-a6a0-4303-80ac-5a323cfb3ab4)
 
 # <!-- Small line break, looking better than <hr/> -->
 
