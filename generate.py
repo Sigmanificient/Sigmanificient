@@ -29,10 +29,10 @@ def fetch_metrics_data(url):
 def extract_metrics_data(filtered_text):
     data = {}
     for key, pattern in FIELDS_PATTERNS.items():
-        match = re.search(pattern, filtered_text)
-        if match:
+        if (match := re.search(pattern, filtered_text)):
             data[key] = match.group(1)
     return data
+
 
 def generate_readme(data):
     with open('base.md', 'r') as f:
