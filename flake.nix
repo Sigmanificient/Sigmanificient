@@ -1,21 +1,41 @@
 {
-  description = "Sigmachine Readme";
-
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs/nixos-22.11";
-    utils.url = "github:numtide/flake-utils";
   };
 
-  outputs = { self, nixpkgs, utils } @inputs:
-    utils.lib.eachDefaultSystem (system:
-      with import nixpkgs { inherit system; }; {
-        devShells.default = mkShell {
-          venvDir = "venv";
-          buildInputs = [
-            pkgs.gnumake
-            pkgs.python310Full
-            pkgs.python310Packages.venvShellHook
-          ];
-        };
-      });
+  outputs = { nixpkgs, ... }:
+    let
+      forAllSystems = function:
+        nixpkgs.lib.genAttrs [
+          "x86_64-linux"
+          "aarch64-linux"
+          "x86_64-darwin"
+          "aarch64-darwin"
+        ]
+          (system:
+            let
+              pkgs = nixpkgs.legacyPackages.${system};
+            in
+            function pkgs);
+    in
+    {
+      devShells = forAllSystems (pkgs:
+        let
+          pyenv = pkgs.python310.withPackages (p: [
+            p.requests
+            p.black
+          ]);
+
+        in
+        {
+          default = pkgs.mkShell {
+            packages = [
+              pkgs.gnumake
+              pyenv
+            ];
+          };
+        });
+
+      formatter = forAllSystems (pkgs: pkgs.nixpkgs-fmt);
+    };
 }
