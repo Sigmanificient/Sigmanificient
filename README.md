@@ -6,31 +6,29 @@
 
 <br>
 <p align="center">
-<img src="assets/icons/html.svg" width="22px">
-<img src="assets/icons/css_dark.svg" width="22px">
-<img src="assets/icons/scss.svg" width="22px">
-<img src="assets/icons/stylus.svg" width="22px">
-<img src="assets/icons/pug.svg" width="22px">
-<img src="assets/icons/js.svg" width="22px">
-<img src="assets/icons/php.svg" width="22px">
-<img src="assets/icons/python.svg" width="22px">
-<img src="assets/icons/vue.svg" width="22px">
-<img src="assets/icons/flask.svg" width="22px">
-<img src="assets/icons/sqlite.svg" width="22px">
-<img src="assets/icons/sql.svg" width="22px">
-<img src="assets/icons/shell.svg" width="22px">
-<img src="assets/icons/htaccess.svg" width="22px">
-<img src="assets/icons/nix.svg" width="22px">
-<img src="assets/icons/figma.svg" width="22px">
-<img src="assets/icons/firefox.svg" width="22px">
-<img src="assets/icons/editorconfig.svg" width="22px">
-<img src="assets/icons/codecov.svg" width="22px">
-<img src="assets/icons/docker.svg" width="22px">
-<img src="assets/icons/makefile.svg" width="22px">
-<img src="assets/icons/nuxt.svg" width="22px">
-<img src="assets/icons/pgsql.svg" width="22px">
-<img src="assets/icons/c.svg" width="22px">
-<img src="assets/icons/yarn.svg" width="22px">
+
+<img src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//html.svg" height="22px"/>
+<img src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//css_dark.svg" height="22px"/>
+<img src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//scss.svg" height="22px"/>
+<img src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//stylus.svg" height="22px"/>
+<img src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//pug.svg" height="22px"/>
+<img src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//js.svg" height="22px"/>
+<img src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//php.svg" height="22px"/>
+<img src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//python.svg" height="22px"/>
+<img src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//vue.svg" height="22px"/>
+<img src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//flask.svg" height="22px"/>
+<img src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//sqlite.svg" height="22px"/>
+<img src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//htaccess.svg" height="22px"/>
+<img src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//nix.svg" height="22px"/>
+<img src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//figma.svg" height="22px"/>
+<img src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//editorconfig.svg" height="22px"/>
+<img src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//codecov.svg" height="22px"/>
+<img src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//docker.svg" height="22px"/>
+<img src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//makefile.svg" height="22px"/>
+<img src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//nuxt.svg" height="22px"/>
+<img src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//pgsql.svg" height="22px"/>
+<img src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//c.svg" height="22px"/>
+<img src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//yarn.svg" height="22px"/>
 
 <br>
 
@@ -62,7 +60,7 @@ projects.
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=Sigmanificient&color=2347cc&style=flat-square&label=views)![](https://hit.yhype.me/github/profile?user_id=53050011) ![GitHub Stats](https://img.shields.io/static/v1?label=commits&message=13957&color=2347cc&style=flat-square) ![GitHub Stats](https://img.shields.io/static/v1?label=prs&message=95&color=2347cc&style=flat-square) ![GitHub Stats](https://img.shields.io/static/v1?label=issues&message=71&color=2347cc&style=flat-square) ![GitHub Stats](https://img.shields.io/static/v1?label=streak&message=53&color=2347cc&style=flat-square) [![wakatime](https://wakatime.com/badge/user/175665bc-a6a0-4303-80ac-5a323cfb3ab4.svg?style=flat-square)](https://wakatime.com/@175665bc-a6a0-4303-80ac-5a323cfb3ab4)
+![](https://komarev.com/ghpvc/?username=Sigmanificient&color=2347cc&style=flat-square&label=views)![](https://hit.yhype.me/github/profile?user_id=53050011) ![GitHub Stats](https://img.shields.io/static/v1?label=commits&message=13958&color=2347cc&style=flat-square) ![GitHub Stats](https://img.shields.io/static/v1?label=prs&message=95&color=2347cc&style=flat-square) ![GitHub Stats](https://img.shields.io/static/v1?label=issues&message=71&color=2347cc&style=flat-square) ![GitHub Stats](https://img.shields.io/static/v1?label=streak&message=53&color=2347cc&style=flat-square) [![wakatime](https://wakatime.com/badge/user/175665bc-a6a0-4303-80ac-5a323cfb3ab4.svg?style=flat-square)](https://wakatime.com/@175665bc-a6a0-4303-80ac-5a323cfb3ab4)
 
 # <!-- Small line break, looking better than <hr/> -->
 
