@@ -7,6 +7,11 @@
 <br>
 <p align="center">
 
+<img src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//nix.svg" height="22px"/>
+<img src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//c.svg" height="22px"/>
+<img src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//makefile.svg" height="22px"/>
+<img src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//sqlite.svg" height="22px"/>
+<img src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//python.svg" height="22px"/>
 <img src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//html.svg" height="22px"/>
 <img src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//css_dark.svg" height="22px"/>
 <img src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//scss.svg" height="22px"/>
@@ -14,21 +19,19 @@
 <img src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//pug.svg" height="22px"/>
 <img src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//js.svg" height="22px"/>
 <img src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//php.svg" height="22px"/>
-<img src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//python.svg" height="22px"/>
 <img src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//vue.svg" height="22px"/>
 <img src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//flask.svg" height="22px"/>
-<img src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//sqlite.svg" height="22px"/>
+<img src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//jinja.svg" height="22px"/>
 <img src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//htaccess.svg" height="22px"/>
-<img src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//nix.svg" height="22px"/>
 <img src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//figma.svg" height="22px"/>
-<img src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//editorconfig.svg" height="22px"/>
 <img src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//codecov.svg" height="22px"/>
-<img src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//docker.svg" height="22px"/>
-<img src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//makefile.svg" height="22px"/>
 <img src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//nuxt.svg" height="22px"/>
-<img src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//pgsql.svg" height="22px"/>
-<img src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//c.svg" height="22px"/>
 <img src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//yarn.svg" height="22px"/>
+<img src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//lighthouse.svg" height="22px"/>
+<img src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//editorconfig.svg" height="22px"/>
+<img src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//git.svg" height="22px"/>
+<img src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//gnu.svg" height="22px"/>
+
 
 <br>
 
