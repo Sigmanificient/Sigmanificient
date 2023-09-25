@@ -7,6 +7,11 @@
 <br>
 <p align="center">
 
+&:nix
+&:c
+&:makefile
+&:sqlite
+&:python
 &:html
 &:css_dark
 &:scss
@@ -14,21 +19,19 @@
 &:pug
 &:js
 &:php
-&:python
 &:vue
 &:flask
-&:sqlite
+&:jinja
 &:htaccess
-&:nix
 &:figma
-&:editorconfig
 &:codecov
-&:docker
-&:makefile
 &:nuxt
-&:pgsql
-&:c
 &:yarn
+&:lighthouse
+&:editorconfig
+&:git
+&:gnu
+
 
 <br>
 
