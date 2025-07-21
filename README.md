@@ -45,7 +45,7 @@
 
 <img src="assets/svg/sigma.svg" align="right" width="280">
 
-I am a 22 yo French Epitech student learning 
+I am a 23 yo French Epitech student learning 
 [Full Stack](https://www.freecodecamp.org/news/what-is-a-full-stack-developer-back-end-front-end-full-stack-engineer/) 
 Web Development, and a [Pythonista](https://www.linkedin.com/pulse/what-pythonistas-aakash-padhiyar).
 I started coding at the age of 15 with the [Python programming language](https://www.python.org/), 
