@@ -63,7 +63,7 @@ projects.
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=Sigmanificient&color=2347cc&style=flat-square&label=views)![](https://hit.yhype.me/github/profile?user_id=53050011) ![GitHub Stats](https://img.shields.io/static/v1?label=commits&message=41355&color=2347cc&style=flat-square) ![GitHub Stats](https://img.shields.io/static/v1?label=prs&message=719&color=2347cc&style=flat-square) ![GitHub Stats](https://img.shields.io/static/v1?label=issues&message=185&color=2347cc&style=flat-square) ![GitHub Stats](https://img.shields.io/static/v1?label=streak&message=129&color=2347cc&style=flat-square) [![wakatime](https://wakatime.com/badge/user/175665bc-a6a0-4303-80ac-5a323cfb3ab4.svg?style=flat-square)](https://wakatime.com/@175665bc-a6a0-4303-80ac-5a323cfb3ab4)
+![](https://komarev.com/ghpvc/?username=Sigmanificient&color=2347cc&style=flat-square&label=views)![](https://hit.yhype.me/github/profile?user_id=53050011) ![GitHub Stats](https://img.shields.io/static/v1?label=commits&message=41467&color=2347cc&style=flat-square) ![GitHub Stats](https://img.shields.io/static/v1?label=prs&message=726&color=2347cc&style=flat-square) ![GitHub Stats](https://img.shields.io/static/v1?label=issues&message=185&color=2347cc&style=flat-square) ![GitHub Stats](https://img.shields.io/static/v1?label=streak&message=115&color=2347cc&style=flat-square) [![wakatime](https://wakatime.com/badge/user/175665bc-a6a0-4303-80ac-5a323cfb3ab4.svg?style=flat-square)](https://wakatime.com/@175665bc-a6a0-4303-80ac-5a323cfb3ab4)
 
 # <!-- Small line break, looking better than <hr/> -->
 
@@ -77,7 +77,7 @@ projects.
 I dedicate a part of my time to helping beginners find a way in the wild world 
 of programming, or other developers to learn new skills. 
 As such I am very proud of the work my friends [@drawbu](https://github.com/drawbu/),
-[@vedsaga](https://github.com/Vedsaga/), [@VictorBetsch](https://github.com/VictorBetsch),
+[@vedsaga](https://github.com/Vedsaga/), [@vbetsch](https://github.com/vbetsch),
 ..., have been able to do with our hours of knowledge sharing.
 
 I studied for 2 years at Fulbert’s high school, where I learn the fundamentals 
