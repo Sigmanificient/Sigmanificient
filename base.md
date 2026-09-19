@@ -7,31 +7,28 @@
 <br>
 <p align="center">
 
-&:nix
 &:c
-&:makefile
-&:sqlite
+&:cpp
 &:python
-&:html
-&:css_dark
+&:nix
+&:makefile
+&:platformio
+&:docker
+&:cmake
+&:astro
+&:react
+&:typeScript
 &:scss
-&:stylus
-&:pug
-&:js
+&:json
 &:php
-&:vue
 &:flask
 &:jinja
-&:htaccess
-&:figma
-&:codecov
-&:nuxt
-&:yarn
-&:lighthouse
-&:editorconfig
-&:git
-&:gnu
-
+&:sqlite
+&:java
+&:haskell
+&:elm
+&:qt
+&:tex
 
 <br>
 

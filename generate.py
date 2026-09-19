@@ -49,7 +49,7 @@ def fetch_metrics_data() -> dict[str, str]:
 def generate_icons(text: str) -> str:
     return re.sub(
         ICON_MATCH,
-        rf'<img src="{ICON_URL}\1.svg" height="22px"/>',
+        rf'<img src="{ICON_URL}\1.svg" width="24px" height="24px"/>',
         text,
     )
 
