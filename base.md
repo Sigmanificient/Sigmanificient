@@ -89,7 +89,7 @@ to become an IT experts and master the field of computer science. Here, I will
 learn me the C programming language to strengthen my low-level knowledge and 
 make various projects to thoroughly improve my coding skills.
 
-One of my biggest, yet personal project is [Pincer](https://pincer.dev), a 
+One of my biggest, yet personal project is [Pincer](https://pincer.dev), a
 library I created in 2022 to learn more about [websockets](https://en.wikipedia.org/wiki/WebSocket)
 and [Discord API](https://discord.dev) that has received contributions from 
 [amazing people](https://github.com/Pincer-org/Pincer/graphs/contributors). 
